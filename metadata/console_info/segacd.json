@@ -1,0 +1,8 @@
+{
+  "displayName": "Sega CD",
+  "manufacturer": "SEGA",
+  "type": "Console",
+  "yearStart": "1991",
+  "yearEnd": "1996",
+  "mediaFormat": "CD-ROM"
+}

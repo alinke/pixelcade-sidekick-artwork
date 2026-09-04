@@ -1,0 +1,8 @@
+{
+  "displayName": "NES",
+  "manufacturer": "Nintendo",
+  "type": "Console",
+  "yearStart": "1983",
+  "yearEnd": "1995",
+  "mediaFormat": "Cartridge"
+}
