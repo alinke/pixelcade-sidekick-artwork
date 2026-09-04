@@ -1735,6 +1735,937 @@
       "publisher": "Activision",
       "players": 2,
       "rating": "8"
+    },
+    {
+      "id": "Reactor (USA)",
+      "description": "Reactor is a conversion of the arcade game. You control a space ship inside a nuclear reactor which you are trying to stop from melting down! The reactor core at the center of the screen is surrounded by a deadly kill wall. Roaming throughout the available space are positrons, neutrinos, and photons, all of which will be trying to knock your ship into the wall. To survive you will need to knock all of these attacking particles into the kill wall to destroy them. As each level progresses, the reactor core will slowly grow in size, making less and less room to maneuver in. Eventually the reactor core will melt down; to prevent this, you need to destroy all of the particles before time runs out! To help out, you start the game with a limited number of decoys. When a decoy is placed on the screen, all of the particles will be attracted to it instead of your ship. If you place the decoy close enough to the kill wall, this will make it easier to destroy the particles. Also inside the reactor are two sets of control rods (located on the left and right sides of the screen); If you destroy an entire set of rods by knocking the particles into them, the reactor core will shrink down in size, giving you more time for your battle. If you destroy both sets of rods, you earn an extra decoy.",
+      "name": "Reactor",
+      "year": "1983",
+      "publisher": "Parker Brothers",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "RealSports Baseball (USA)",
+      "description": "Baseball is an action game which can be played by two players or one player against the computer. The game allows you to bunt the ball or try for a homerun, steal bases, and throw several types of pitches from a fast ball to a curve ball. Several game variations are included which allow you to select whether the home or visiting team is at bat first, and whether or not a player can swing only at pitches that are a strike, or they can swing at any pitch.",
+      "name": "Realsports Baseball",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Sports / Baseball",
+      "players": 2,
+      "rating": "8"
+    },
+    {
+      "id": "RealSports Basketball (USA) (Proto)",
+      "description": "This is regulation basketball with some exceptions. There are no three-point shots, no foul-line shots, no time outs, no penalties, no shot clock and neither the player nor the ball can go out of bounds.\n\nYou control two players in tandem. You pass balls between each other by pressing the button and pushing the joystick towards the other player. You shoot the same way but by pressing the joystick towards the basket. To steal the ball, just touch the opposing player who has the ball. Simply try to get more baskets than your opponents before the time runs out. Each game is divided into four quarters. After all four quarters are done, the game is over.",
+      "name": "Realsports Basketball",
+      "year": "1982",
+      "publisher": "CGE Services",
+      "genre": "Sports / Basketball",
+      "players": 2
+    },
+    {
+      "id": "RealSports Boxing (USA)",
+      "description": "Released later in the life of Atari's industry-shaping 2600 console, RealSports Boxing puts the player in the role of an up-and-coming boxer. Enter the squared circle to face off against a friend or a computer-controlled opponent. Throw quick jabs and hard body blows until there's only one man left standing.\r\n\r\nWatch out for Lefty O'Leary's brutal technique. Beware Jabbin' Jack's lightning quickness. Players pummel their way up the ladder, each victory leading to a more challenging adversary, until their boxer makes it to the top. Proven pugilists can then defend the coveted championship against a slew of fierce contenders.",
+      "name": "Realsports Boxing",
+      "year": "1987",
+      "publisher": "Atari",
+      "genre": "Sports / Boxing",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "RealSports Football (USA)",
+      "description": "RealSports Football is a one or two-player football simulation played on a horizontal scrolling field, with five players on each team. As in real football, the goal is to march down a 100-yard field using a combination of passing and running plays. There are three ways to score: crossing the defensive team's goal line is a touchdown worth seven points, kicking the ball through the defense's goal post is a field goal worth three points, and tackling the ball carrier inside the end zone is a safety worth two points.",
+      "name": "Realsports Football",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Sports / Football (American)",
+      "players": 2,
+      "rating": "8"
+    },
+    {
+      "id": "RealSports Soccer (USA)",
+      "description": "The game is played from an angled overhead point of view of the field which scrolls to follow the action. If your team has the ball, you control whichever player is currently dribbling the ball, otherwise you can control any one player at a time while the computer controls the rest of your team. Various time lengths can be selected for each game, you can kick the ball low, medium or high, and there are throw-ins, corner kicks, goal kicks. When playing against the computer several different skill levels are available.",
+      "name": "Realsports Soccer",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Sports / Football (Soccer)",
+      "players": 2,
+      "rating": "6"
+    },
+    {
+      "id": "RealSports Tennis (USA)",
+      "description": "Realsports Tennis is a tennis game for two players or one player against the computer. The game follows standard tennis rules, and allows you to hit forehand or backhand shots to all areas of the court as well as serves and lobs. You can play a game of singles or doubles, and multiple skill levels are included.",
+      "name": "Realsports Tennis",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Sports / Tennis",
+      "players": 2,
+      "rating": "11"
+    },
+    {
+      "id": "RealSports Volleyball (USA)",
+      "description": "Volleyball is an action game which can be played by one or two players. The game follows traditional volleyball rules; the first team to score 15 points wins! You control both players on the team, which have the ability to serve, set, spike, and block. There are several game variations included; two game difficulties and two player speeds.  In the easier version of the game, the ball will automatically be sent back over the net when hit. In the advanced version, the game also allows you to set the ball between teammates. In either version of the game with either one or two players, the speed at which the players run can be set to either fast or slow for an extra challenge or to handicap one team.",
+      "name": "Realsports Volleyball",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Sports / Volleyball",
+      "players": 2
+    },
+    {
+      "id": "Return to Haunted House (USA)",
+      "description": "Hidden throughout a haunted mansion are three pieces of a magical urn, and your goal is to enter the mansion and retrieve all three before you lose your nine lives! The game is played from an overhead point of view where you see only your eyeballs as you explore the  four floors of the maze-like mansion. To make your mission even more difficult, there are various creatures wandering throughout. Tarantulas, giant vampire bats, and one fast moving ghost will all cause you to lose a life if encountered too closely. As a defense against the creatures, a magical scepter can be found in the mansion which will make you immune to its inhabitants.\n\nThe mansion contains many doors, some of which may be locked; to explore all the rooms, you will first need to find the master key which is hidden somewhere. The mansion is very dark, and you will not be able to see any of the objects in it (and in more difficult game variations, you can't see the walls either). To reveal objects and the mansion walls, you need to light one of your unlimited supply of matches which will light up a small area around you. Don't be surprised if a swift wind or passing creature blow out your match, though!\n\nYou are only allowed to carry one object at a time so you will need to create a strategy for exploring the mansion; to unlock a door or move a piece of the urn, you will need to put down the scepter so be careful! You win the game when all three pieces of the urn are assembled and you make it out of the mansion. The game keeps track of how many matches you have used on your mission, and the fewer matches the better the score!",
+      "name": "Haunted House",
+      "year": "1981",
+      "publisher": "Atari",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Riddle of the Sphinx (USA)",
+      "description": "As the Pharoh's Son,  it is up to the player to lift the curse of Anubis, God of the Dead, by reaching the Temple of Ra, and solving the riddle of the Sphinx.\n\nArmed with a sling and a pile of rocks, the Prince must navigate past thieves and scorpions on his journey.  He can trade with wandering nomads, dig for buried treasure, make offerings to the gods, or seek counsel and healing with Isis, the goddess of fertility and motherhood.\n\nGreat care must be exercised in his journey, for the Prince can weaken from thirst, which can be be replenished at an oasis or from certain treasures.  He will also sustain wounds from the hostile creatures of the land, including Anubis himself.\n\nOnce the Prince visits the various temples of the desert and makes his offerings, he must choose to make the correct offering (or offerings) to the Temple of Ra.  Choose wisely, and the Prince is rewarded.  Choose poorly, and the Prince loses inner strength points, and Egypt remains cursed.",
+      "name": "Riddle Of The Sphinx",
+      "year": "1982",
+      "publisher": "Imagic",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "River Raid (USA)",
+      "description": "River Raid is a vertically scrolling action game. You fly a jet up a river in an attempt to destroy bridges which are vital to the enemy. The river is heavily guarded, however, with balloons, ships, choppers, and enemy aircraft trying to stop you. Along the way you will need to fly over fuel stations to refuel your jet and keep flying.\n\nThe plane is armed with a cannon with unlimited ammo. It can be used to destroy the enemy vehicles and bridges, but a careless player can accidentally destroy a fuel station. Colliding with the riverbanks or with the enemy aircraft destroys your plane and makes you lose a life.",
+      "name": "River Raid",
+      "year": "1982",
+      "publisher": "Activision",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "River Raid II (USA)",
+      "description": "You're the pilot of an F-14 assault jet, assigned to the dangerous mission of taking out an enemy bridge at the top of a heavily guarded river. In River Raid II, the gameplay is similar to the original River Raid, but with a few additions. For each mission you start out on an aircraft carrier. After a successful takeoff, you need to get past enemy forces located over the ocean which guard the entrance to the river. Make sure to collect plenty of fuel from the refueling jets, since once you reach the river fuel will become scarce! Next you will have to make your way up the treacherous river channel until you finally reach, and hopefully destroy, the bridge. But the level isn't over yet, for now  you have to return to the aircraft carrier and land safely. After completing all of this, you move on to the next, more challenging level. In addition to the expanded levels, another change in River Raid II is the ability to control the altitude of your plane. You can fly high above everything, or fly low into the channel to take out enemy tanks and barges.",
+      "name": "River Raid 2",
+      "year": "1988",
+      "publisher": "Activision",
+      "players": 2,
+      "rating": "9"
+    },
+    {
+      "id": "Road Runner (USA)",
+      "description": "This game is based on an arcade game that was released by Atari.\n\nYou play the Road Runner. You must run along the road, avoiding trucks, landmines, falling rocks, etc. and also not get caught by Wile E. Coyote. You must also eat birdseed along the way or you will become faint and Wile E. will catch you.\n\nYou can get points for eating birdseed and making Wile E. get hit by trucks, falling rocks, etc.\n\nThe Amstrad CPC, Commodore 64 and ZX Spectrum versions are one player only. The Atari 2600 version is one or two player, alternating. The Atari 2600 version also has another difference in that you don't HAVE to eat the birdseed but you can for the points. This may have been due to programming constraints on the Atari 2600.",
+      "name": "Road Runner",
+      "year": "1989",
+      "publisher": "Atari",
+      "genre": "Racing, Driving",
+      "players": 2,
+      "rating": "17"
+    },
+    {
+      "id": "Robot Tank (USA)",
+      "description": "There are numerous enemy tanks crossing the countryside, destroying everything in their path! Your job is to command a robot tank to stop them. Robot Tank is a first person perspective arcade style action game. There are twelve squadrons of tanks to destroy, each containing twelve tanks. Each time you destroy a complete squadron, you earn an extra reserve tank before moving on to the next, more difficult squadron. The game takes place twenty four hours a day; gameplay will alternate from early morning to mid afternoon to late at night. In addition to the constantly changing time of day, the weather can also change unexpectedly. Snow, rain, and fog will appear occasionally making it tougher to spot your targets. Luckily your tank is equipped with radar to help locate the enemy when visibility is poor. As your tank takes damage you will lose some capabilites, such as speed, the radar, or your canons. If your tank takes too much damage, it will be destroyed; the game ends when all of your reserve tanks are gone.",
+      "name": "Robot Tank",
+      "year": "1983",
+      "publisher": "Activision",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Roc 'n Rope (USA)",
+      "description": "Your player is a mountain climber who must avoid cavemen, dinosaurs and pterodactyls as he climbs up the cliff-sides. Your goal in each level is to climb up and reach a mystical bird with great plumage, while staying one step above the bonus timer which determines how long you may stay on each level. The mountain climber has only one ability; to shoot rope at 45 degree angles which he may then climb up to other platforms. His other action is a stun beam which will allow him to walk past enemies who get too close; but will only work horizontally from him. As for power-ups, on each level is (usually 2) a flashing diamond power-up which will make him invincible and allow him to defeat monsters. Also as a power-up are glowing treasures of some kind which are worth extra points. \n\nYour player also cannot take a fall, except for extremely small ones unless he is able to climb down vines. This means that when you shoot your rope and are climbing it, you are vulnerable. Even more so because enemies are allowed to \u0026quot;shake\u0026quot; the rope until you fall off if they reach the base of the rope. Pterodactyls fly overhead and drop eggs on the player.\n\nThere are 4 distinct levels; the cliff-side, the windmill, the waterfall and the peak. Completing all of these levels will restart the game with faster enemies and power-ups located in different places.",
+      "name": "Roc 'n Rope",
+      "year": "1984",
+      "publisher": "Coleco Industries",
+      "genre": "Platform / Run \u0026 Jump",
+      "players": 2,
+      "rating": "8"
+    },
+    {
+      "id": "Rubik's Cube 3-D (USA) (Proto)",
+      "description": "Help Marvin the Cube Master solve the magical Rubik's cube. He picks up and drops colors at your command - and you have billions of possible combinations! Rubik's Cube is fast paced fun for the whole family.",
+      "name": "Rubik's Cube 3d",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Puzzle",
+      "players": 1
+    },
+    {
+      "id": "Saboteur (USA) (Proto)",
+      "description": "You are Hotot, a cybernetic life form from a serene planet in a distant galaxy. Unfortunately, even in a galaxy far far away not everything is as peaceful as it first seems, for Hotot has discovered an alien missile base hidden on his planet. Manned by strange blue aliens, these evil intruders are using your planet as a launching site for their deadly warhead which is posed to destroy the galaxy's power source. With the help of the birdlike Gorfons, you must destroy the warhead, and prevent the destruction of the galaxy! Good luck Hotot. You are the Saboteur.\n\nOn the first screen, you are trying to prevent the Qotile construction robots and Yar slaves from completing a missile. You will be helped by the Gorfrons. While the Qotile construction robots and Yar slaves will build up the missile, the Gorfrons will steal pieces to lower it. Beware of the Master robot on the top catwalk as it will try to shoot you and the Gorfrons to prevent your interference. After you finish the Rocket Construction Site, it is off to Warhead Assembly.\n\nIn Warhead Assembly, you must destroy the warhead parts on the conveyor belt. There is just one little problem; the conveyor belt is protected by a field. The good news is that the Master robot's energy is on the same frequency so what you do is shoot the Master robot and the shot will then head for the conveyor belt. Of course, the Master robot isn't just standing there, letting you bounce shots off him. He has released a security drone that bounces around the screen trying to hit you.Also, the Master robot will hurt you if you touch him. If you destroy the parts before time runs out, you will advance to a harder round. If not, you must destroy the warhead one-on-one.\n\nIn the Warhead Showdown, you must destroy the warhead with a shot. Of course, the warhead isn't gonna stand for that as it has an impressive defense matrix that will try to hold you off. If you take to log to destroy the warhead, it will escape into space. Whether you destroy it or not, you will then return to the Rocket Construction Site at a harder level.",
+      "name": "Saboteur",
+      "year": "1983",
+      "publisher": "AtariAge",
+      "players": 1
+    },
+    {
+      "id": "Save Mary! (USA) (Proto)",
+      "description": "Save Mary! was one of those 2600 revival titles that should have been released but was ultimately lost when Atari closed its Atari 2600 operations in 1990.  Save Mary! may have been in development longer than any other Atari 2600 game (over two years according to some sources).  One reason for this was Atari management constantly making changes to an already complex game, but another reason for the long development cycle was that programmer Tod Frye (of Pac-Man fame) may only have been working part time for Atari at the time and was also working on another unreleased 2600 game Shooting Arcade.  No matter what the reasons were it's a shame Save Mary! never got released, as it's a fun and highly original game.\r\nThe game title says it all, the goal of the game is to \u0026quot;Save Mary!\u0026quot;.  Apparently Mary is a rather stupid girl who has somehow got herself stuck in a canyon that's rapidly filling with water (don't you hate it when that happens?)  Using only a crane and several odd shaped blocks you must build a platform for Mary to climb onto and make it high enough so you can hoist her out with the crane.  However your task is made more difficult due to the shape of the blocks (otherwise it wouldn't be much of a game would it?).  Not all the blocks come in nice little squares, each level has its own unique set of blocks which require clever planning to successfully link them together into a platform for Mary.\r\nFurther complicating things is that Mary appears to have started panicking and will run back and forth around the platform.  Remember that Mary is human (despite the gaping hole in her head!), and like most humans she doesn't take kindly to being squished with blocks (or having them swung into her).  Take special care when dropping blocks not to hit Mary or it's game over.  Also be sure to watch out for the low flying airplane that appears on the higher levels (yes I said Airplane).  If the plane hits your crane you will automatically drop the block you're carrying (possibly squishing Mary).\r\nThankfully there are several power-ups to help you accomplish your task.  Power-ups appear on the cliff sides and require that you pick them up and drop them off at the top of the canyon to activate them.  These power-ups do a wide variety of things:\r\n\r\nThe Plug - Stops the water from rising for a few seconds\r\nStop Sign - Makes Mary stop hopping around like an idiot (very handy)\r\nOil Can - Makes your crane move faster\r\nGold Block - Makes Mary invincible to being squished by falling blocks\r\nNumber - Gives you bonus points\r\nMary Figure - Gives you extra life\r\n\r\nSave Mary! tends to get tough fast if you don't learn how to make the most of the power-ups, and can quickly get out of control if you don't have a plan for how to stack the blocks.  Strategy and planning are the keys to winning Save Mary!, but taking too long will result in one waterlogged corpse.  Overall Save Mary! is a Tetris variant with enough variety to keep gamers coming back for more.  Atari had a winner on its hands, as Save Mary! was a game that could have made Atari owners say Wow!  Unfortunately the age of the 2600 was over and brilliant efforts like this ultimately came too late to save the dying system.  On an interesting side note Nolan Bushnell himself is quoted as saying that Save Mary! was one of his favorite upcoming Atari 2600 releases.  One would think that with this kind of endorsement Save Mary! would have seen the light of day.",
+      "name": "Save Mary!",
+      "year": "1989",
+      "publisher": "Atari",
+      "players": 1
+    },
+    {
+      "id": "Seaquest (USA)",
+      "description": "Your divers are out in the ocean collecting treasure; now that they have found what they're looking for, you need to pilot a submarine and return them safely to the surface! You can carry up to six divers at a time, and when you safely return the six divers to the surface, you move on to the next, faster level. Your sub has a limited supply of oxygen; if your oxygen meter gets too low, you will need to surface to replenish the oxygen supply. If you surface with less than six divers, you lose one of the divers. If you surface with no divers at all, then your sub will explode. To make your task more challenging, numerous giant sharks and enemy submarines travel throughout the waters and can destroy your sub on contact. To help out with these enemies, you have an unlimited supply of torpedoes which can be fired to destroy both the sharks and subs. As the levels progress, the game gets faster and more enemies appear at a time.",
+      "name": "Seaquest",
+      "year": "1983",
+      "publisher": "Activision",
+      "genre": "Shoot'em Up",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Secret Quest (USA)",
+      "description": "It started with one station, then three, then eight. If something isn't done, the aliens will overrun Earth. It is up to you to destroy the stations by setting their self destructs.\n\nYou move from room to room, fighting any enemies you encounter. When you beat an enemy, you get an energy pod or oxygen bottle. Fighting aliens depletes you energy and/or oxygen so kill quickly. You also use oxygen at the rate of one bottle per minute while exploring.\n\nAlong the way, you will sometimes find sonic keys, and energy sword, sonic blaster or particle beam. Sonic keys are needed for certain doors you encounter in later stations.\n\nOnce you set the self destruct code, a clock starts and you must make it to the teleporter before the time runs out. The game ends when you destroy all eight stations, run out of oxygen or do not get off a station before it self destructs. If you run out of energy, the game does not end but you will not be able to use any weapon so you can't kill monsters so you can't replenish oxygen. Hence, the game won't go long if you run out of energy.\n\nWeapon energy use and damage\nEnergy sword=1 energy and 2 strength\nSonic blaster=2 energy and 4 strength\nParticle beam=4 energy and 8 strength.\n\nScoring\nBear trap=50 points\nPotato Man=100 points\nChopper=150 points\nMachine=200 points\nFloater=250 points\nSpinner=350 points\nMedusa=400 points\nSquid=500 points\nStomper=550 points\nGhost=600 points\nFirecracker=650 points\nSnake=700 points\nDragon=750 points",
+      "name": "Secret Quest",
+      "year": "1989",
+      "publisher": "Atari",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Sentinel (USA)",
+      "description": "Sentinel is a side scrolling action game. Several worlds have fallen victim of an alien attack, and you need to free them. To do this, a glowing orb called the Sentinel has been sent which can absorb the alien energy. As the Sentinel floats above the various, scrolling landscapes, you need to protect it from attacks by using the light gun to destroy enemies and enemy fire. If you don't destroy an enemy, it will deplete the Sentinels energy supply which will eventually destroy it. There are four levels of increasing difficulty, each with a large boss at the end. To help out on your mission, several bonuses may be encountered from time to time; increased firepower and energy can be acquired when you shoot the bonus capsules that appear. Three levels of difficulty are available.",
+      "name": "Sentinel",
+      "year": "1990",
+      "publisher": "Atari",
+      "players": 1
+    },
+    {
+      "id": "Shooting Arcade (USA) (Proto)",
+      "description": "Shooting Arcade is one of only two 2600 games to use the light gun (Sentinel was the other), but was never released.  This is a shame because Shooting Arcade is a creative light gun target game similar to the Point Blank series, and would have been unique among 2600 games.  Interestingly it appears that Shooting Arcade was not developed in the US, but rather in Mexico by a company called Heuristica.  How Axlon was invovled is unknown, but they may have simply sub-contracted the game out to Heuristica instead of doing it themselves.\r\nShooting Arcade is really made up of six different scenes that are put together in different orders depending on the level you've selected.  Each scene has its own unique theme, rules, and objective, making Shooting Arcade essentially six games in one.  Depending on which skill level you choose, the scene's attributes change to make it more or less difficult and the timer at the bottom of the screen counts down more or less quickly.  The status bar at the top of the screen shows the number of shots you have left, your current difficulty level, and the number of targets left.  You start each level out with a limited amount of ammunition depending on the difficulty level (40, 10, 5, 2, or 1).  You can continue from the last screen you completed an infinite amount of times by simply pressing the reset button.  This is a handy feature as the game get very hard at the later levels...\r\nThe six scenes are:\r\nColored Squares - Here you must shoot out all the colored squares before the timer runs out.  Starting on level 1 if you shoot and empty area where a square would be, a new square appear and you'll have to shoot it again!  On level 4 the squares will all disappear after you take your first shot, and you must memorize where all the squares were before you start.  The squares can briefly be seen when you take a shot which helps a bit, but they will reappear if you shoot the same area twice (as in level 1).  Every square you successfully hit will give you two extra shots.\r\nShooting Gallery - This scene is reminiscent of Imagic's Shooting Gallery cartridge.  Here you must shoot various carnival targets such as glass pipes, ducks, milk jugs, colored squares, and dinosaurs?  The targets in the center area move at a fair clip (depending on the difficulty level) and the pipes at the top can be very difficult to hit making this scene one of the toughest in the game.  Speaking of squares, you can shoot the colored squares at the bottom of the screen to gain extra ammo if you're in need.  To clear this scene you must successfully shoot all the targets.\r\nThe Birds - This scene is only accessible from level 2 onward.  In this scene you must shoot all the black and white birds before the timer runs out.  The birds move with a up and down motion, but follow a specific path around the screen so you can predict where they will move.  The background will change from black to white during the course of the scene effectively camouflaging the birds making them even more difficult to hit.\r\nTarget Practice - This scene is one of the hardest to complete, since you begin with almost no ammo and the timer counts down lightning fast.  The concept of this scene is quite simple, you must shoot the various birds which fly around the screen.  Unlike the previous scene, these birds only appear one at a time and they move very very fast.  The birds will wrap around from one side of the screen to the other, so you can try and anticipate where it will appear next.  This scene is only accessible from level 3 onward.\r\nThe Demon - This scene is damn tough!  You must shoot a demon who randomly teleports around the screen.  Since this scene is only accessible on skill level 4 you start low on ammo and have almost no time.  If you shoot the demon enough times you will move onto the final scene.\r\nThe Unicycle - This is the final scene in the game.  Here you must shoot the unicycle out from underneath a poor clown and watch him fall to his death (ok so I made the last part up).  Since the unicycle is very thin and moves at a surprisingly fast clip, this scene is nearly impossible to beat.  Like the demon scene, this scene is only accessible on level 4.\r\nSo why wasn't shooting arcade released?  No one knows the true reason, but one possibility is the horrid controls.  The light gun aim is so off it makes it almost impossible to hit something by aiming directly at it.  If your lucky enough to actually hit something, it's almost a guarantee that you'll never be able to hit it again as the shooting code is so buggy that shooting at the same spot three times in a row will result in hitting three completely different areas of the screen.  This problem is really the death nail for Shooting Arcade, and ruins what could have otherwise been an awesome game. If you can get over the flawed targeting system, Shooting Arcade can be really fun.  It's interesting to see just how much programmers could squeeze out of the ancient 2600.",
+      "name": "Shooting Arcade",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Lightgun Shooter",
+      "players": 1
+    },
+    {
+      "id": "Sinistar (USA) (Proto)",
+      "description": "An unreleased prototype of the classic arcade title.\n\nThe player pilots a lone spacecraft, and must create \u0026quot;Sinibombs\u0026quot; by shooting at drifting planetoids and catching the crystals that are thereby released. Sinibombs are needed to defeat the game boss, Sinistar, an animated spacecraft with a demonic skull face. Sinistar does not exist at the start of the game, and is continuously under construction by enemy worker ships. Though time is crucial, attempting to mine too quickly will destroy a planetoid without releasing any crystals. At the same time, enemy worker ships are also gathering crystals (often stealing them from the player) which they use to construct the Sinistar. Meanwhile, enemy warrior ships can also directly attack the player's ship. The player is given a head-start before the enemy ships have enough crystals to begin construction. Game ends when the player's ships are all destroyed.",
+      "name": "Sinistar",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Shoot'em Up",
+      "players": 1
+    },
+    {
+      "id": "Skiing (USA)",
+      "description": "In Skiing, your goal is to ski to the bottom of the mountain in the shortest time possible. The mountain is treacherous with plenty of trees and moguls in the way! There are two different modes of gameplay. In slalom mode, there are a series of gates you need to ski through; missing any will result in a penalty to your time. In downhill mode you just need to ski to the bottom as fast as possible. Each mode includes five different skill levels which affect the length of the course (and the number of gates in slalom mode.)",
+      "name": "Skiing",
+      "year": "1988",
+      "publisher": "Activision",
+      "genre": "Sports / Skiing",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Sky Jinks (USA)",
+      "description": "Fly slalom around pylons (right of the red ones, left of the blue ones). Avoid skipping a pylon, hitting the pylons, trees or hot-air balloons. Try to get the best time you can. If you fly to the wrong side of a pylon, you will get a three second penalty for each missed pylon. The total number of pylons remaining is at the top of the screen above the time. If you hit a tree, pylon or balloon your plane will crash to the ground. You will not die but this will hurt your time as your plane has to take off again. Hitting a pylon will not hurt your pylon count. You will still get credit for the pylon but will lose time as your plane was slowed. You can press the fire button to throttle up or release to throttle down. Move the joystick left or right to turn. You bank into turns so you need to time turns as it is not instant. Up and down on the joystick do nothing.",
+      "name": "Sky Jinks",
+      "year": "1982",
+      "publisher": "Activision",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Slot Machine (USA)",
+      "description": "Slot Machine is an electronic slot machine simulation for one or two players. Players start with twenty five coins, and can bet up to five coins on each turn. The game ends when one of the players goes broke. There are two different slot machines, and several game variations are available which affect the level of difficulty.",
+      "name": "Slot Machine",
+      "year": "1988",
+      "publisher": "Atari",
+      "genre": "Casino / Slot machine",
+      "players": 2,
+      "rating": "6"
+    },
+    {
+      "id": "Slot Racers (USA)",
+      "description": "The goal of this two-players console game is to move your vehicle in a maze so you can shoot missiles at your opponent without getting shot at. \n\nThe games features four different mazes to choose from, each faster than the last. Another feature lets you decide to make the missiles faster or slower than the car. The difficulty switch determines whether you can shoot a missile while one of your own is still on the screen. Otherwise, your missile has to hit the enemy or be retrieved by your vehicle before you can launch another one.\n\nYou steer your car with a joystick. Each time you hit your enemy with a missile, you get a point. The fist player to get 25 points is the winner.",
+      "name": "Slot Racers",
+      "year": "1988",
+      "publisher": "Atari",
+      "genre": "Action / Labyrinth",
+      "rating": "10"
+    },
+    {
+      "id": "Solar Fox (USA)",
+      "description": "In Solar Fox, your mission is to guide a space ship though a solar cell matrix and collect as many of the solar cells as you can. When all of the cells in a matrix have been collected, you move on to the next round. Each matrix is guarded by two sentinels trying to stop you. The sentinels wander around the perimeter of the matrix, and will shoot fireballs at your spaceship which can destroy it. You are unarmed, so your only defense against the fireballs is to avoid them. To help you out a bit, your ship is capable of flying at two different speeds. Each round begins with a 'skip-a-rack' timer; if you collect all solar cells before this timer runs out, you will earn bonus points and skip ahead a level. The game ends when you have lost all of your space ships.",
+      "name": "Solar Fox",
+      "year": "1983",
+      "publisher": "CBS Software",
+      "players": 2,
+      "rating": "20"
+    },
+    {
+      "id": "Solar Storm (USA)",
+      "description": "Solar Storm is an arcade style action game where you control a spaceship to defend your home planet. Deadly Deltoid ships will be flying in trying to destroy your planet; in addition to this danger, a far off sun has exploded sending debris towards you. Your job is to shoot everything that is heading your way before it reaches your planet (the bottom of the screen). Each time an enemy ship or some debris makes it past you, your planets shield absorbs the energy and heats up; if it overheats, it will be destroyed and the game ends. If your laser ship crashes into any incoming danger, you lose a life (the game also ends if all lives are lost). Every 500 points there is a bonus screen where you have a chance to earn more lives. The longer you last, the faster the game will become.",
+      "name": "Solar Storm",
+      "year": "1983",
+      "publisher": "Imagic",
+      "players": 2,
+      "rating": "10"
+    },
+    {
+      "id": "Solaris (USA)",
+      "description": "The Zylons are back, and are attempting another takeover of the galaxy! Your goal is to destroy all of the Zylon fighters you encounter, rescue cadets that are trapped on Zylon planets, and to find the planet Solaris to protect it from the Zylons. Your spaceship is equipped with a galactic map which can be used to warp to different sectors of the galaxy. The map shows the location of Zylon squadrons, Zylon planets, federation starbases, wormholes, clusters of stars, and Solaris when you find it. By warping to the correct sector, you can battle the numerous types of Zylon fighters to keep them from attacking federation bases and planets. Your spaceship has a limited amount of fuel; when you see the fuel gage get too low, you will need to warp to a federation starbase to refuel (make sure you leave enough fuel to warp). When flying over a Zylon controlled planet, you will see your cadets on the surface. If you rescue all of the cadets as you fly past, you will receive bonus points and an extra spaceship. The Zylon's have many different types of fighters which you will encounter, as well as some narrow corridors with blockades which you will need to clear in order to reach new locations in the galaxy.",
+      "name": "Solaris",
+      "year": "1986",
+      "publisher": "Atari",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Space Invaders (USA) (alt)",
+      "description": "Earth is under attack from rows of bomb dropping aliens, and you need to defend it! The rows of aliens begin at the top of the screen, and you control a laser cannon at the bottom of the screen. Your goal is to earn points by shooting the aliens before they can land. The aliens march back and forth, and each time the end of the screen is reached they will drop one row closer to the bottom. Shoot them all, and you move on to the next (tougher) level, but if even one of them lands the game is over. From time to time a flying saucer will pass by along the top of the screen; shoot this to earn extra points. Just above your laser canon are three shields; these can be used to hide from the alien's bombs, but will also block your own shots. You begin the game with a limited number of laser canons, and if all of them are bombed the game ends.",
+      "name": "Space Invaders",
+      "year": "1980",
+      "publisher": "Atari",
+      "genre": "Shooter / Space Invaders Like",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Space Invaders (USA)",
+      "description": "Earth is under attack from rows of bomb dropping aliens, and you need to defend it! The rows of aliens begin at the top of the screen, and you control a laser cannon at the bottom of the screen. Your goal is to earn points by shooting the aliens before they can land. The aliens march back and forth, and each time the end of the screen is reached they will drop one row closer to the bottom. Shoot them all, and you move on to the next (tougher) level, but if even one of them lands the game is over. From time to time a flying saucer will pass by along the top of the screen; shoot this to earn extra points. Just above your laser canon are three shields; these can be used to hide from the alien's bombs, but will also block your own shots. You begin the game with a limited number of laser canons, and if all of them are bombed the game ends.",
+      "name": "Space Invaders",
+      "year": "1980",
+      "publisher": "Atari",
+      "genre": "Shooter / Space Invaders Like",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Space Shuttle - A Journey Into Space (USA)",
+      "description": "Space Shuttle is a simulation game where you are the pilot of space shuttle Discovery. Your goal is to launch the Discovery, establish an orbit around the Earth, open the cargo bay doors and recover a satellite to perform repairs, and finally land the Discovery successfully, all while using as little fuel as possible. Each time the complete mission is accomplished, it will then repeat at a higher difficulty level (in the higher difficulty levels the satellite has a more erratic flight path). The game is played from a first person perspective in the space shuttle cockpit where you can control everything from the shuttles engines to cargo bay doors. When the game is over you will be given a ranking which is based on the number of successful dockings and the amount of fuel that was used. In addition to the full flight mode, two easier game variations (autosimulator and simulator mode) are included. The autosimulator mode is the easiest; the computer will control the flight (you can take over at any point you wish) and the controls are simplified. The simulation mode is closer to the full game, however you have an unlimited amount of fuel so there is no time pressure, and the computer will help compensate for inaccurate maneuvering.",
+      "name": "Space Shuttle - A Journey Into Space",
+      "year": "1983",
+      "publisher": "Activision",
+      "genre": "Simulation / Vehicle",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Space War (USA)",
+      "description": "Space War for the Atari 2600 was among the first home adaptations of the classic mainframe game Spacewar!.\r\n\r\nThe cartridge includes two different game modes: Space War and Space Shuttle. Space War is the classic one-on-one game of dueling spaceships and requires two players. The goal is to shoot down the opponent with missiles for one point per kill. Each player's ship carries eight missiles and a limited amount of fuel for its thrusters. Once the ammunition has run out, it is refilled automatically, but only if the other player is also out of shots. The controls follow the Spacewar!/Asteroids model of momentum preservation: once accelerated, the ship will keep flying in the same direction until its thrusters fire again. Seven different variants of Space War are available, each toggling different options: the screen boundary is either solid and ships and shots will bounce off, or it can be passed through and the ships and missiles will reappear on the other side of the screen. If hyperspace is available, a player can become temporarily invisible, which uses a lot of fuel and disables the guns, however. If there is a sun in the center of the play field, its gravity will pull the ships towards it and crashing into it will award the opponent one point. Finally, if a starbase is present, ships can fly by it to resupply fuel and ammo.",
+      "name": "Space War",
+      "year": "1988",
+      "publisher": "Atari",
+      "players": 2,
+      "rating": "6"
+    },
+    {
+      "id": "Spider Fighter (USA)",
+      "description": "Spider Fighter is an arcade style action game somewhat similar to Space Invaders. You control a bug blaster at the bottom of the screen, and need to defend the three pieces of fruit at the top right of the screen. Various types of attacking spiders scurry around rapidly, trying to destroy your blaster and steal the fruit. If all of your fruit is stolen or you lose all of your bug blasters, the game is over. When all the spiders on a round are destroyed, you move on to the next, faster round. If you still have all three pieces of fruit when a round is completed, you receive an extra bug blaster.",
+      "name": "Spider Fighter",
+      "year": "1983",
+      "publisher": "Activision",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Spider-Man (USA)",
+      "description": "The Green Goblin has set a super bomb at the top of a high voltage tower located on the top of a skyscaper! As Spider-Man, you need to scale the building and defuse the bomb. Use your web to climb the building, but be careful of Green Goblin's villians which appear in the windows trying to stop you. If your web line goes too close to a villian, it will be cut and Spider-Man will fall. If you're careful, you can swing back and forth to capture the villians for bonus points. When you reach the top of the building, it's time to climb up the high voltage tower which is booby trapped with bombs. The bombs can be defused or avoided to get to the top, but just make sure you aren't too close to one that explodes! Once you arrive at the top of the tower, Green Goblin himself will be protecting the super bomb he has planted there. If you can sneak past Green Goblin and defuse the super bomb, the level is complete and you then move on to the next, more challenging level.",
+      "name": "Spider-man",
+      "year": "1982",
+      "publisher": "Parker Brothers",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Spy Hunter (USA)",
+      "description": "A conversion of the arcade game, Spy Hunter is a driving action game played from an overhead point of view. Your car is equipped with machine guns to help you get past the numerous enemies out on the road (be careful not to shoot any civilians, though!) Occasionally you will come across a weapons van, and if you drive into the back of the van your car becomes equipped with a second weapon (such as smoke screen, oil slick, or missiles.) At several points the road splits and you can enter a boathouse which transforms your car into a boat temporarily. If you drive far enough the seasons change as well (watch out for icy conditions during winter!) The enemy cars will do anything to stop you, including running you off the road, firing guns from the back of a limmo, or dropping bombs from a helicopter.",
+      "name": "Spy Hunter",
+      "year": "1984",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "6"
+    },
+    {
+      "id": "Stampede (USA)",
+      "description": "It's a stampede!! Your job is to round up as many of the calves as you can. The screen scrolls to the right as you chase the calves; if more than three calves get past you, the game is over. The calves all run at different speeds, and when you rope one you earn points based on how fast it was running. As the game progresses, more and more calves will be on the screen at one time, and other obstacles will begin appearing to trip your horse and slow you down.",
+      "name": "Stampede",
+      "year": "1988",
+      "publisher": "Activision",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Star Raiders (USA)",
+      "description": "As the pilot of an interstellar starship, your mission is to destroy all of the Krylon fighters which are closing in on your starbases! There are three different types of fighters roaming throughout the galaxy; cruisers, fighters, and basestars. With the help of your galactic map, you can find the sectors of the galaxy where these fighters are located and then warp there to destroy them. When all of the fighters in a sector are destroyed, you can warp to a new location for the next battle. Be sure to keep an eye on your starships energy; warping to new locations, being hit by enemy fire, or colliding with an asteroid will drain your energy. If you completely run out of energy, your starship will be destroyed, however you can warp back to a starbase to refuel at any time. Returning to a starbase will also repair other types of damage your starship can receive, such as faulty engines, loss of your shield, and faulty photon torpedoes. When all of the Krylon that are visible on your galactic map have been destroyed, you win this round and can advance in rank (or even be demoted if you performed poorly on a mission).  The games difficulty will gradually increase as you rise in rank from ships cook up to captain.",
+      "name": "Star Raiders",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Star Ship (USA)",
+      "description": "Star Ship contains three different arcade action games which can be played by one or two players.\n\nStar Ship\nThese game variations are played from a first person point of view in your star ship. Your goal is to earn as many points as possible by shooting the various enemies and space debris. You have a time limit of 2 minutes 16 seconds in the one player versions. In the two player version the time limit is 4 minutes 32 seconds; for half of this time one player will be the star ship commander, and the other will control a space module and needs to dodge the star ships fire. The roles will be reversed for the second half of the time limit.\n\nWarp Drive\nThese game variations are also played from a first person point of view. Your goal here is to travel as much distance as possible while avoiding the oncoming asteroids.\n\nLunar Lander\nThese game variations are played from a third person point of view. You need to pilot your star ship and successfully land on the constantly moving moon. One point is earned for each successful landing, and asteroids and other debris may get in your way and will deduct points if you crash. In the two player versions, one player controls the star ship and the other player controls the moon.\n\nEach of these games feature several variations which control the game speed and level of difficulty.",
+      "name": "Star Ship",
+      "year": "1977",
+      "publisher": "Atari",
+      "players": 2,
+      "rating": "9"
+    },
+    {
+      "id": "Star Trek - Strategic Operations Simulator (USA)",
+      "description": "Star Trek: Strategic Operations Simulator is an arcade action game where you take control of the Starship Enterprise. Your mission is to save the Federation from NOMAD! Before you get a chance at destroying NOMAD, you'll have to battle your way through ten levels (each consisting of multiple rounds). In each round you may encounter Klingon fighters, deadly anti-matter saucers, asteroid fields, and deadly meteors, all of which are capable of depleting the Enterprises energy. The game ends when your energy supply has completely run out. To fight these dangers, the Enterprise is equipped with an unlimited supply of phasers and a limited supply of photon torpedoes. Each round also contains one or more starbases; if you dock at a starbase, some of your supplies (such as energy and torpedoes) will be replenished. The game is played from two points of view; the top of the screen contains a third person view of the Enterprise (along with the ships gauges), and on the bottom of the screen is a first person point of view",
+      "name": "Star Trek - Strategic Operations Simulator",
+      "year": "1983",
+      "publisher": "SEGA",
+      "genre": "Shooter / Vehicle, FPV",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Star Voyager (USA)",
+      "description": "Star Voyager is an action game similar to Star Raiders. You control the space ship Star Voyager from a first person perspective; your objective is to make your way through seven star portals to save the Capital Starport, destroying enemy ships along the way. On each level there will be multiple enemies to destroy; typically they appear first in the distance, then close in slowly while firing torpedoes at you. Using the Star Voyagers weapons (either lasers or photon torpedoes) you need to destroy the enemies before they destroy you. Once a star portal appears, you need to navigate your way through to reach the next level (don't crash into the portal walls, you'll be destroyed!). In addition to the main viewport, the bottom of the screen also contains a status bar which shows the number of enemies destroyed, your energy level, and a scanner to help locate enemies.\n\nTwo player game variations are also included; in these one player controls Star Voyager, and the other player can choose to either control Star Voyagers weapons or the enemy ships.",
+      "name": "Star Voyager",
+      "year": "1982",
+      "publisher": "Imagic",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Star Wars - Jedi Arena (USA)",
+      "description": "In Jedi Arena, you have to face an opponent in the arena to see who is the true Jedi master. Wandering throughout the arena is a seeker which is capable of firing laser bolts. To be victorious you need to destroy your opponents shield by having the seeker fire laser bolts at it. You are armed only with a light saber which is used to control the direction of the laser bolts you fire, as well as block incoming fire from your opponent. The first player to break through the other players shield wins a point, and the first player to 3 points wins the match! Several game options are included which control the speed of the seeker, or even make the seeker invisible.",
+      "name": "Star Wars - Jedi Arena",
+      "year": "1983",
+      "publisher": "Parker Brothers",
+      "players": 2,
+      "rating": "8"
+    },
+    {
+      "id": "Star Wars - Return of the Jedi - Death Star Battle (USA)",
+      "description": "\u0026quot;Death Star Battle\u0026quot; is loosely based on the events of \u0026quot;Star Wars, Part 6: Return of the Jedi\u0026quot;. Your task is to destroy the Death Star before its construction is finished. You start the task outside the shield perimeter of the Death Star. There you'll have to combat different imperial vessels and avoid the death ray while waiting for an opportunity to slip through one of the random openings in the energy shield. After reaching the Death Star you must reduce its structure up to the point where you can hit the core. In the following blow up of the station you must avoid collision with Death Star debris.\n\nAfter successful destruction the game will restart with increased difficulty (faster enemies, faster Death Star build up, etc).\n\nOverall difficulty can also be adjusted before starting the game.",
+      "name": "Star Wars - Return Of The Jedi - Death Star Battle",
+      "year": "1983",
+      "publisher": "Parker Brothers",
+      "genre": "Shooter",
+      "players": 2,
+      "rating": "11"
+    },
+    {
+      "id": "Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto)",
+      "description": "Star Wars: Return of the Jedi: Ewok Adventure, also known as Revenge of the Jedi: Game I, is a cancelled 1983 shoot 'em up video game based on the 1983 Star Wars film Return of the Jedi. The game was developed by Atari Games and was to be published by Parker Brothers on the Atari 2600. Although it was completed, the game was never released for sale, as the marketing department of Parker Brothers considered the controls too difficult to master.\r\nIn Ewok Adventure, the player takes the role of an Ewok in the hang glider corps with the mission to destroy a shield generator of the Imperial army. The player can control a hang glider with the joystick and has to evade enemies, which include animations of speeder bikes, AT-AT walkers, Imperial stormtrooper-like figures and Ewoks. Other obstacles along the edges of the game include shrubbery, small boulders and small rivers.\r\nDepending on the game mode, the player can either make the hang glider climb and descend by pulling back and forth the joystick, or he can reverse the vertical directions. Hitting the ground results in a game over, but when flying high, one can fly over enemies. The height of the glider is displayed by the location of the shadow of the ship. Furthermore, the player can pick up rocks to drop on enemies when flying over them.",
+      "name": "Star Wars - Return Of The Jedi - Ewok Adventure",
+      "year": "1983",
+      "publisher": "Parker Brothers",
+      "genre": "Shoot'em Up",
+      "players": 2
+    },
+    {
+      "id": "Star Wars - The Arcade Game (USA)",
+      "description": "You're at the controls of LUKE's X-WING FIGHTER, heading straight for the DEATH STAR. Your mission: to destroy it before the EMPIRE seeks its revenge on the REBEL base. Lock your sights on attacking TIE FIGHTERS and blast them with your proton torpedoes. Race along the DEATH STAR's surface, firing on giant towers. Finally, dive full throttle into the DEATH STAR's equatorial trench. You'll need split-second timing to avoid all the obstacles as you streak through the trench in search of the main reactor. Hit it and you've blown the DEATH STAR out of existence! MAY THE FORCE BE WITH YOU.",
+      "name": "Star Wars - The Arcade Game",
+      "year": "1983",
+      "publisher": "Parker Brothers",
+      "genre": "Shooter / Plane, FPV",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Star Wars - The Empire Strikes Back (USA)",
+      "description": "Star Wars: The Empire Strikes Back recreates a scene from the movie of the same name. You are on the icy planet of Hoth, and Imperial Walkers are closing in on the rebel power generator. As the pilot of a snowspeeder, you need to take out as many of the walkers as you can. The walkers are heavily armoured, and it will take a lot of fire power to destroy one! The game is played on a large, scrolling screen with a radar screen at the bottom to help keep track of where the enemy is located. If a walker reaches the power generator, or you run out of snowspeeders the game is over. Good luck, and may the force be with you!",
+      "name": "Star Wars - The Empire Strikes Back",
+      "year": "1982",
+      "publisher": "Parker Brothers",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Stargate (USA)",
+      "description": "Save the humanoids from the impending aliens in the sequel to Defender. The task is still rescuing humanoids before Landers can turn them into Mutants, while avoiding and shooting other foes, however you must now carry humanoids to safety through the Stargate of the title. \n\nEntering this Stargate not only warps you to the nearest humanoid in jeopardy, but can also warp you ahead (while on the first 15 levels) if you enter it with 4 or more humanoids, and give you extra lives if you warp with 10 humanoids, so there is a trade-off between guaranteeing the safety of existing humanoids, and trying to advance your position\n\nThere are more enemies on screen than ever before. The Inviso button makes you invisible to enemies, but also to yourself, so you will have to follow your bullets to work out where on the screen you are.",
+      "name": "Stargate",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Shooter / Horizontal",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "StarMaster (USA)",
+      "description": "Prepare to leave behind the world as you know it. You are at the controls of the most sophisticated and powerful space video game ever designed. Cruising through the blackness of deep space, you call up the galactic chart on your monitor. Radar reveals enemy starfighters closing in on one of the starbases you are sworn to protect. Your onboard computers instantly calculate the energy required to intercept. Fire up your engines and warp into hyperspace. Stars and meteor showers streak by as you enter an enemy sector. Then, the battle begins. Your laser cannons blast away at attacking enemy starfighters. But wait! Damage reports show enemy fire has destroyed your defensive shields. Quickly but carefully, you maneuver back through the galaxy to dock at your starbase for repairs. And, undaunted, you return to complete your mission.",
+      "name": "Starmaster",
+      "year": "1982",
+      "publisher": "Activision",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Steeplechase (USA)",
+      "description": "This is a hurdles horse race.\n\nThe horse's names, from bottom to top, are: Lucky Devil, Absent Mind, Just Missed and Little Dictator. You play as one of the jockeys and must reach the right side of the screen first. The horse runs and hurdles come at you from the right. To jump these hurdles, you turn the paddle to set the height of the jump, as indicated by the marker on the right. You press the button to jump. The better you jump, the faster your horse goes. After 3 minutes, if no one has gotten all the way to the right, the race ends and whoever was in the lead wins.\n\nThere are 6 game variations. In games 1, 2 and 3, the distance between the hurdles is uniform with the computer-controlled horse's racing ability being poor, good and excellent, respectively.\nIn games 4, 5 and 6, the the distance between the hurdles is random with the computer-controlled horse's racing ability being poor, good and excellent, respectively.\nThe difficulty switches are not used.",
+      "name": "Steeplechase (video Gems)",
+      "year": "1980",
+      "publisher": "Video Gems",
+      "genre": "Strategy",
+      "players": 1
+    },
+    {
+      "id": "Stellar Track (USA)",
+      "description": "This is an Atari 2600 version of a Star Trek game found on many college mainframes.\n\nLike those mainframe programs, it has no graphics, only text. You use the joystick, moving left or right, to select the command you want then press the red button. You then move the joystick left or right to select set the parameters of that command, if there are any. You start by pressing Reset or Select to choose how many enemies you must kill in how many stardates. \n\nThe commands and any settings are as follows:\n\nGalaxy Map=a 6x6 grid that starts out empty until you do a long range scan. Afterwards, the quadrants will show a 2 digit number. The left digit is the number of aliens in the area. The right digit will either be a 1 or a zero, depending on whether there is or is not a starbase in that area. Galaxy map costs you no energy or stardates.\n\nLR Scan=Long range scan. This will tell you what is in your quadrant and all the quadrants next to yours. If there are any enemies in your quadrant when you do an LR scan, they will attack you. LR scan does not cost energy or stardates but it does take a turn.\n\nSR Scan=Short range scan. This shows you the stars, aliens and starbases in your quadrant. You need to do this to destroy aliens and dock with starbases. Like LR Scan, if there are aliens in your quadrant, they will attack after you use SR Scan. Also, like LR Scan, SR Scan does not cost energy or stardates but it does take a turn.\n\nWarp=Warp is how you move, either from quadrant to quadrant or from sector to sector within a quadrant. You move by setting 2 settings. The first is your direction. You select a direction based on the numbers below:\n8  1  2\n  | /\n7--*--3\n / | \n6  5  4\nNext, you select how many quadrants and sectors to move. If you want to move within a quadrant, set the left number to zero so you don't warp out of that quadrant. Warp uses stardates, energy and a turn. If you warp into a quadrant that has only you and stars, the screen will be green. If you warp into a quadrant with aliens or aliens and a starbase, the screen will be red. If you warp into a quadrant with just the starbase, the screen will be gray. You cannot warp through stars. If you try, you lose the stardate and energy but don't go anywhere.\n\nPhoton Torpedo=If you hit an enemy with one of these, just one shot kills them. You select the direction with the same numbers as warp. there must be a clear line of sight between you and the enemy; no stars. You carry up to 9 torpedoes and they can be replenished.  Photon torpedoes do not cost energy or time, just a turn.\n\nPhasers=Unlike photon torpedoes, you do not need to be directly in line of the enemy or tell the game where to fire. You just set how strong you want the blast to be, via a three digit number, and the computer fires. The closer you are to the enemy, the harder you hit. Phasers use the amount of energy from you as you fired. You also use a turn.\n\nStatus=A status report. This will tell you how many stardates, aliens, energy units and photon torpedoes are left and whether you have taken damage and to what. If you have taken damage, you will see a negative number next to the damaged item. This is how many stardates it will take to repair the item on your own. You cannot leave the quadrant if your engines are damaged. Instead, you must try to warp the number of quadrants that would take that much time. You won't go anywhere but you will repair.\n\nIf you dock at a starbase, you are instantly repaired of all damage, refueled and torpedoes are restocked. Starbases are placed randomly in the galaxy and never move or get destroyed. There are always two per galaxy. To dock, warp to the quadrant and sector where the base is, so you over the top of it.\n\nSkill (Difficulty) switches\nThe right switch controls how easily you take damage. In the Expert (A) position, your chance of taking damage is twice as likely as in the Novice (B) position.\nThe left switch controls phaser strength. In the Novice (B) position, your phasers are twice as strong as the aliens'. In the Expert (A) position, your phasers are the same strength as the aliens'.",
+      "name": "Stellar Track",
+      "year": "1981",
+      "publisher": "Sears",
+      "genre": "Strategy",
+      "players": 1,
+      "rating": "9"
+    },
+    {
+      "id": "Strawberry Shortcake - Musical Match-Ups (USA)",
+      "description": "Strawberry Shortcake Musical Match-Ups is a puzzle game where you try to straighten out mixed up Strawberryland characters within a given time limit. When the game begins, a mixed up character will appear on the screen and you need to change the head, body, and legs until they are all from a single character. If a complete character is correctly formed, the character will perform a dance and you will hear their musical theme; if an incomplete character is formed, the musical theme heard will be partially from each of the characters you did create. Several levels of difficulty are included which dictate the time limit and which character needs to be created. In the easier levels, the character you must create will be indicated by text at the bottom of the screen. In the more difficult levels, you must create a character based on the theme song that plays.",
+      "name": "Strawberry Shortcake - Musical Match-ups",
+      "year": "1983",
+      "publisher": "Parker Brothers",
+      "genre": "Educational",
+      "players": 1,
+      "rating": "9"
+    },
+    {
+      "id": "Street Racer (USA)",
+      "description": "A rebranded version of Street Racer, published and sold under the Tele-Games name by Sears.",
+      "name": "Speedway 2",
+      "year": "1977",
+      "publisher": "Sears",
+      "genre": "Racing, Driving",
+      "players": 4
+    },
+    {
+      "id": "Stunt Cycle (USA) (Proto)",
+      "description": "Stunt Cycle was one of Atari's first \u0026quot;Non-Pong\u0026quot; standalone consoles, and was based off the Atari coin-op of the same name.  The console consisted of a set of handlebar grips, which you could use to make your cycle move faster or slower and a fire button used to make you jump.  The gameplay revolves around making your \u0026quot;Stunt Cycle\u0026quot; jump over cars (ala Evil Knievel) and land safely on the other side without flying off the end of the screen.  Your cycle starts at the top of the screen, where you are given two \u0026quot;rows\u0026quot; of screen space to build up speed before hitting the ramp at the bottom.  The \u0026quot;trick\u0026quot; to the game is to build up enough speed to jump over the cars, but not too much that you go crashing off the edge of the screen.  If you successfully make the jump the row of cars gets wider and you have to go back and jump it again.\r\nIt is interesting to note that the arcade version has your cycle move through 'tubes' on the sides of the screen between rows whereas the home console version does not.  This means that in the arcade your cycle moves left to right across the first row, then RIGHT to LEFT across the second row before moving left to right again on the bottom.  This is a bit more realistic (well as realistic as motorcycle blasting through invisible tubes on the sides of the screen can be anyway) but can mess with your head if you're not expecting it.  The home console and 2600 port simply has the player 'warp' back to the left side of the screen when he reaches the end, meaning you always travel left to right on each row.\r\nSometime in 1980 Atari decided that Stunt Cycle would make a great 2600 game, so Bob Polaro was tapped to do the conversion.  Using the paddle controllers to simulate the original consoles bike grips, Bob made a near perfect port of the standalone console.  One change that was made to the game was the addition of color.  Since the original coin-op and home console were from 1976, the graphics were in Black and White which was standard at the time.  However Atari 2600 games had to have the option of color or B\u0026W, some color was added to the game (although not much) to spruce it up.  After a few months of programming, Stunt Cycle was finished and ready to go.\r\nIt was around this time that marketing had \u0026quot;brilliant\u0026quot; idea; why not make Stunt Cycle into a Dukes of Hazzard game?  So Bob went back to work retooling the graphics to fit the new Dukes of Hazzard theme.  The cycle was changed into the General Lee, while the row of cars was changed into a lake.  The colors were brightened up a little and some Dukes of Hazzard theme music was also added to the game to complete the illusion. So after a few more months of tinkering, the new Dukes of Hazzard version of Stunt Cycle was good to go.  However by this point (late 1980/early 1981) the game was starting to look a bit dated so management decided that a completely new version would be better.  So programmer Mark Hahn of the Atari NY field office was tapped to do a new Dukes of Hazzard game from scratch which was also never released.\r\nSo after a few more months of tinkering, the new Dukes of Hazzard version of Stunt Cycle was good to go, but there was a problem.  Cleaver playtesters soon realized that you could change the speed on the car in mid-air!  This means you could go full blast at the ramp and then slow down suddenly after you've made the jump, but before you've landed.  This basically took the challenge out of the whole game, making it fairly boring.  After Dukes of Hazzard was shelved, programmer Mark Hahn was then tapped to do a totally new Dukes of Hazzard game from scratch (which was never released either).\r\nStunt Cycle/Dukes of Hazzard has a few interesting options to keep the game fresh.  The first three variations allow the player to not worry about skidding out and change their speed mid-air during jumps, this is basically the 'easy' version of the game.  The second three variations are the 'pro' mode where players must watch their speed on turns (the invisible tubes on the edges of the screen) or they will skid out and crash, you also cannot change your speed during jumps in these variations.  The final three variations are a combination of the two modes in which you can still skid out, but you can also change your speed in mid-air.  The difficulty switches also control how large the landing zone will be.\r\nDid Atari make the right decision in canceling Stunt Cycle?  This is a hard question to answer since it's unknown what Atari's original motives were.  Had Stunt Cycle been released in 1980 as a color port of the coin-op it probably would have been very successful since people who bought it would have known what they were getting, and wouldn't mind the blocky graphics, which were standard for that time.  Had Atari released it as Dukes of Hazzard a year later, people would have probably felt gypped as it wouldn't be long before they realized that the game was nothing more than Stunt Cycle with new graphics.  Atari made the right decision in not releasing the updated Dukes of Hazzard version, but screwed up by not releasing the original Stunt Cycle version.  Chalk this one up to another act of Atari mismanagement.\r\nStrangely Stunt Cycle was never mentioned in any Atari catalogs, and was never assigned a product number.",
+      "name": "Stunt Cycle",
+      "year": "1980",
+      "publisher": "Atari",
+      "genre": "Racing, Driving",
+      "players": 1
+    },
+    {
+      "id": "Sub-Scan (USA)",
+      "description": "Now hear this! Now hear this! All hands man your battle stations. \r\n\r\nEnemy submarines have been detected in your waters. You command a destroyer which can launch as many as four depth charges at a time. Your mission is to sink as many enemy subs as possible. \r\n\r\nBut it's not that simple. Because SUB-SCAN is more than a shooting match. It's a game of strategy. A battle of wits. Cat-and-mouse on the high seas between the hunter above and the hunted below.",
+      "name": "Sub-scan",
+      "year": "1983",
+      "publisher": "SEGA",
+      "genre": "Shoot'em Up",
+      "players": 1
+    },
+    {
+      "id": "Submarine Commander (USA)",
+      "description": "You're the commander of a submarine in enemy waters.  Use your skills, radar, and luck to take down the enemy ships.  With 8 difficulty settings there is a lot of the game to master as you must start to keep an eye on your fuel, torpedoes, radar, and enemy while avoiding depth charges as the difficulty rises.  You can fire up to two torpedoes at a time. While enemy shows go by your periscope sink as many as you can.  The periscope can turn 360 degrees and look off into the horizon or close to your sub.  Some ships move slower than others, and one of the ships moves so fast that the only way to hit it is by tracking it by radar instead of visually.",
+      "name": "Submarine Commander",
+      "year": "1982",
+      "publisher": "Sears",
+      "genre": "Simulation",
+      "players": 2,
+      "rating": "13"
+    },
+    {
+      "id": "Summer Games (USA)",
+      "description": "Summer Games allows up to eight players to compete in a series of summer themed Olympic events. The gameplay is similar to the other entries in Epyx \u0026quot;games\u0026quot; series. Each player can choose a country to represent, and then takes turns competing in various events to see who will win the gold medal! The game allows you to compete in all of the events sequentially, choose a few events, choose just one event, or practice an event. The events available vary slightly depending on the platform, and may include:\n\n1. Pole vault\n2. Platform diving\n3. 4x400 meter relay\n4. 100 meter dash\n5. Gymnastics\n6. Freestyle swimming\n7. Skeet shooting\n8. 100 meter freestyle\n9. Rowing",
+      "name": "Summer Games",
+      "year": "1987",
+      "publisher": "Epyx",
+      "genre": "Sports / Multisports",
+      "players": 8,
+      "rating": "6"
+    },
+    {
+      "id": "Super Baseball (USA)",
+      "description": "This game is an altered version of the Atari 2600 version of RealSports Baseball. The game controls are identical. The alterations are that the graphics and colors were changed. Also, the options were reduced to one or two player and whether, in one player, the human player is up first at bat or not.\n\nOtherwise, everything else is the same. You still can throw fastballs, curve balls, sinkers, etc. and you can still bunt, hit fly balls, etc. Scoring remains the same with a tie after nine innings going into extra innings. The difficulty switches do not have any use.",
+      "name": "Super Baseball",
+      "year": "1988",
+      "publisher": "Atari",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "1"
+    },
+    {
+      "id": "Super Breakout (USA) (alt)",
+      "description": "Super Breakout features similar gameplay to the original, but with several new game variations. Your goal is to earn as many points as possible by destroying the bricks at the top of the playfield. To do this, you need to use the paddle at the bottom of the screen to keep a bouncing ball within the playfield. There are four different game variations included. The first is 'Breakout', and plays the same as the original game. \n\nThis leaves three new gameplay concepts. In 'Progressive' the brick walls will slowly drop towards the bottom of the screen and the ball moves progressively faster and faster. When there's room, a new layer of bricks will appear at the top. \n\nThe other two games add a second paddle. In 'Double Breakout' you have two balls to keep in play and score with. In 'Cavity' there is a single ball in play when you start, but two additional balls trapped within the bricks. These are freed when their surrounding bricks are destroyed.",
+      "name": "Super Breakout",
+      "year": "1978",
+      "publisher": "Atari",
+      "genre": "Action / Breakout games",
+      "players": 2,
+      "rating": "13"
+    },
+    {
+      "id": "Super Breakout (USA)",
+      "description": "Super Breakout features similar gameplay to the original, but with several new game variations. Your goal is to earn as many points as possible by destroying the bricks at the top of the playfield. To do this, you need to use the paddle at the bottom of the screen to keep a bouncing ball within the playfield. There are four different game variations included. The first is 'Breakout', and plays the same as the original game. \n\nThis leaves three new gameplay concepts. In 'Progressive' the brick walls will slowly drop towards the bottom of the screen and the ball moves progressively faster and faster. When there's room, a new layer of bricks will appear at the top. \n\nThe other two games add a second paddle. In 'Double Breakout' you have two balls to keep in play and score with. In 'Cavity' there is a single ball in play when you start, but two additional balls trapped within the bricks. These are freed when their surrounding bricks are destroyed.",
+      "name": "Super Breakout",
+      "year": "1978",
+      "publisher": "Atari",
+      "genre": "Action / Breakout games",
+      "players": 2,
+      "rating": "13"
+    },
+    {
+      "id": "Super Cobra (USA)",
+      "description": "Super Cobra is a side scrolling shooter based on the arcade game. You're a chopper pilot on a surveillance mission in enemy territory; your goal is to make it through the various obstacle courses alive and score as many points as possible. Tall buildings, mountains, narrow tunnels, and various enemies (such as tanks, rockets, mines, and more) can all get in the way and destroy your chopper if you aren't careful. To help defend yourself, the chopper is armed with a machine gun and bombs which can be used to destroy the enemy tanks and rockets. To make the task more difficult, your chopper has a limited amount of fuel. Throughout the landscapes are fuel tanks; if one of these is shot or bombed, you will be awarded extra fuel. As the levels progress, the enemies become more aggressive, fuel becomes more scarce, and the landscape becomes trickier to navigate.",
+      "name": "Super Cobra",
+      "year": "1982",
+      "publisher": "Parker Brothers",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "5"
+    },
+    {
+      "id": "Super Football (USA)",
+      "description": "The is an American football game with an isometric view. Player one always starts as offense and are in the red jerseys. The computer (or player two) starts as defense and are in blue jerseys.You have the choice to pass or run. On the offense, you control the quarterback until he passes the ball. You then control the receiver. The quarterback cannot pass after he crosses the line of scrimmage. On defense, you control the corner.\n\nGame variations\nGame 1 (Novice)=3 minutes per quarter\nGame 2 (Standard)=7 minutes per quarter\nGame 3 (Advanced)=10 minutes per quarter\nGame 4 (Expert)=15 minutes per quarter\n\nPlay selection\nOffense selects both the formation and pattern that the receiver will run*. The formation is the number on the left, from 1 to 9. The pattern is the number on the right, from 1 to 4.\n\nDefense only selects formations, from 1 to 9*. If the offense selects to punt or a field goal, the defense play is automatically selected to counter that.\n\nTo see the formations and patterns, you must refer to the game manual, as they are not named or graphically displayed on screen.\n\n*=In game 1 (Novice), you do not manually select plays, they are selected automatically.\n\nScoring\nField goals=3 points\nTouchdowns=6 points\nExtra point=1 point\n\nInaccuracies\nThere are only 5 players per side.\nYou cannot tackle anyone within the five-yard line and the goal, therefore...\nThere are no 2-point safeties or 2-point conversions\nThere are no penalties",
+      "name": "Super Football",
+      "year": "1988",
+      "publisher": "Atari",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Superman (USA)",
+      "description": "The Man of Steel takes flight in his first video game adventure.  When Lex Luthor destroys the Metropolis bridge, Clark Kent must run to the nearest phone booth to become Superman and save the day.  Along the way, Superman must be wary of thugs, a helicopter that can either help or hinder him, three Kryptonite satellites, and even Lex Luthor himself.  If Superman meets with one of Luthor's Kryptonite traps, he becomes unable to fly... unless he can find Lois Lane for help.  Repair the bridge, put the crooks in jail, then get back to the Daily Planet in time for the next adventure!",
+      "name": "Superman",
+      "year": "1978",
+      "publisher": "Atari",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Surround (USA)",
+      "description": "Welcome to the exciting and competitive world of SURROUND. Your basic objective is to surround your opponent, causing him to run out of space in which to move, and at the same time not running into anything yourself. You can set up a blockade, force him into a corner or wander off by yourself and hope that he runs into something on his own.\r\n\r\nAlong with the basic SURROUND game, we've added four game features to make things more interesting. Be sure to read Section 4 to learn more about these features.\r\n\r\nThen there's VIDEO GRAFFITI. It's just for fun without the competitive edge thrown in. VIDEO GRAFFITI actually allows you to draw on the screen.\r\n\r\nSurround was one of the nine Atari 2600 launch titles released in September 1977.",
+      "name": "Surround",
+      "year": "1988",
+      "publisher": "Sears",
+      "players": 2,
+      "rating": "8"
+    },
+    {
+      "id": "Survival Run (USA)",
+      "description": "In this game you have entered some underground caverns on another planet. As you try to navigate your way through, you must destroy enemy space ships and force fields. You move the target reticle by moving the joystick and fire weapons by pressing the red button. You can see the ships coming in the distance but if they get too close they will fire on you, causing you to lose energy. If you see a force field, you will see a square to the right. Shoot the square to disable the field. If your ship hits the field, you lose energy. You gain energy when you destroy a ship or disable a force field. Use the map on the top of your screen to determine which path to take, left or right. If you choose the wrong path or run out of energy, the game is over.",
+      "name": "Survival Run",
+      "year": "1983",
+      "publisher": "Milton Bradley Co.",
+      "players": 1,
+      "rating": "9"
+    },
+    {
+      "id": "SwordQuest - EarthWorld (USA)",
+      "description": "SwordQuest: EarthWorld was an adventure game produced for the Atari 2600. The game play boils down to walking from room to room, finding and dropping items, beating the action stages in order to find more items, and seeing the odd set of numbers flash at you if you get the right combination of items in the right rooms. \n\nThe sets of numbers, for instance 16-4, were actually a combination of a page number and a panel number in the comic book that came with the game. On the page indicated by the game, you would find a word hidden somewhere in the numbered panel. When all the correct words were found, you could send them to Atari in hopes of winning the SwordQuest contest that this game was designed for.",
+      "name": "Swordquest - Earthworld",
+      "year": "1987",
+      "publisher": "Atari",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": "7"
+    },
+    {
+      "id": "SwordQuest - FireWorld (USA)",
+      "description": "SwordQuest: FireWorld, the second game in the SwordQuest series, was insanely identical to the first game, EarthWorld. In this installment you will find yourself walking from room to room, finding and dropping items, beating the action stages in order to find more items, seeing the odd set of numbers flash at you if you get the right combination of items in the right rooms. \n\nThe sets of numbers, for instance 16-4, were actually a combination of a page number and a panel number in the comic book that came with the game. On the page indicated by the game, you would find a word hidden somewhere in the numbered panel. When all the correct words were found, you could send them to Atari in hopes of winning the SwordQuest contest that this game was designed for.",
+      "name": "Swordquest - Fireworld",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Adventure",
+      "players": 1
+    },
+    {
+      "id": "SwordQuest - WaterWorld (USA)",
+      "description": "Much like the games SwordQuest: EarthWorld\nand SwordQuest: FireWorld before it, SwordQuest: WaterWorld involves walking through rooms, picking up items, beating action stages to reveal more items, and seeing the odd set of numbers flash at you when you have the right items in the right rooms. \n\nThe sets of numbers, for instance 8-4, were actually a combination of a page number and a panel number in the comic book that came with the game. On the page indicated by the game, you would find a word hidden somewhere in the numbered panel. When all the correct words were found, you could send them to Atari in hopes of winning the SwordQuest contest that this game was designed for.",
+      "name": "Swordquest - Waterworld",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": "3"
+    },
+    {
+      "id": "Tac-Scan (USA)",
+      "description": "Enemy airships are approaching your command base! You need to fly your five plane squadron into battle to defend it. Tac-Scan is a conversion of the arcade game. You control a squadron of five ships at the bottom of the screen, your goal is to earn as many points as possible by destroying the various enemies which will be attacking. If one of the ships in your squadron is hit by enemy fire, it will be destroyed. The game ends when all five ships have been destroyed. As you progress through the game, you will occasionally have the chance to replenish missing ships. Everytime you complete a round by shooting ten enemies, an extra ship will float by on the screen. You can add this ship to your squadron by catching it in an empty space in the formation. Every time you complete four rounds, the game will advance to the next level with increased difficulty!",
+      "name": "Tac-Scan",
+      "year": "1983",
+      "publisher": "SEGA",
+      "players": 1,
+      "rating": "17"
+    },
+    {
+      "id": "Tapper (USA)",
+      "description": "Tapper is an action game where you're a beer tapper (barman) and have to serve beer to demanding customers. There are four customers, each has its own lane lengthier than the previous one, whom you have to keep at bay. If they reach the end of the lane without receiving their beer, you're a goner; if you miss one and accidentally spill beer needlessly you lose a life and should one of them throw you back the mug and you fail to catch it, you lose a life as well.\n\nOccasionally a bizarre icon will appear on one of the lines and, should you grab it, will invoke a \u0026quot;cabarette\u0026quot;-style show which will keep some of the customers occupied.\n\nThe Xbox 360 version includes bonus rounds, as well as co-op and versus multiplayer modes, also online, along with achievements.",
+      "name": "Tapper",
+      "year": "1984",
+      "publisher": "SEGA",
+      "genre": "Strategy",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Telepathy (USA) (Proto)",
+      "description": "Telepathy is one of two known prototype games that were developed for Atari's failed Mindlink controller.  The Mindlink was a headband that player wore on his head and plugged into the joystick port.  The idea was that the Mindlink's sensors would pick up any facial movements or muscle twitches the player would make.  Atari actually said that the Mindlink read the player's thoughts (sure it did...).  The problem was that the Mindlink didn't work very well in initial test runs, and even when it did work players would complain of headaches and dizziness from twitching their face all day.  After disappointing test results, the Mindlink controller was wisely canceled.\r\nTelepathy was actually developed as a demo to show what kind games the Mindlink could do.  This \u0026quot;demo\u0026quot; is made up of seven different action screens held together by a loose \u0026quot;mine\u0026quot; theme.  Thankfully Telepathy is playable without the Mindlink controller (unlike Bionic Breakthrough) by pressing the joystick button.  It's unknown if Atari was thinking of releasing Telepathy sans Mindlink or if the joystick code was put in the game for playtesting purposes.\r\nUnlike most games of the time, Telepathy has a demo mode which will run through all the screens if the game is left untouched.  Interestingly you can control the player in the demo using the joystick, it's unknown if this was intentional or just a bug.  The game starts off with a really cool sign which descends from the top of the screen telling you which mine your on.  After that you're whisked off to the first screen.\r\n-The Plain-\r\nThis is the oddest screen in the whole game, because it doesn't seem to fit the theme of the rest of the screens.  You control a large white man with antennas sticking out of his head.  You must guide the man over the glowing triangles as he walks along the plain.  The glowing triangles appear in a weaving line (like a trail of bread crumbs) and will eventually lead to a large hole in the ground.  Each glowing triangle is initially worth 5 points, but each successive triangle you collect is worth an addition 5 points (5, 10, 15, 20, etc.).  If you miss a triangle the point value starts back over at 5.  The controls on this level are a bit strange, as the man will always want to move to the far left side of the screen.  You must struggle to keep him moving on the proper path, collecting triangles as he goes.  As you get to the higher mines the amount of triangles and the speed at which you walk increase.  The pattern of the triangles will also become more twisted and harder to follow.  Once you reach the hole at the end of the path you are taken to the spider screen.\r\n-Spiders-\r\nThis is the first level in the mine itself.  Your guy is now a small Indiana Jones looking character instead of the large man with the antennas.  Your character looks so much like Indiana Jones in fact that some people initially speculated that this prototype was really Indiana Jones and the Temple of Doom (this was before the names on the EPROM's were known).  The goal of this level is to run past the spiders and get to the hole at the bottom of the screen before the timer runs out.  If you get hit by one of the spiders, you start over at the top of the screen and lose a life.  The spiders are fast and hard to avoid because they bounce around the screen, but you can always find a safe zone at the edges of each ledge.  You can either run (your normal mode of transportation) or walk by holding down the fire button.  Walking allows you to move more accurately, but since it's speed that counts you'll want to run to the exit.  You have 15 seconds to complete this level, but since the timer counts in tenths of a second it starts at 1500.  From here on every time you complete a level you'll get 100 points for each second left on timer.  In the higher mines the spiders are faster and move more erratically.\r\n-Elevators-\r\nThis level starts to appear beginning in mine 2.  The board structure is very similar to the spider level, but instead of avoiding spiders you need to avoid moving elevator platforms.  If your man happens to bump into a moving platform he'll be thrown back a bit, but if he steps onto one he'll be transported back to the top of the elevator.  Since time is short anything that keeps you from getting to the screen is bad, even if it's not deadly.  For some reason the holes in the ledges have been replaced by white hatches, but they function the same way.  In later mines the speed of the elevators increases dramatically.\r\n-Ledges-\r\nThis level begins to appear starting in mine 3.  You must carefully maneuver you man as he falls from ledge to ledge, avoiding the fireballs being shot from the sides of the mine.  The fireballs move with blinding speed, and with your slow rate of decent there is almost time to avoid them.  You can tell where the fireballs are about come from by looking for the red glow around the rocks on the sides of the screen.  The best strategy for this level is to land on each ledge and wait for the next fireball to launch before continuing.  In later mines the ledges begin to move making things even more difficult.\r\n-The Mashers-\r\nThis level starts to appear from mine 4 onward.  At first glance the level appears to be empty, but suddenly large mashers will quickly descend and retract from the ceiling.  Timing is crucial on this level as the mashers are very fast and are invisible until they descend from the ceiling.  As always, your goal is to reach the bottom of the screen before the timer runs out.\r\n-The Miner-\r\nThis level is rather simple.  After your man falls down the shaft you can either walk over to the left and save the stranded miner (ala HERO), or exit to the right and forget the miner.  Grabbing the miner doesn't seem to do anything, but since this is the goal of the game it would be dumb not to.  If you choose to rescue the miner you can levitate out of the hole by pushing against the wall.  There are large boulders which fall down from the top of the shaft, but they're slow so they don't pose much of a threat (although the speed does increase with each mine).\r\n-The River-\r\nThis is always the last level in each mine.  On this level you must move your man through the gaps in the river walls while avoiding the deadly piranha.  The controls are similar to the Plain level as you man will constantly move to the left unless you keep pushing the joystick to the right.  Your man will automatically move through the gaps in the river when he is in front of them, but since the level is constantly scrolling forward this is a good thing.  If you get bumped off the bottom of the screen or touch a piranha your man will be killed and you'll have to start the level over.  The higher the mine level, the faster the fish and scrolling become.  If you complete this level you will be transported to the next mine.\r\nIt's unknown if Atari actually ever planned to turn Telepathy into a commercial game, but as it stands it's one hell of a demo.  It's hard to believe that these mini-games would work well with the hard to use Mindlink controller, as they require pin point precision, constant movement, and other things that the Mindlink didn't do well.  They do however work quite well with the joystick, which may be why that code was added.  So fire up the emulator and enjoy Telepathy, the best game that never was.",
+      "name": "Telepathy",
+      "year": "1983",
+      "publisher": "Atari",
+      "players": 1
+    },
+    {
+      "id": "Tempest (USA) (Proto) (alt)",
+      "description": "On the list of games that probably should never have been tried on the 2600, Tempest has to be near the top.  Why Atari decided they could reproduce a 3D vector game on the 2600 is beyond me, but the results weren't pretty.  Sometimes one has to respect the limitations of the 2600.\r\nI've said it once and I'll say it again; If there's one thing the 2600 doesn't do well it's diagonals.  Unfortunately Tempest is chockfull of diagonals as the tubes angle out from the center of the screen to form complex geometric patterns.  This leads us to the next problem, if there's a second thing the 2600 doesn't do well it's complex geometric patterns!  The 2600 version gets around this by not having 3D tubes, but rather a flat looking shape (often jokingly compared to a pair of woman's underware) with the enemies coming from one side and the player moving on the other.  For some reason the board seems to flux and change a bit as things move around the screen, this is probably the result of a programming glitch.  The board  s segmented into what could be called tubes (if you use your imagination), but these \u0026quot;tubes\u0026quot; don't seem to correspond to where the real tubes (which are invisible) are.\r\nThis brings us to the next problem, if there's a third thing the 2600 doesn't do well and it's 3D perspective.  Atari couldn't get around this one; the 3D perspective is what makes Tempest \u0026quot;Tempest\u0026quot;.  Atari tried to simulate this by changing the enemy's size to make it look like it was getting closer.  Unfortunately there aren't nearly enough frames of animation to do this, so the enemies sort of jump forward in an awkward fashion.  The enemy graphics are very blocky and becomes even more evident as the size is increased when they approach the outer edge of the tube.  This combined with a very blocky looking \u0026quot;shape\u0026quot; for the board makes for one ugly looking game.\r\nAmazingly, even with the 2600's limitations, there are four different types of enemies present in this version.\r\nFlippers -- These are the little bowtie shaped guys who are the main enemy of the game.  They're not dangerous until they reach the top of the tube and start coming after you.\r\nFlipper Tankers -- These will break into two Flippers when hit.\r\nPulsars -- These guys are dangerous!  They will electrocute the tube they're in every now and then killing you instantly if you're on it.  In this version the tube doesn't light up when electrocuted, but the Pulsar itself will glow a second before, warning you to beware.\r\nFuseballs -- These fun little guys are similar to Flippers but they only zip up and down the tube they're in.\r\nThe controls in this early version are often very frustrating.  There appear to be set places where your blaster can move to (hidden tubes), but they don't seem to correspond to the shape on the screen.  This wouldn't be so bad if they were at regular intervals, but they seem to be very close together towards the middle of the screen and very far apart near the edges (a side effect of mirroring the playfield).  This makes lining up your shots with the incoming enemies very difficult because you're not quite sure where the next \u0026quot;hidden tube\u0026quot; is.  This coupled with the fact that the \u0026quot;jumping\u0026quot; enemies move very quickly up the short tubes makes for a very difficult game.  The firing is a bit off as well, and it appears that your blaster will fire towards the left side of it's graphic instead of from the middle.  This wouldn't be so bad if the bullets didn't have a bad habit of disappearing when too many object are on the screen (probably due to flicker), this can lead to some mysterious deaths from invisible bullets.  Thankfully you have your Super Zapper in this version, which can be activated by pressing up and fire.\r\nIn the programmers defense, they did a wonderful job on Tempest considering she was attempting to do the impossible. But while a game technically can be done on the 2600, doesn't necessarily mean it should be (see Double Dragon for another example).  Also, since this version isn't complete, it's really not fair to start judging it yet.  Given some time, I'm sure a much more playable version with improved graphics and smother gameplay could have been put together.  While it probably wouldn't have ever looked like its arcade counterpart, this prototype proves that Tempest could (in a very limited fashion) be done on the 2600.  A later version with some added features like a title screen was reviewed in Ultimate Gamer magazine, but it's unknown what happened to that prototype.\r\nThe name of the programmer for the 2600 version of Tempest has been a bit of a mystery.  Carla Meninsky has generally been identified as the programmer, but some other programmers seem to recall that someone else worked on Tempest.  Carla herself shed some light on this when she mentioned that the prototype we have isn't her version at all.  More digging shows that the current prototype (dated 1-5-84) was made long after Carla had left Atari. So it appears that Atari decided to assign another programmer to make a new version of Tempest after Carla left rather than use her existing code.  Unfortunately, Carla's original version remains lost and the identity of the programmer behind this version remains a mystery.",
+      "name": "Tempest",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Shoot'em Up"
+    },
+    {
+      "id": "Tempest (USA) (Proto)",
+      "description": "On the list of games that probably should never have been tried on the 2600, Tempest has to be near the top.  Why Atari decided they could reproduce a 3D vector game on the 2600 is beyond me, but the results weren't pretty.  Sometimes one has to respect the limitations of the 2600.\r\nI've said it once and I'll say it again; If there's one thing the 2600 doesn't do well it's diagonals.  Unfortunately Tempest is chockfull of diagonals as the tubes angle out from the center of the screen to form complex geometric patterns.  This leads us to the next problem, if there's a second thing the 2600 doesn't do well it's complex geometric patterns!  The 2600 version gets around this by not having 3D tubes, but rather a flat looking shape (often jokingly compared to a pair of woman's underware) with the enemies coming from one side and the player moving on the other.  For some reason the board seems to flux and change a bit as things move around the screen, this is probably the result of a programming glitch.  The board  s segmented into what could be called tubes (if you use your imagination), but these \u0026quot;tubes\u0026quot; don't seem to correspond to where the real tubes (which are invisible) are.\r\nThis brings us to the next problem, if there's a third thing the 2600 doesn't do well and it's 3D perspective.  Atari couldn't get around this one; the 3D perspective is what makes Tempest \u0026quot;Tempest\u0026quot;.  Atari tried to simulate this by changing the enemy's size to make it look like it was getting closer.  Unfortunately there aren't nearly enough frames of animation to do this, so the enemies sort of jump forward in an awkward fashion.  The enemy graphics are very blocky and becomes even more evident as the size is increased when they approach the outer edge of the tube.  This combined with a very blocky looking \u0026quot;shape\u0026quot; for the board makes for one ugly looking game.\r\nAmazingly, even with the 2600's limitations, there are four different types of enemies present in this version.\r\nFlippers -- These are the little bowtie shaped guys who are the main enemy of the game.  They're not dangerous until they reach the top of the tube and start coming after you.\r\nFlipper Tankers -- These will break into two Flippers when hit.\r\nPulsars -- These guys are dangerous!  They will electrocute the tube they're in every now and then killing you instantly if you're on it.  In this version the tube doesn't light up when electrocuted, but the Pulsar itself will glow a second before, warning you to beware.\r\nFuseballs -- These fun little guys are similar to Flippers but they only zip up and down the tube they're in.\r\nThe controls in this early version are often very frustrating.  There appear to be set places where your blaster can move to (hidden tubes), but they don't seem to correspond to the shape on the screen.  This wouldn't be so bad if they were at regular intervals, but they seem to be very close together towards the middle of the screen and very far apart near the edges (a side effect of mirroring the playfield).  This makes lining up your shots with the incoming enemies very difficult because you're not quite sure where the next \u0026quot;hidden tube\u0026quot; is.  This coupled with the fact that the \u0026quot;jumping\u0026quot; enemies move very quickly up the short tubes makes for a very difficult game.  The firing is a bit off as well, and it appears that your blaster will fire towards the left side of it's graphic instead of from the middle.  This wouldn't be so bad if the bullets didn't have a bad habit of disappearing when too many object are on the screen (probably due to flicker), this can lead to some mysterious deaths from invisible bullets.  Thankfully you have your Super Zapper in this version, which can be activated by pressing up and fire.\r\nIn the programmers defense, they did a wonderful job on Tempest considering she was attempting to do the impossible. But while a game technically can be done on the 2600, doesn't necessarily mean it should be (see Double Dragon for another example).  Also, since this version isn't complete, it's really not fair to start judging it yet.  Given some time, I'm sure a much more playable version with improved graphics and smother gameplay could have been put together.  While it probably wouldn't have ever looked like its arcade counterpart, this prototype proves that Tempest could (in a very limited fashion) be done on the 2600.  A later version with some added features like a title screen was reviewed in Ultimate Gamer magazine, but it's unknown what happened to that prototype.\r\nThe name of the programmer for the 2600 version of Tempest has been a bit of a mystery.  Carla Meninsky has generally been identified as the programmer, but some other programmers seem to recall that someone else worked on Tempest.  Carla herself shed some light on this when she mentioned that the prototype we have isn't her version at all.  More digging shows that the current prototype (dated 1-5-84) was made long after Carla had left Atari. So it appears that Atari decided to assign another programmer to make a new version of Tempest after Carla left rather than use her existing code.  Unfortunately, Carla's original version remains lost and the identity of the programmer behind this version remains a mystery.",
+      "name": "Tempest",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Shoot'em Up"
+    },
+    {
+      "id": "Tennis (USA)",
+      "description": "Tennis is a singles tennis game which can be played by one player against the computer or two players against each other. The game follows standard tennis rules, and allows you to hit a variety of forehand and backhand shots to any location on the court. There are two skill levels included; a slower practice game, and the more challenging full speed game.",
+      "name": "Tennis",
+      "year": "1981",
+      "publisher": "Activision",
+      "genre": "Sports / Tennis",
+      "players": 2,
+      "rating": "9"
+    },
+    {
+      "id": "Thunderground (USA)",
+      "description": "There are six Core nuclear bases on the planet's surface. You must burrow underground to each of these bases and destroy them. But be warned, they are guarded by patrolling Core Ranger tanks that if they get you in their line of fire, will destroy you.\n\nThere are two types of tanks. The white Sentry tanks only move through existing tunnels and will only fire on you if there is clear space between you and them. The blue Digger tanks will create their own tunnels to pursue you. There is also a Sentry tank at the bottom of the screen that slowly moves towards your reserve tanks. If this tank reaches you reserves before you destroy all six bases, you lose a life. The game is over if you lose all lives.\n\nThere are enemy supplies buried in random areas that if you get them will get you bonus points. Later levels have the bases only appear one at a time or have no dirt between you and the enemy tanks, leaving them to pursue you from the start.",
+      "name": "Thunderground",
+      "year": "1983",
+      "publisher": "SEGA",
+      "genre": "Action / Labyrinth",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Thwocker (USA) (Proto)",
+      "description": "Thwocker is a game as strange as its name.  Written by Charlie Heath (of Reactor fame), Thwocker was described as \u0026quot;Joust with musical instruments\u0026quot;.  While this isn't a bad description, it really doesn't illustrate all the gameplay elements that make Thwocker such an interesting game.  You control a little conductor (who happens to look like a bowling ball) who must bounce around a maze collecting musical notes for his song.  Along the way you must avoid various musical instruments that are out to get you (can't we all just get along?).  However you can't go grabbing just any musical notes, you must collect them in the proper order.  The current note type needed is shown at the bottom of the screen.  If you touch the wrong type of note you will ricochet off it, send your conductor flying across the screen (usually into a waiting enemy).  After collecting all the notes you must grab the treble clef symbol at the top of the maze to start the song.  Once the song starts to play your character will be able to touch enemies and notes for points (think of it as a power pellet) until the song ends.  After completing the song you can exit the level by touching the exit square.\r\nThe controls in Thwocker take a little getting use to, but they're not as tricky as they first seem.  The levels seem to be made out of some kind of springy material, so your character bounces all around the screen.  You can control how high you bounce by pushing up and down.  Pushing down will make the conductor take little bounces, while pressing up (as you touch the ground) will make him bounce really high.  You can stop bouncing all together by pressing the fire button, which will make the conductor sort of \u0026quot;skip\u0026quot; across the level.  You will need to master all these bouncing techniques to successfully complete the level.\r\nSadly Thwocker is incomplete as there is no way to exit the level.  It was thought that they player simply needed to touch the exit square after completing the song to finish the level, but this does not appear to be the case.  It appears that the code that allows you to destroy the enemy after completing the song also allows you to destroy the exit, so the game appears to be unwinnable.  However after careful examination of the game code, it appears there may be more to Thwocker than meets the eye.  Apparently the player must somehow \u0026quot;combine\u0026quot; the two voices of the song after it starts playing to exit the level.  Unfortunately we haven't figured out how this portion of the game works yet, but it may have something to do with picking up certain objects on the screen.  However just because the code to exit the level exists doesn't mean it's actually possible to do it in the game, so Thwocker may still be unwinnable after all.\r\nThankfully you can still see the other levels by selecting the higher difficulty levels at the title screen.  Programmer Charlie Heath (who owns the only other known prototype) has said that Thwocker is only around 80% complete when development was cancelled.  One has to wonder what else Charlie had in store for us, as other than the lack of the ability to finish a level Thwocker seems fully playable and complete.  Perhaps there were some minor game or difficulty issues left to work out?  The only glitch I've seen in the game is on the game select screen.  The game number should go from 1 to 10, but there are six games in between 9 and 10.  These game numbers are represented by a space, another space, a white eigth note, a space, a white quarter note, and a dot.  This is most likely because the game numbers are stored in hex (base 16), so there are 16 games represented.  It is unknown if Charlie actually intended for there to be 16 games or only 10, but since they all seem to be playable one comes to the conclusion that they were indeed planned.\r\nThwocker, along with Kabobber, were victims of the collapsing videogame market in 1984.  It was around this time that Activision decided it was time to get out of the 2600 market and concentrate on the new gaming fad Home Computers.  Activision did release a few new games during the 2600 revival years, but Thwocker was not one of them.  At this point Activision was concentrating on converting arcade games to the 2600 instead of releasing older unpublished games.  What they didn't realize is that the older games they were ignoring were much better than the new games they were putting out (but that's another story).  Thankfully Thwocker finally got its long overdue release, and now we can all enjoy what has to be one of the most unique 2600 games I've ever seen.",
+      "name": "Thwocker",
+      "year": "1984",
+      "publisher": "Activision",
+      "players": 1
+    },
+    {
+      "id": "Tunnel Runner (USA)",
+      "description": "Tunnel Runner is an advanced 3D Maze Game, essentially what a 1st person version of Pac-Man game would be like.  Because \u0026quot;Tunnel Runner\u0026quot; was designed with a built-in expanded memory chip (RAM Plus!), it's 12KB of memory gives it the ability to present the maze in three dimensions.  Therefore, the playfield is a colorful, three-dimensional maze, so you never see yourself... just the walls on either side of you that form the corridors you travel along.  As you move along the passage-ways, additional tunnels appear on either side, which you can turn into by pressing left and right.\r\n\r\nYour primary goal is to locate and collect the hidden key, located in a different spot within each maze.  Through the assistance of a MAP, you can maneuver within the maze.  While attempting to locate the key to exit the level, you must also avoid the hungry Zot's.  You will discover these enemy creatures throughout the maze.  Successfully recovering the key without being intercepted by the Zot's opens the portal to the next level.  As you pass each level, you will discover that the complexity and difficulty increases, while your MAP gradually reveals less and less information… ultimately, your map will be of little use, requiring you to survive solely by instincts and quick thinking!",
+      "name": "Tunnel Runner",
+      "year": "1983",
+      "publisher": "CBS Software",
+      "genre": "Action / Labyrinth",
+      "players": 1,
+      "rating": "20"
+    },
+    {
+      "id": "Tutankham (USA)",
+      "description": "Tutankham is an arcade action game played from a top down point of view. You are an explorer in King Tut's tomb on a mission to retrieve as many of the valuable treasures as you can find. In addition to the treasures, you will also find a key in each of the chambers. This is needed in order to unlock the entrance to the next, more difficult chamber. Be careful, for the tomb is guarded by many dangerous creatures! Cobras, bats, scorpions, and more all appear in the maze and will cause you to lose a life if you're caught! To defend yourself you are armed with a laser gun which you can fire left or right, but not up or down. In each of the mazes you are also give one \u0026quot;flash\u0026quot; which can be used to destroy all creatures currently on the screen.",
+      "name": "Tutankham",
+      "year": "1983",
+      "publisher": "Parker Brothers",
+      "players": 2,
+      "rating": "12"
+    },
+    {
+      "id": "Up 'N Down (USA)",
+      "description": "This is a home port of a 1983 Sega arcade game that was distributed by Bally Midway.\n\nThe object is to drive around a twisty course and collect all the colored flags. You can jump over gaps and over or onto other cars. If you land on another car, you kill them and collect points. You can also collect things like balloons and ice cream cones for bonus points. The faster you collect all the flags, the bigger a time bonus you get.\n\nIn later levels, there are dead-ends or gaps and a vehicle that is carrying a flag you need, so you will need to jump on him. If you are hit by another vehicle or go off the course, you lose a life. In two player games, play alternates.",
+      "name": "Up 'n Down",
+      "year": "1984",
+      "publisher": "Sega Enterprises",
+      "genre": "Racing, Driving",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Vanguard (USA) (alt)",
+      "description": "Vanguard is an arcade style shooter for one or two players. Your goal is to pilot your spaceship to the City of Mystery which is located at the end of a heavily guarded tunnel, and once there destroy the creature Gond. The tunnel is broken up into several different zones, called the mountain zone, rainbow zone, stick zone, stripe zone, bleak zone, and City of Mystery. Each zone features different types of enemy spaceships to deal with, and can scroll either horizontally or vertically. In the mountain zone or stripe zone, you may also come across an energy pod marked with an 'E'. If you fly through this, your ship temporarily becomes invincible to the deadly cave walls and numerous enemies which are trying to stop you. When not invincible, your space ship is equipped with lasers to help destroy enemies. You can fire in four different directions, however your speed is decreased when firing. You also need to keep an eye on your fuel gauge; your fuel will deplete at a rapid rate, and your ship will crash if it runs out. Fuel is gained each time you destroy an enemy, so make sure you destroy as many as you can! When you finally make it through all the various zones of the tunnel and defeat Gond, the game will repeat at a more difficult skill level.",
+      "name": "Vanguard",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Vanguard (USA)",
+      "description": "Vanguard is an arcade style shooter for one or two players. Your goal is to pilot your spaceship to the City of Mystery which is located at the end of a heavily guarded tunnel, and once there destroy the creature Gond. The tunnel is broken up into several different zones, called the mountain zone, rainbow zone, stick zone, stripe zone, bleak zone, and City of Mystery. Each zone features different types of enemy spaceships to deal with, and can scroll either horizontally or vertically. In the mountain zone or stripe zone, you may also come across an energy pod marked with an 'E'. If you fly through this, your ship temporarily becomes invincible to the deadly cave walls and numerous enemies which are trying to stop you. When not invincible, your space ship is equipped with lasers to help destroy enemies. You can fire in four different directions, however your speed is decreased when firing. You also need to keep an eye on your fuel gauge; your fuel will deplete at a rapid rate, and your ship will crash if it runs out. Fuel is gained each time you destroy an enemy, so make sure you destroy as many as you can! When you finally make it through all the various zones of the tunnel and defeat Gond, the game will repeat at a more difficult skill level.",
+      "name": "Vanguard",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Venture (USA)",
+      "description": "Venture is a conversion of the popular arcade game. You control Winky, the heroic adventurer. Your goal is to collect as many treasures as you can which are scattered throughout numerous dungeons. In each dungeon, there are several chambers which each contain a treasure. Armed only with your crossbow, you need to get past the varied creatures which guard the chamber, snag the treasure, and make it out again. When you collect the treasure from each of the chambers in a dungeon, you can then move on to the next, more difficult dungeon.",
+      "name": "Venture",
+      "year": "1981",
+      "publisher": "Coleco Industries",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Video Checkers (USA)",
+      "description": "In this classic game of checkers you can play with your friend or many different levels of computer AI.  Mastering all of them will take skill and strategy, as well as a bit of luck.  Video Checkers follows the standard checkers rules with the following rules: if there is a jump available, you must take it and if you get to king's row and are promoted, you cannot move again that turn but must wait for your next turn.\n\nGame variations\nGames 1 through 9 are regular checkers, from easiest to hardest in which the object is to capture or block all your opponents pieces.\n Game 10 is a two player game. \nGames 11 through 19 are giveaway checkers, from easiest to hardest, in which the object of the game is to lose or be unable to move any of your pieces.\n\nDifficulty switches\nLeft switch:\n Set to A=Set up board as you want.\nSet to B=Will be set up for normal play.\nRight switch\n Set to A=Right player in a two player game or computer player a one player game is black and starts the game.\nSet to B=Left player in a two player game or human player a one player game is black and starts the game.",
+      "name": "Video Checkers",
+      "year": "1980",
+      "publisher": "Atari",
+      "genre": "Board game",
+      "players": 2,
+      "rating": "9"
+    },
+    {
+      "id": "Video Chess (USA)",
+      "description": "This is an early home chess game. The standard U. S. chess rules are used in this game. To move a piece, place the X on the board onto the piece to be moved then press the red button. Next, move the X to where you want the piece to go and press the button again. If the move is illegal, the 2600 will give a warning sound and not make the move.\n\nTo castle your king, the king and rook must not have been moved. You move your king two squares in the direction of the rook to castle with. The 2600 will then automatically move your rook around your king, completing the move. You cannot castle out of check and you cannot castle to the king's side if any squares between the king and rook are threatened.\n\nAnother maneuver is called en passant. This move is used to counteract the enemy pawn's initial double move on a adjacent square.  To carry out the en passant, you must advance your\npawn to the fifth rank.  Your opponent then has the option of moving\nhis or her pawn one square (where it would be under attack) or two\nsquares.  If you opponent elects to move two squares, the en passant move allows you to take that pawn by diagonally moving your pawn to the square that was skipped over.\n\nSkill levels\nThese determine how long the computer will think on its move. These times are approximate and may vary slightly, depending on what move you did.\nLevel 1=15 seconds\nLevel 2=30 seconds\nLevel 3=45 seconds\nLevel 4=2 minutes, 45 seconds\nLevel 5=3 minutes, 15 seconds\nLevel 6=12 minutes\nLevel 7=10 hours\nLevel 8=10 seconds\n\nLevel 8 is a beginner level.",
+      "name": "Video Chess",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Board game",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Video Olympics (USA)",
+      "description": "Video Olympics is an action game containing numerous variations of the game Pong. Two players (or one player against the computer) control paddles on the screen and attempt to prevent a bouncing ball from getting past them. In the most basic game variations, each player has a single paddle and there are no obstacles on the screen. The other game variations add paddles and obstacles, and some are loosely inspired by various sports and change the playfield around, but the goal remains the same: hit the ball past your opponents paddle into the goal to earn points. A few of these variations are:\n\n1. Foozpong: Each player controls multiple paddles which are arranged somewhat like a foozball table.\n\n2. Soccer pong: Each player controls two paddles (representing one goalie and one player) and the goal is much narrower.\n\n3. Hockey pong: The playfield is set up to resemble hockey; the goal isn't at the very edge of the screen, so the ball may bounce behind and around the goal.\n\n4. Quadrapong: The goals are located along the top, right, bottom, and left sides of the screen. This game is played by four players, two per team with one person defending each of the four goals.\n\n5. Handball pong: There is no goal, and two players take turns hitting the ball against a solid wall to earn points. One point is earned each time your opponent is unable to return the ball.\n\n6. Volleyball pong: The screen is set up like a volleyball court with a \u0026quot;net\u0026quot; in the middle. Both players are along the bottom of the screen and need to bounce the ball past their opponent.\n\n7. Basketball pong: Each player controls a paddle on the bottom of the screen, and attempts to hit the ball into their opponents basket at the top.",
+      "name": "Video Olympics",
+      "year": "1977",
+      "publisher": "Atari",
+      "players": 4,
+      "rating": "11"
+    },
+    {
+      "id": "Video Pinball (USA)",
+      "description": "Video Pinball is a pinball simulation for one or two players. You begin the game with three balls and need to score as many points as possible by hitting the various bumpers, spinners, and rollovers on the pinball table. An extra ball can be earned by hitting the Atari logo rollover four times in a row!  There are two difficulty levels and four game variations included.",
+      "name": "Video Pinball",
+      "year": "1980",
+      "publisher": "Atari",
+      "genre": "Pinball",
+      "players": 2,
+      "rating": "12"
+    },
+    {
+      "id": "Warlords (USA) (alt)",
+      "description": "In Warlords, you need to defend yourself from three human and/or computer players. Each of the four players are in one of the corners of the screen guarded by a castle. You control a small shield which can be moved around the edge of the castle. To survive you need to use the shield to block a ball which bounces around the screen. If the ball hits your castle, it will take out some of the bricks. If a hole forms in the castle wall and the ball makes it though and hits your warlord, then you are out of the game. The last player left alive wins the battle, and the first player to win five battles wins the game! Several game options are included which allow you to either catch or ricochet the ball when the shield touches it, and control the speed of the game.",
+      "name": "Warlords",
+      "year": "1981",
+      "publisher": "Sears",
+      "players": 4,
+      "rating": "14"
+    },
+    {
+      "id": "Warlords (USA)",
+      "description": "In Warlords, you need to defend yourself from three human and/or computer players. Each of the four players are in one of the corners of the screen guarded by a castle. You control a small shield which can be moved around the edge of the castle. To survive you need to use the shield to block a ball which bounces around the screen. If the ball hits your castle, it will take out some of the bricks. If a hole forms in the castle wall and the ball makes it though and hits your warlord, then you are out of the game. The last player left alive wins the battle, and the first player to win five battles wins the game! Several game options are included which allow you to either catch or ricochet the ball when the shield touches it, and control the speed of the game.",
+      "name": "Warlords",
+      "year": "1981",
+      "publisher": "Sears",
+      "players": 4,
+      "rating": "14"
+    },
+    {
+      "id": "Wing War (Europe)",
+      "description": "Wing War is an action game where you control a dragon. Beginning in your underground cave, your goal is to capture a sparkling diamond. To do this, you will first need to unlock the secret passage by bringing a fire, water and air crystal back to your cave. Crystals can be found by exploring the various locations available, usually you will need to destroy one of the many enemies so they turn into a crystal. Fire and water crystals can not be in the cave alone at the same time, an air crystal must be placed between them; so you will need to bring back the crystals in the order fire, air, water or water, air, fire. Once you've done this a super crystal is formed unlocking the secret passage so you can try to get the diamond! Your dragon has a limited amount of energy; being hit by enemies will cause the energy to deplete, and the game ends when all of your dragons have lost all their energy.",
+      "name": "Wing War",
+      "year": "1983",
+      "publisher": "Imagic",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Winter Games (USA)",
+      "description": "WINTER GAMES is a series of seven exciting competitive events. Up to eight players can enter this international contest, each choosing a country for which to compete (no two players can choose the same nation to represent).\r\n\r\nThe object is to see your country come out on top. You'll compete in pure speed events like skating and in speed-and-control events like slalom, biathlon, bobsled and luge. You'll test your skill against competitors in distance and style events like ski jumping and hot dog skiing. You'll win by scoring the fastest time or by earning the most points. And the nation that wins the most events takes home the gold medal!",
+      "name": "Winter Games",
+      "year": "1987",
+      "publisher": "Epyx",
+      "genre": "Sports / Multisports",
+      "players": 8,
+      "rating": "12"
+    },
+    {
+      "id": "Wizard (USA) (Proto)",
+      "description": "If there was ever an obscure prototype it's Wizard.  Wizard was supposedly the last of Atari's last 2K games, but went unreleased in favor of the new 4K games.  Since Wizard was never advertised in any Atari catalogs and it was never assigned a part number, most people don't even know of its existence.\nWizard can best be described as a cross between Berzerk and Wizard of Wor.  You control a wizard (at least I think he's a wizard), who must attempt to destroy the swirling star shaped creature.  The board layout is a giant maze, which makes it hard to run from the creature and to get a clean shot off.  Unfortunately the creature can move through the maze walls, but thankfully it can't shoot through them.  Once you take a shot you'll notice that your wizard dims a bit, this means you are recharging, and cannot shoot.  Once your wizard is done recharging he will light back up again, and you can take another shot.  You don't have to worry about aiming you shots, as you will automatically shoot in the direction of the creature.  This makes it easy to run away but still take shots at the creature.\nYour wizard starts out with zero damage (indicated by the right number), and will die if the damage counter reaches 99.  Each shot you take from the creature causes you two points of damage, touching the creature will also cause you two points of damage.  As you take more and more damage your wizard will weaken until he finally dies.  In your weakened state you will move slower and take longer to recharge.\nThe creatures damage counter is on the left side of the screen.  Each time you shoot the creature it will take two points so damage and be stunned for a few seconds.  This is your chance to get away to a safe distance and hide as you recharge.  The creature is normally invisible unless it's shooting at you or it has taken a hit.  You can tell where the creature is by listening to the \u0026quot;heartbeat\u0026quot; in the background.  The closer the creature, the louder the sound.\nIf you manage to get the creature's damage counter up to 99, it will turn black and die.  Your victory is short lived however as a new and more deadly creature will replace the old one.  Each new creature starts with less damage than the previous one, and moves and shoots much faster.  Each time you kill the creature your kill counter (next to the creatures damage counter) will go up by one, and your damage counter will go down significantly.\nWizard has a unique two player feature where one player can control the wizard while the other player controls the creature.  Since the creature is normally invisible, the second player must move blindly about the maze until he comes in range of the wizard.  The second player's creature will automatically fire at the player making his job slighty easier.  This interesting twist on the normal two player variation shows some innovation not seen in many games.\nHidden in a random part of the maze is a small glowing flame.  If the left difficulty switch is set to A then you Wizard has the added task of defending the flame.  If the creature touches the flame your wizard will slow down as his source of power has been captured.  On the easy setting the flame is invulnerable to the creature and doesn't have any affect on the game.\nWhile Wizard may not look like much today, it's amazingly fun in short bursts.  Unfortunately by the time Wizard was ready to be released (1980), Atari was starting to make 4K games with better sounds and graphics than their 2K predecessors.  According to programmer Chris Crawford \u0026quot;It didn't fit well into the product line\u0026quot;.  Wizard was simply too dated to be released as is, but probably could have been made into a decent 4K game had Atari wanted to take the time to retool it.  But as they say, time waits for no man.  Sadly Wizard was left in dust, destined only to become a footnote in prototype history.",
+      "name": "Wizard",
+      "year": "1980",
+      "publisher": "Atari",
+      "players": 2
+    },
+    {
+      "id": "Wizard of Wor (USA)",
+      "description": "Wizard of Wor is an arcade shooter played from a top-down point of view.\n\nThe player controls a warrior who is trapped in a dungeon. The goal is to earn as many points as possible by shooting the numerous enemy creatures which wander about the maze like corridors. The creatures wander about at various speeds, may shoot darts at the player, and some even have the ability to disappear temporarily. At the bottom of the screen the player has a radar which can be used to locate creatures that are invisible.\n\nWhen the the player completes a maze, a Worluk sometimes appears. This creature moves rapidly and will only be on the screen momentarily. If the player destroys the creature before it escapes, the next dungeon will become a double score dungeon and all creatures will be worth twice as many points. Occasionally the Wizard of Wor himself may appear! He moves quickly and can teleport around the maze. If they destroy him, the player will earn a large amount of points.\n\nThe game may be played by one player or two players simultaneously.",
+      "name": "Wizard Of Wor",
+      "year": "1982",
+      "publisher": "CBS Software",
+      "genre": "Action / Labyrinth",
+      "players": 2,
+      "rating": "11"
+    },
+    {
+      "id": "Xenophobe (USA) (alt)",
+      "description": "Xenos.  The very name strikes fear into every colonist's heart.  A distress call is received from space stations orbiting your homeworld, then silence.  A single ship escapes, piloted by a battered man who tells the tale of pods that hatch into acid-spitting Xenos.\n\nA small band of engineers has been dispatched to combat the Xeno threat before it takes over all the space stations and, eventually, your homeworld.  Assemble your band of engineers and fight the Xenos on each station, striving to either clear it or abandon it.  You start out with a standard issue laser, but can pick up additiona weapons as you find them, including Phasers, Lightning Rifles, Poofer guns, and bombs.\n\nXenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  Gameplay premise and setting is heavily inspired/influenced by the movie Aliens.",
+      "name": "Xenophobe",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Platform / Shooter Scrolling",
+      "players": 2,
+      "rating": "12"
+    },
+    {
+      "id": "Xenophobe (USA)",
+      "description": "Xenos.  The very name strikes fear into every colonist's heart.  A distress call is received from space stations orbiting your homeworld, then silence.  A single ship escapes, piloted by a battered man who tells the tale of pods that hatch into acid-spitting Xenos.\n\nA small band of engineers has been dispatched to combat the Xeno threat before it takes over all the space stations and, eventually, your homeworld.  Assemble your band of engineers and fight the Xenos on each station, striving to either clear it or abandon it.  You start out with a standard issue laser, but can pick up additiona weapons as you find them, including Phasers, Lightning Rifles, Poofer guns, and bombs.\n\nXenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  Gameplay premise and setting is heavily inspired/influenced by the movie Aliens.",
+      "name": "Xenophobe",
+      "year": "1990",
+      "publisher": "Atari",
+      "genre": "Platform / Shooter Scrolling",
+      "players": 2,
+      "rating": "12"
+    },
+    {
+      "id": "Xevious (USA)",
+      "description": "It's dangerous, it's devious, it's Xevious.  Never before has a tag line so perfectly summed up a video game.  Xevious was one of the first (if not the first) in a new genre of arcade games: the scrolling shooter.  While we make take such games for granted today, back in 1982 such a concept was unheard of.  Most games of the time had only one non-scrolling screen, which seriously limited their creativity.  One screen shooter like Galaga and Galaxian were ok, but players hungered for something different.  Xevious satisfied that hunger.\nIt's a nightmare, but it's true.  Scientific research has determined that we are the actual aliens on Earth and the evil Xevions are the original inhabitants.  Now the Xevions want Earth back, minus the humans! Earth's last hope is an experimental fighter plane known as the Solvalou.  The mission is dangerous, success isn't guaranteed, and odds are this is a one-way trip.  But at this point it's do or die!\nAs Earth's last hope, you must successfully defeat the Xevion assault fleet before they reclaim earth.  However this won't be an easy task, the Xevions have had over a millennia to develop the biggest, nastiest, and most destructive ships Earth has ever seen.  Thankfully the Solvalou is armed with the latest in weapons technology which will cut through the Xevion hordes like a hot knife through butter.  The Solvalou has two main weapons, a laser blaster for taking out air targets, and a photon bomber for destroying ground targets.  Over the course of the game you'll run into numerous enemy types which can only be destroyed using the appropriate weapon, so mastering the dual shot (air and ground) technique is vital.\nToroid Fleet Ships -- These round rotating objects are the first and most common enemy encountered in Xevious.  Gliding in from the left or right, a small squad of Toroids come towards your ship before darting away from whence they came.  Thankfully Toroids don't pose much of a threat unless you happen to be distracted by something else at the time.\nTorkan Scout Ships -- Torkan Scouts are similar to Toroids except if they see your ship they will change color and fire.  They also have a bad tendency to ram your ship.\nJarra Spinners -- Jarra Spinners tend to move faster than Torkan Scout Ships, but they also move in a more straight forward pattern.   As the name implies they appear to be spinning as they move.\nMirrors (Bacura Shields) -- Mirrors are the single most annoying enemy in Xevious.  These large rotating squares appear in large swarms at various points in the game.  Normally this wouldn't be a problem, but they are INDESTRUCTABLE!  That's right, all you can do is avoid them and hope one doesn't go smashing into your cockpit.  Thankfully Mirror swarms are fairly uncommon.\nZoshi Death Squad -- These odd shaped UFO's are encountered in the later areas.  As the name suggests, Zoshi Death Squads are quick and deadly.  Take great care when attempting to engage themnnGiddo Spario -- These tiny balls of energy are quick and hard to see.  Unless you're careful these will wipe your ship out in no time.\nZakato Energy Launcher -- Zakato Energy Launchers (also known as Black Balls) are on of the deadliest enemies in Xevious.  Appearing out of nowhere, Black Balls self-destruct into a fast moving bullet which will then launch itself at you.  While one or two are easy to avoid, Black Balls like to swarm and appear right next to your ship making them all the more deadly.  Black Balls tend to herald the arrival of Andor Genesis, so when they start to appear you know Andor isn't far behind.\nAndor Genesis -- This is the big one, the Mother Ship!  Andor Genesis is a hulking air fortress armed with four laser cannons just dying to blow you out of the sky.  The only way to defeat Andor Genesis is with a direct hit on the rector core with a photon bomb (think Star Wars), however getting close enough to Andor Genesis without being hit is a major challenge.  Destroying the rector will cause Andor Genesis will cause it to flee and prepare itself for another attack.\nDomogram Rovers -- As the name implies Rovers spend their days roaming along the ground just taking pot shots at your ship.  Rovers move quite fast and can be difficult to bombnnLogram Sphere Station -- These sphere shaped structures appear to be harmless although they will occasionally shoot a bullet towards your ship.  Be on your guard.\nDerota Defense Station -- These square pyramid shaped structures are the most common defensive structure that you'll encounter.  Derota Defense Stations will often shoot a quick moving energy bullet at your ship.  Take them out quickly before they become a problem.\nBatra Energy Station -- These square pyramid shaped structures provide power for the Xevion assault fleet.  They'll take pot shots at you if you get too close.\nWhen Ray Kassar was fired as CEO of Atari in 1983, James Morgan was hired to take his place.  Jim put all projects on hold for 30 days while he reviewed what had been going on during Ray's \u0026quot;reign of terror\u0026quot;.  Since the 7800 was deemed high priority, most 2600 and 5200 projects were put on hold or outsourced to GCC.  It was originally assumed that Xevious was one of the 2600 titles that were killed off during this time, but recently a nearly complete version of the game was found proving that it survived at least until early 1984.\nWhile the gameplay in the 2600 version is amazingly accurate, some corners still had to be cut.  One of the 2600's biggest problem was that it only had one fire button, making many arcade conversions difficult.  Tod got around this problem by having the fire button serve double duty as your fire and bomb button.  Pressing the fire will shoot a shot and drop a bomb that slowly arcs to where the targeting sight is.  The enemy AI also got a bit of a lobotomy so they all generally act the same instead of having distinct attack patterns.  Amazingly Tod was able to implement a scrolling background as was seen in the arcade version.  While this background wasn't as detailed as it's arcade cousin, it was still a major accomplishment for the 2600.  Not only was Tod able to get the scrolling background implemented, but he was able to have multiple enemies appear on the screen at once with little or no flicker.  In fact the only thing that flickers in the entire game is your ship which is actually made up of two missile graphics to keep more sprites free (hence the funny shape and flickering).  This odd design also makes your ship almost twice as large as it was in the arcade (making it harder to dodge enemy shots).\nAlthough Xevious appears to be just about complete, there are a few bugs still present in the code.  The 2600 version of Xevious has an option for controlling the scrolling speed with the difficulty switches (a feature not found in any other version).  However when the game is put in fast mode (A=Slow, B=Fast) the scrolling gets rather choppy and non-uniform making it hard to play after a while.   There's also a glitch in one of the animation frames of the boss (Andor Genesis) due to the game accidentally reading sound code rather than graphics code.  Scoring seems to be a bit generous in this version making it easy to rack up extra lives, but it is unknown if this would have been changed before release.  The code is also unoptimized which wastes a lot of space that could have been used for other improvements, however since code optimization is one of the last things that is done to a game before completion this is not unexpected.\nUnfortunately as good as Xevious was, it didn't stand a chance against the deadliest of enemies ?collapsing market'.   The 2600 version along with the 5200 version were canceled with the 7800 version being the only one to see the light of day.  This is a shame because it's obvious that Tod was a highly skilled programmer who could push the 2600 to its limits and Xevious is an amazing looking game.  The remaining bugs could have probably been squashed with just a few more weeks of work with code optimization taking a little longer.  Had it been finished Xevious probably would have been a mainstay in the 2600 library and a big hit, but it appears that Atari wasn't willing to wait.",
+      "name": "Xevious",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Yars' Return (USA)",
+      "description": "A sequel to the original Yars' Revenge, released on the Atari Flashback 2. Yars' Return takes the gameplay of the Yar's Revenge—invading alien insects that shoot at you from behind a barrier, and periodically dash across the barrier to nibble at your defensive shield—and extends it. Gameplay was strictly horizontal in Yars' Revenge, enemies attacked from the left. In Yars' Return enemies come at you from three directions, adding more variety and interest to the gameplay in this sequel.",
+      "name": "Yars' Return",
+      "year": "2005",
+      "publisher": "Atari",
+      "players": 1
+    },
+    {
+      "id": "Yars' Revenge (USA)",
+      "description": "In Yars' Revenge, your goal is to destroy the Qotile laser-base which is located on the right side of the screen behind a shield. You control the fly-like Yar, which can destroy the shield piece by piece by either shooting it or running into it. Once the shield is down, you will need to use the Zorlon cannon to destroy the Qotile. The Zorlon cannon is located on the left side of the screen, and when fired can destroy the Qotile with a direct hit. The Qotile isn't completely unarmed against your attacks, however. Wandering around the screen is a destroyer missile, which will constantly be homing in on your Yar. This missile can not be destroyed, however you can temporarily hide from it in a shield which runs vertically in the center of the screen. The Yar will be unable to fire when hiding in the shield so you can't stay there indefinitely! The Qotiles second weapon is a swirl which it will randomly fire at you and should be dodged. When you finally destroy the Qotile you can move on to the next, faster round of gameplay. Several game variations are included which control the difficulty and speed of the game.",
+      "name": "Yars' Revenge",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Shoot'em Up",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Zaxxon (USA)",
+      "description": "The Zaxxon defence system must be destroyed in this isometric-viewed shoot 'em up which was originally hugely successful in the arcades. The game has 3 stages, first taking you through Asteroid City, which is heavily protected by aircraft, guns and missiles. Many barriers are alarmed, leaving you with limited space to progress through, and fire must constantly be dodged.\n\nStage two is a space shoot out against hordes of enemy aircraft - those you failed to destroy in the first part of the task. Complete this and you reach the final battle with Zaxxon, with the game looping with increased difficulty if you can survive the first time. There are 3 distinct skill levels, while controls involve using forward to dive and back to climb, in the manner of flight simulation.",
+      "name": "Zaxxon",
+      "year": "1983",
+      "publisher": "Coleco Industries",
+      "genre": "Shoot'em Up",
+      "players": 2,
+      "rating": "11"
+    },
+    {
+      "id": "Zoo Keeper (USA)",
+      "description": "O travesso macaco Marcel sequestrou Zelda, a namorada do zelador do zoológico Zeke, e abriu todas as jaulas dos animais! Você pode ajudar Zeke a reunir os animais e resgatar Zelda? Toda a ação do clássico do arcade chega à sua casa no Atari 2600!",
+      "name": "Zoo Keeper"
     }
   ]
 }
