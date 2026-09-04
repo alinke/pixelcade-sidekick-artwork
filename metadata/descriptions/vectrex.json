@@ -1,0 +1,490 @@
+{
+  "games": [
+    {
+      "id": "3D Crazy Coaster (USA)",
+      "description": "Climb aboard the Crazy Coaster and get ready for a roller coaster ride more dangerous and exciting than any you've experienced before! The magic of Vectrex 3-D makes your ride so real... you'll feel yourself leaning with the G-force!\r\nYou control the movements of the passenger in the lead car as he plummets down the spectacularly steep hills and careens around the gravity-defying curves of the Crazy Coaster. Will you be able to keep his arms raised throughout the ride without sending him flying off into space?!",
+      "name": "3D Crazy Coaster",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Simulation",
+      "players": 1,
+      "rating": "18"
+    },
+    {
+      "id": "3D Mine Storm (USA)",
+      "description": "In 3D Mine Storm, the player controls a ship through multiple mine fields destroying all mines on each field to progress to the next field. The game will start with the enemy minelayer seeding the first mine field. Mines are left in 3 different levels or planes per field. The player's ship will come into view after all the mines have been activated and the minelayer has left the field.",
+      "name": "3D Mine Storm",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "3D Narrow Escape (USA)",
+      "description": "Enter the stellar fortress of a 23rd century warlord whose evil intent is to dominate your home star system and enslave all its inhabitants.\r\nYour mission is to navigate through the narrow and fast-moving passages of the fortress and destroy the warlord's defense forces and his powerful arsenal. Beware... the passages of the fortress will encircle you in 3-D terror while the warlord's defense systems will become increasingly more menacing. Will you succumb to the evil of the warlord or destroy him and make a Narrow Escape?!",
+      "name": "3D Narrow Escape",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": "17"
+    },
+    {
+      "id": "All Good Things (World) (Unl)",
+      "description": "All Good Things, was the world´s first 16K Vectrex cartridge, created by John Dondzila. Compiled together were four great games on the one cartridge.\r\n\r\nThe games are:\r\n- More Invaders\r\n- Rockaroids\r\n- Vectris\r\n- Spike´s Water Balloons\r\n\r\nPlus there is a secret bonus game too!\r\n\r\n",
+      "name": "All Good Things",
+      "year": "1996",
+      "publisher": "Classic Game Creations",
+      "genre": "Compilation",
+      "players": 1
+    },
+    {
+      "id": "AnimAction (USA)",
+      "description": "ANIMACTION is the first video craft of its kind that enables you to create and animate your own art like never before! ANIMACTION's totally new concept lets you create any scene using pre-drawn figures and shapes... and then combine those with other figures, backgrounds and scenery you draw yourself!",
+      "name": "Animaction - Advanced Animation",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Educational",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Armor..Attack (World)",
+      "description": "Maneuver your jeep through the streets and alleys of an occupied town. Hide from the enemy tanks behind buildings and launch your own surprise attack! Improve your chance of survival by playing with an alley. But beware of the deadly helicopter flying overhead . . . no place is safe from this treacherous enemy.",
+      "name": "Armor Attack",
+      "year": "1982",
+      "publisher": "Milton Bradley Co.",
+      "genre": "Shooter",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Art Master (USA)",
+      "description": "ART MASTER is a high performance, state-of-the-art experience that takes you into a world of art exploration you've never seen before! Finally, sketching comes of age... and your creativity comes to life.\r\nAdvanced electronics technology now makes it possible for you to design, draw, and animate your own art! Draw a bird. Then watch it fly! Sketch a train. Then send it speeding down the railroad tracks! Watch a flower blow in the wind or children walk to school. What you create... you can animate.\r\n\r\nYou don't have to be a super-artist to use and enjoy Art Master. All you need is a sense of adventure, fun and a little imagination! We'll show you how to make Art Master the key that unlocks all the creativity you've always known you had!",
+      "name": "Art Master",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Educational",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Bedlam (USA, Europe)",
+      "description": "Your home galaxy has been invaded by alien colonists hoping to claim all inhabited worlds as their own. Unacceptable!\r\nYou have been given the ultimate responsibility of protecting your galactic neighbors from the invaders. Blasting the aliens with the amazing anti-molecular cannon transports them thousands of light years away where they will cause no further bedlam. But beware, the invaders will be increasingly ruthless.\r\n\r\nThe future of the galaxy rests on your shoulders. Good luck!",
+      "name": "Bedlam",
+      "year": "1983",
+      "publisher": "Milton Bradley Co.",
+      "genre": "Shooter",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Berzerk (World)",
+      "description": "Maneuver your humanoid through the electrified mazes of robot filled rooms. You may kill the first group of robots but initial success does not mean survival... \r\nfuture groups begin firing at you! Added danger lurks when Evil Otto enters. He can jump the maze walls and squash you if you linger too long!",
+      "name": "Berzerk",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Action / Labyrinth",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Blitz! - Action Football (USA, Europe)",
+      "description": "Will you have a championship season or just be an also-ran?  You're in control as head coach of this championship caliber squad.  Run, pass, punt, kick field goals -- all the excitement of a real game.  Play against the computer's tough defense or invite a visiting coach to join in a real showdown!",
+      "name": "Blitz! - Action Football",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Clean Sweep (World)",
+      "description": "Evil bank robbers have just blown your bank to smithereens. As bank president, you only have a vacuum available to recover the money strewn among the rubble, before the thieves destroy you! The thieves get increasingly anxious, but for added challenge, turn off the lights of the bank's corridors and gather the money through a blind maze.",
+      "name": "Clean Sweep",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Action / Labyrinth",
+      "players": 2,
+      "rating": "11"
+    },
+    {
+      "id": "Cosmic Chasm (World)",
+      "description": "Can you save the galaxy by blowing up the alien-inhabited planet ... and get off the planet before you explode too? You must burrow deep inside, finding your way through the underground maze while battling the Planet Protectors. If you can get to the center, plant your one bomb and try to find your way out. It's only a matter of seconds before the planet goes BOOM!",
+      "name": "Cosmic Chasm",
+      "year": "1982",
+      "publisher": "Milton Bradley Co.",
+      "genre": "Shooter",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Dark Tower (World) (Proto)",
+      "description": "Enter the fantastic world of the Dark Tower -- a world filled with adventure, danger and all the mysteries of ancient times. You control a squadron of warriors as you search an adventure-filled forest for the magical keys that will unlock the entrance to the Dark Tower. Guide your warriors to the enchanted chests scattered throughout the forest -- each will contain a new puzzle, adventure, terror or treasure. Use your warriors wisely and beware the evils of the forest!\r\n\r\nDark Tower is a fully playable unreleased prototype role playing game programmed in 1983. It was inspired by the 1981 Milton Bradley board game of the same name. The game was considered only a rumor for many years until it was finally made available for download and is now available for play on most multicarts.",
+      "name": "Dark Tower",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Role Playing Game",
+      "players": 1
+    },
+    {
+      "id": "Fortress of Narzod (USA, Europe)",
+      "description": "A long time ago, before our history began, wizards - both good and evil - battled for supremacy of the earth. It was a time of magic and adventure when all men possessed special powers.\r\nThe most evil wizard, Narzod, gained the power to enslave all mankind. You are the only remaining honorable wizard with the knowledge to harness all the forces of good to defeat Narzod and destroy his sinister fortress. But Narzod has prepared for your approach and guards his realm with deadly creatures of darkness, including the Mystic Hurler. Beware, and approach the Fortress of Narzod with great caution!",
+      "name": "Fortress of Narzod",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shooter / Vehicle, Diagonal",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Gravitrex (World) (Unl)",
+      "description": "Gravitrex is a clone of Gravitar, although with many differences, such as the addition of humans dotting the planetary landscapes that have to be rescued.",
+      "name": "Gravitrex",
+      "year": "2002",
+      "publisher": "Classic Game Creations",
+      "genre": "Shoot'em Up",
+      "players": 1
+    },
+    {
+      "id": "Heads-Up - Action Soccer (USA)",
+      "description": "Take the ultimate soccer challenge... without ever leaving your seat! Play with a friend or tackle the computer itself in an action-packed soccer game that takes all the concentration, strategy and split-second reactions of the real thing! You're in control as the realistic, dimensional players get the ball down the field by passing, bouncing and kicking it back and forth to one another - just like a real soccer game!\r\nHEADS-UP! And get ready for an exciting and demanding soccer tournament... complete with the roar of the crowd!",
+      "name": "Heads Up - Action Soccer",
+      "year": "1983",
+      "publisher": "Milton Bradley Co.",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "9"
+    },
+    {
+      "id": "HyperChase - Auto Race (World)",
+      "description": "Watch our for the guardrail! You're behind the wheel of your formula one racer about to start the world's toughest grand prix. Try to stay alive through city streets and country roads. Start your engine - the start lights are counting down!",
+      "name": "HyperChase - Auto Race",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Racing, Driving / Racing",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Mail Plane (USA) (Proto)",
+      "description": "With your Light PEN, control the airborne vehicle tasking you with delivering letters.",
+      "name": "Mail Plane",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Simulation",
+      "players": 1
+    },
+    {
+      "id": "Melody Master (World)",
+      "description": "MELODY MASTER is a high performance learning tool that's easy, educational and most of all...fun! Join the electronic revolution and let your own musical creativity come to life! State-of-the-art technology now makes it possible for you to read music, recognize notes by ear and create anything you can hear. Try to compose a hit song! Play and old favorite! Watch your musical dreams take shape and sound!",
+      "name": "Melody Master - Music Composition And Entertainment",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Educational",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Mr. Boston - Clean Sweep (USA) (Unl)",
+      "description": "Evil bank robbers have just blown your bank to smithereens. As bank president, you only have a vacuum available to recover the money strewn among the rubble, before the thieves destroy you! The thieves get increasingly anxious, but for added challenge, turn off the lights of the bank's corridors and gather the money through a blind maze.\r\n\r\nThe Mr. Boston version of Clean Sweep was given out to customers of Mr. Boston Liquor along with a Vectrex console. 10 copies were given out and only 2 are still known to exist today.\r\n\r\nMr Boston Clean Sweep is nearly identical to the retail release of Clean Sweep with only a few changes.\r\n  - In the game you play as a top hat whereas in Clean Sweep you play as a vacuum.\r\n  - The title screen was changed from “Clean Sweep” to “Mr Boston”.\r\n  - The retail Clean Sweep box was used with a Mr. Boston sticker added.\r\n  - A Mr. Boston label was added to the cartridge with schnapps proof and distillery info.\r\n  - The overlay had “Mr. Boston” and top hat man logo added.",
+      "name": "Mr. Boston Clean Sweep",
+      "year": "1983",
+      "publisher": "GCE",
+      "players": 2
+    },
+    {
+      "id": "Nebula Commander (World) (Unl)",
+      "description": "Nebula Commander is a real time strategy game for the Vectrex. One or two players must gather up resources and create and launch weapons to destroy the other's space station while defending their own in turn. Two players can face off with each other or one player can go against the computer.",
+      "name": "Nebula Commander",
+      "year": "2005",
+      "publisher": "Classic Game Creations",
+      "genre": "Strategy",
+      "players": 2
+    },
+    {
+      "id": "Omega Chase (World) (Unl)",
+      "description": "The player(s) controls a ship in the Omega System. Fighters, Escorts and Freighters attack their ship and it's the player's job to destroy them first. They must avoid mines left by enemies and be careful when thrusting around the walls. Collision with either the enemies or their mines will result in losing a life.",
+      "name": "Omega Chase",
+      "year": "1998",
+      "publisher": "Capital S Software",
+      "genre": "Simulation",
+      "players": 2
+    },
+    {
+      "id": "Patriots (World) (Unl)",
+      "description": "Patriots is a clone of a popular arcade game from the 80's. Patriots is faster and more challenging than other missile games. It is visually exciting, with many special effects, including fades, scaling and rotation. Game control is solid with additional options for those who need them.",
+      "name": "Patriots",
+      "year": "1996",
+      "publisher": "Classic Game Creations",
+      "genre": "Shooter",
+      "players": 1
+    },
+    {
+      "id": "Pitcher's Duel (USA) (Proto)",
+      "description": "America's favorite past-time comes to life on the Vectrex with every ball, strike, and thrilling home run! Stretch that double into a triple or brush the batter off the plate with some inside high heat. It's all here... right down to the last out.",
+      "name": "Pitcher's Duel",
+      "year": "1983",
+      "publisher": "CGE Services",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "12"
+    },
+    {
+      "id": "Polar Rescue (USA)",
+      "description": "Journey to the icy waters beneath the North Pole. As commander of a powerful and highly maneuverable submarine, you must rescue the survivors of an ill-fated expedition.\r\nSeek out the survivors on your sonar screen and pilot your sub to their rescue! To complete your mission, you must avoid deadly mine fields, enemy submarines and the terror of the maelstrom! Monitor your oxygen supply carefully and hurry! Lives are at stake!",
+      "name": "Polar Rescue",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Shooter / Vehicle, FPV",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Pole Position (USA)",
+      "description": "The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!\r\nDo you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?",
+      "name": "Pole Position",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Revector (World) (Unl)",
+      "description": "Your goal is to out score your opponent in a 7 minute timed match. You can score points by shooting your opponent or by picking up power-up items. Power-up items (available in game one) appear randomly on the playfield to be picked up by players, having various effects and lasting either a certain time or with a set amount of uses. If neither player picks up an item after several seconds they will disappear. Once a game's seven minutes have run out, the game will end once one or both players have destroyed the others' vehicle (or they destroy each other at the same time). Revector allows you to take-on another player head-to-head, or a challenging CPU opponent. The game features a rather unique vehicle control system with the joystick controling both rotation and thrust.",
+      "name": "Revector",
+      "publisher": "Packrat",
+      "players": 2
+    },
+    {
+      "id": "Rip Off (World)",
+      "description": "Beware of scavenging pirates trying to steal your precious fuel cells! The more pirates you destroy, the faster their successors become. Guard your tanks carefully... you are always outnumbered!",
+      "name": "Rip Off",
+      "year": "1983",
+      "publisher": "Milton Bradley Co.",
+      "genre": "Shoot'em Up",
+      "players": 2,
+      "rating": "10"
+    },
+    {
+      "id": "Scramble (USA, Europe)",
+      "description": "Watch out for that next mountain! Maneuver your ship over a rough terrain in an effort to destroy the enemy base. Careful piloting alone won't get you to your destination... You must brave rockets, UFOs, flamoids and some very tight tunnels. Few people have ever seen the enemy base, let alone destroy it. Will you be one of the select few?\r\n",
+      "name": "Scramble",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Sectis (World) (Unl)",
+      "description": "Sectis is a Vectrex homebrew game mixing action, exploration and vector-style shooting. The player must infiltrate a hellish fortress, destroy the sectoids guarding it, solve some puzzle-like sections and defeat several bosses. Enemies can latch onto the player's ship and orbit around it, draining shield units if they are not destroyed in time. The final goal is to destroy Sectis himself, first seen inside a cocoon, then reach the final portal to end the game.",
+      "name": "Sectis"
+    },
+    {
+      "id": "Space Frenzy (World) (Unl)",
+      "description": "Aunque era un clon de Asteroids, Space Fury logró ser una oferta única cuando llegó a las salas de juegos a principios de la década de 1980.\r\n\r\nEn primer lugar, fue uno de los juegos anteriores que habló, ya que un alienígena tuerto apareció al comienzo de cada juego diciendo \u0026quot;así que, una criatura para mi diversión\u0026quot;, junto con burlarse del jugador al comienzo de cada nueva ronda. También era un juego de \u0026quot;Asteroides al revés\u0026quot;, debido a que el jugador no dividía objetos grandes en pequeños, pero los objetos pequeños se unían para formar objetos grandes, y además los jugadores podían atracar con proyectiles para aumentar la potencia de fuego de su nave.",
+      "name": "Space Frenzy"
+    },
+    {
+      "id": "Solar Quest (World)",
+      "description": "How many types of alien vessels will you be able to destroy? Seven different types are after you. You must first destroy them and then attempt to rescue the survivors before that float into the sun. Don't get your ship too close to the sun... its high temperatures can destroy you.",
+      "name": "Solar Quest",
+      "year": "1982",
+      "publisher": "Milton Bradley Co.",
+      "genre": "Shoot'em Up",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Space Wars (World)",
+      "description": "Who says there are no rules in intergalactic warfare. Pick your own - bounce, expanded universe, black hole - as you embark on a deadly dogfight.",
+      "name": "Space Wars",
+      "year": "1982",
+      "publisher": "Milton Bradley Co.",
+      "genre": "Shooter",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Spike (USA, Europe)",
+      "description": "The dastardly villain, Spud, has kidnapped our heroine, the lovely and oh so innocent, Molly, and taken her far away to his secret hideout. \u0026quot;Eek! Help, Spike!\u0026quot;\r\nSpike, our courageous hero and Molly's true love, races to her rescue. He'll be relying on your skills and split-second timing to help him in his quest to save poor Molly. Maneuver Spike through treacherous obstacles and avoid the dangerous creatures along the way to Spud's hideout. If you're successful, Spike can rescue Molly and the two will live happily ever after - that is until Spud strikes again. \u0026quot;Oh. No!\u0026quot;",
+      "name": "Spike",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Platform",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Spike Hoppin' (World) (Unl)",
+      "description": "Spike Hoppin' is a game where you make Spike hop on blocks, and change all their \u0026quot;colors\u0026quot;. Spud returns and will try to stop Spike, as well as other enemies and a few friends too.\r\n\r\nSpike Hoppin' includes digitized speech (Spike talks again!), as well as a bonus hidden game and a few other surprises !",
+      "name": "Spike Hoppin'",
+      "year": "1998",
+      "publisher": "Classic Game Creations",
+      "genre": "Compilation",
+      "players": 1
+    },
+    {
+      "id": "Spinball (USA)",
+      "description": "Get ready for even more excitement and split-second action than traditional arcade pinball. SpinBall's special features like a ball splitter, drop targets and ball savers will give you the ultimate pinball challenge. It even TILTS!\r\nSpinBall's action moves fast and furious. You'll need your sharpest reflexes to keep the ball in play and rack up bonus points.\r\n",
+      "name": "Spin Ball",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Pinball",
+      "players": 2,
+      "rating": "10"
+    },
+    {
+      "id": "Star Castle (USA)",
+      "description": "You and other experienced intergalactic voyagers have heard about and shared the legend of Star Castle - a mysterious fortress in a far away galaxy filled with incredible riches and surrounded by revolving walls of shimmering solid gold. Yet no one, until now, has ever actually seen the Castle - or lived to tell about it!\r\nAs you approach, you are overwhelmed with the beauty of the Castle but you suddenly realize that the golden walls hide a deadly arsenal. To survive you must destroy the walls and the powerful Energy Cannon they shield. Perhaps you will be the first to survive the Star Castle's arsenal and prove the legend true. Perhaps not!",
+      "name": "Star Castle",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Shoot'em Up",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Star Trek - The Motion Picture (USA)",
+      "description": "Welcome, Captain Kirk, to your command on the Starship Enterprise. Your mission is to seek out and destroy the enemy Klingon Mothership. Travel through nine sectors of space, each more difficult, or take a shortcut through the Black Hole. Be careful ... the Klingons and Romulans are hiding in space, waiting to destroy you at every turn!\r\n",
+      "name": "Star Trek - The Motion Picture",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Star Hawk (World)",
+      "description": "Fasten your seatbelt... you're the pilot defending the sovereignty of your planet. Don't blink - you might miss one of the alien vessels.",
+      "name": "Starhawk",
+      "year": "1982",
+      "publisher": "Milton Bradley Co.",
+      "genre": "Shoot'em Up",
+      "players": 2,
+      "rating": "13"
+    },
+    {
+      "id": "Thrust (World) (Unl)",
+      "description": "The player has to penetrate various planets to attach a tow-bar to Kylstron Pods, and get out alive. In doing so you can stop the Intergalactic Empire from achieving its evil plan. The game is difficult enough to make a gamer curse, but fun enough to make one smile too!",
+      "name": "Thrust",
+      "year": "2004",
+      "publisher": "Pakrat",
+      "genre": "Shooter / Vehicle, Horizontal",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Tour De France (USA) (Proto)",
+      "description": "A one player racing game published and developed by GCE in 1983.",
+      "name": "Tour De France",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Sports / Cycling",
+      "players": 1
+    },
+    {
+      "id": "Vaboom! (World) (Unl)",
+      "description": "As with Kaboom!, the player's job is to catch all of the bombs \u0026quot;the man\u0026quot; (as he is called in this version) at the top of the screen drops down with a set of paddles. Unlike Kaboom! however, the game starts off quicker, and if the player misses a bomb, the action continues, with one paddle lost, unlike how it would stop with the original before starting over at the previous round. But, like the original, the game will pause between each successful round. If the player loses all of their paddles, the game will end.",
+      "name": "Vaboom!",
+      "year": "2000",
+      "publisher": "Classic Game Creations",
+      "players": 1
+    },
+    {
+      "id": "Vectrexians (World) (Unl)",
+      "description": "Battlestations!! 20 hostile convoys are heading towards your home world! Fight bravely and focused against these attacking alien foes... Do you have what it takes to become the supreme Vectrexian?",
+      "name": "Vectrexians",
+      "year": "2007",
+      "publisher": "Tuts, Kristof",
+      "genre": "Shooter",
+      "players": 1
+    },
+    {
+      "id": "Vec Fu (World) (Unl)",
+      "description": "The evil Daimyo and his minions have laid waste to the player's temple and killed off all of the other monks while the player was away in another province, and now the player is on to get their revenge. First off, the player has to fight against the Daimyos champions of martial arts before they can face the evil one himself.",
+      "name": "Vec-Fu",
+      "year": "2010",
+      "publisher": "Michael Borrmann",
+      "genre": "Fighting / Versus",
+      "players": 1
+    },
+    {
+      "id": "Vec Sports Boxing (World) (Unl)",
+      "description": "Vec Sports Boxing has both a one player mode and a two player mode.\r\n\r\nIn one player mode, the player controls a boxer who is training to become the top fighter. The player's coach will call out commands and the player will have to mimic those commands. Accuracy is important and if the player make a wrong move then he will have to start the training session over again.\r\n\r\nIn two player mode, the players control boxers who are sparring. Each player is trying to wear the other's stamina down and knock them out first. The first to win two rounds wins the match.",
+      "name": "Vec Sports Boxing",
+      "year": "2002",
+      "publisher": "Good Deal Games",
+      "genre": "Sports / Boxing",
+      "players": 2
+    },
+    {
+      "id": "Vectopia (World) (Unl)",
+      "description": "Vectopia includes: • Wormhole: Move your ship in a circular pattern to destroy aliens emerging from the Wormhole ahead of you. Watch out for scout ships, while picking up Power-Ups. The game gets progressively harder as each level passes. • Trakkers: Fly through the grids while destroying enemy Trakkers. Eliminate enemy Trakkers to complete each level. The Trakkers becomes smarter as you progress through each level. Watch out for the Hunter Killer Trakker! • VECTROPOLIS 500 (demo): Functional but minimal game with no AI at all. Up to four players sharing two controller can play this rough but playable game. • Spike's Water Balloons (Analog Controller version): Designed specifically for the Vectrex analog controller. • 2 Port Vectrex Controller Tester: No-Frills program that will let you test all of your controller functions for controller ports 1 and 2. And more!",
+      "name": "Vectopia",
+      "year": "2001",
+      "publisher": "Classic Game Creations",
+      "genre": "Compilation",
+      "players": 4
+    },
+    {
+      "id": "Vector Pong (World) (Unl)",
+      "description": "Vector Pong is a Pong-style Vectrex homebrew game developed to fill the gap left by the absence of a true Pong title in the console's game library. Playable by one or two players, it features analog or digital controls, a Normal mode, a Battle mode, and the option to add moving obstacles. This adaptation modernizes the most classic paddle-based duel in video game history by integrating it into the Vectrex's vector-based aesthetic.",
+      "name": "Vector Pong",
+      "year": "2014",
+      "publisher": "BinaryStar",
+      "players": 2
+    },
+    {
+      "id": "Vector Vaders (World) (Unl)",
+      "description": "March 8, 1996 marked a day of the rebirth of Vectrex games, as programmer John Dondzila unveiled Vector Vaders, which was not only the very first homebrew game for the machine, but it also started the plethora of new games for the Vectrex as well.\r\n\r\nAside from having vector graphics and running a bit slow (although the game does speed up as more and more invaders are shot), this is a pretty standard Space Invaders-type game for the most part.",
+      "name": "Vector Vaders",
+      "year": "1996",
+      "publisher": "Classic Game Creations",
+      "genre": "Shooter",
+      "players": 1
+    },
+    {
+      "id": "Vectrace (World) (Unl)",
+      "description": "The player has a certain amount of time to pass a certain amount of cars during a race before time runs out or the player destroys their car. If the player doesn't occasionally increase their speed, their car will slow down by itself. The race takes place on a three lane road and other cars tend to overlap with each other, making the passing of the cars difficult at times.\r\n\r\nThe player's speed, car's \u0026quot;shape\u0026quot;, score, high score, and time is displayed on the screen.\r\n\r\nWhenever the player strikes a car, the shape goes down, which, if it reaches zero, the player loses one of their five cars and they will have to start the race over. The player starts with a shape of 10 with each race.",
+      "name": "Vectrace",
+      "year": "2000",
+      "publisher": "Habot, Ronen"
+    },
+    {
+      "id": "War of the Robots - Bow to the Queen (World) (Unl)",
+      "description": "The planet surface is a simple silhouette of jagged mountains, but the wire-frame drones gallop fluidly across the landscape.  Due to their long legs and tiny bodies (which resemble AT-STs from Star Wars), they're pretty tough to hit.  Periodically they fire star-shaped missiles, which you can shoot down as they slowly scale in.\r\n\r\nA circular scanner lets you track their positions, but it's not the most accurate device in the world.  War of the Robot's controls are responsive enough, and once you get the hang of it, you'll have a good time blasting drones into pieces.  Unfortunately, two huge flaws spoil the fun.  First and foremost, it's entirely possible, and in fact quite easy, to run out of ammo.  Since you can't reload or find additional ammo, all you can do is sit there and wait for the game to end.",
+      "name": "War Of The Robots",
+      "year": "2003",
+      "players": 1
+    },
+    {
+      "id": "Web Wars (USA)",
+      "description": "Enter a galaxy of the future filled with adventure and danger - a galaxy unlike any you have imagined before.\r\nYou become the Hawk King - a creature capable of incredible speed and power - as you attempt to capture the amazing creatures that inhabit the speeding Web of Fantasy. All 20 creatures are protected by guardians and the dreaded Cosmic Dragon and each will become progressively more difficult to capture. No one has ever captured the elusive twentieth creature. Will you?",
+      "name": "Web Warp",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Shooter / Vehicle, Diagonal",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Xmas Cart 2014 (World) (Unl)",
+      "description": "X-Mas Cart 2014 is a festive Vectrex cartridge containing two Christmas-themed games: Stocking Filler and Save The Trees. In Stocking Filler, the player must fill a Christmas stocking by catching falling presents while avoiding bombs. In Save The Trees, the player must survive falling presents, snowmen, and bombs, making sure every bomb is destroyed before it reaches the bottom of the screen and ruins Christmas.",
+      "name": "X-Mas Cart 2014"
+    },
+    {
+      "id": "Xmas Cart 2015 (World) (Unl)",
+      "description": "X-Mas Cart 2015 is a Christmas-themed Vectrex cartridge featuring two games: Parcel Panic and Space Tree X. In Parcel Panic, the player controls one of Santa's helpers, using a grabbing arm to pick presents from assembly line conveyor belts while avoiding mistakes. Space Tree X follows the further adventures of the tree that saved Christmas, in a space shoot'em up inspired by Asteroids.",
+      "name": "X-Mas Cart 2015"
+    },
+    {
+      "id": "Zantis (World) (Unl)",
+      "description": "Very loosely inspired by the arcade game Spiders, it puts the player in control of a gun at the bottom of the screen. Spiders and various projectiles emerge from an on-screen web and move downward toward the player, who must shoot them before they reach the gun. The game features fast fixed-screen shooting action, aggressive enemy behavior, multiple skill levels, bonus phases with a large mothership, and an eerie musical atmosphere. Zantis brings this spider-themed shoot'em up concept into the Vectrex vector style.",
+      "name": "Zantis"
+    }
+  ]
+}
