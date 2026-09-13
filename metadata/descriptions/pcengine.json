@@ -1,0 +1,1564 @@
+{
+  "games": [
+    {
+      "id": "1943 Kai (Japan)",
+      "description": "This is an enhanced version of 1943: The Battle of Midway, with most of the graphics and sounds reworked. There are also changes in the weapons and the inclusion of anachronical items such as laser-firing WWII planes and ships that run on ground. The player controls a biplane Boeing Stearman E75 N68828 instead of the P-38.\r\n\r\nThe PC Engine adaptation adds some original levels to those from the arcade version, as well as animated intermissions.",
+      "name": "1943 Kai",
+      "year": "1991-03-22",
+      "publisher": "Naxat Soft",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 2,
+      "rating": "13"
+    },
+    {
+      "id": "After Burner II (Japan)",
+      "description": "Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically a machine gun) and a limited number of missiles. In some versions of the game the guns fire automatically all the time. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.\n\nThe game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. You also can speed up and slow down to deal with enemies which appear behind you.",
+      "name": "After Burner 2",
+      "year": "1990-09-28",
+      "publisher": "NEC",
+      "genre": "Shooter / Plane, TPV",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Aoi Blink (Japan) (Translated En)",
+      "description": "Aoi Blink is a side-scrolling platformer based on the TV anime series of the same name. The five levels are similarly built as the ones in Super Mario Bros. 3: they are divided into various areas which are reached through a map screen with branching paths. Those areas need to be solved to be able to walk further on the map. \r\n\r\nThe speciality of this game is that the player can switch between three characters with different abilities on the fly, e.g. one can jump high and another has a better gun. Those are important to be able to solve the challenges the levels bring, mostly consisting of traditional platforming and avoiding/shooting enemies.  However, the boss area at the end of the level map has to be opened with a master key. There is one hidden in every area.\r\n\r\nThe three characters are based on characters of the series and change depending on the level. The health pool is shared between all characters and losing all hearts results in losing a life. Hearts can be refilled by collecting money which is left behind by killed enemies.",
+      "name": "Aoi Blink",
+      "year": "1990-04-27",
+      "publisher": "Hudson Soft",
+      "genre": "Platform",
+      "players": 2,
+      "rating": "12"
+    },
+    {
+      "id": "Atomic Robo-Kid Special (Japan)",
+      "description": "Atomic Robo-Kid Special is a PC Engine adaptation of Atomic Robo-Kid, originally released by UPL for the Arcade in 1988. Unlike the versions released for other systems, which were all straight Arcade conversions, the PC Engine was rebuilt from scratch and thus carries the &quot;Special&quot; modifier in its title.The PC Engine version would never be released outside of Japan. GameplayAs with the standard Atomic Robo-Kid, the eponymous robotic war machine passes through a series of stages to find the exit. Each exit is blocked by a boss enemy, which often needs to be destroyed before the exit becomes accessible. Atomic Robo-Kid can collect up to three weapon upgrades and switch between them: if they lose a life, they lose the presently equipped upgrade but keep the others.The game will switch up how each stage is presented. The first two stages are side-scrollers, while others include a single-screen &quot;duel&quot; with a rival, a maze-like stage that the player explores in various directions and other divergences.",
+      "name": "Atomic Robo-kid Special",
+      "year": "1990-01-19",
+      "publisher": "UPL",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "AV Poker World Gambler (Japan)",
+      "description": "Unlicensed PC Engine release by Games Express. AV Poker is not a full poker simulator, but a simple gambling game. You choose from Normal, which is a standard game or Special Mode, where you travel around the world to show off your gambling skills. The poker part of the game is extremely simple. You place a bet, get a hand dealt to you, choose which cards to hold, and get a second deal to fill in the discards. If you match any of the standard poker hands, you win. You then get the options of taking the cash or playing a higher-lower game to increase your winnings significantly. Occasionally, you also get a fruit machine style mini-game which gives you the chance of winning 'special' cards that can be used during the game.",
+      "name": "AV Poker - World Gambler",
+      "year": "1992-11-15",
+      "publisher": "Games Express",
+      "genre": "Casino / Cards",
+      "players": 4,
+      "rating": "6"
+    },
+    {
+      "id": "Bari Bari Densetsu (Japan)",
+      "description": "Bari Bari Densetsu is a racing game based on the anime of the same name. The player takes the role of a young athlete who takes part in the motorcycle World Grand Prix. Every race consists of a qualifying and the race itself, the goal of course being to gather a good position in the end. The game also features some basic bike customization in which the player can change the tires, brakes, engine, suspension or mission before a race. The weather influences the bike's performance and handling, depending on the bike parts and the course. Additionally there is a travel mode in which the 16 courses can be chosen freely.",
+      "name": "Bari Bari Densetsu",
+      "year": "1989-11-25",
+      "publisher": "Taito",
+      "genre": "Racing, Driving",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Barunba (Japan)",
+      "description": "Barunba is a shooter in comic style. The levels automatically scroll and move in all directions.\nYou control a space craft that has a weapons ring around it and therefore can shoot in various directions. Weapons can be upgraded by shooting enemies and picking up the pods they might change in.\n\nEach level has it's own theme and is quite long and has to bosses: a mid-level boss and an end boss. Both bosses have to be defeated before you can continue to finish the level or go to the next.\nA status bar at the bottom of the screen shows the energy bar of your ship and it's Game Over when that bar has depleted.",
+      "name": "Barunba",
+      "year": "1990-04-27",
+      "publisher": "Namcot",
+      "genre": "Shoot'em Up",
+      "players": 1,
+      "rating": "10"
+    },
+    {
+      "id": "Batman (Japan)",
+      "description": "The TurboGrafx-16 version of Batman: The Video Game is a top-down maze-like game, somewhat similar to Pac-Man or Bomberman.\r\n\r\nThe game consists of five stages based on the movie: the Streets of Gotham, Flugelheim Museum, AXIS Chemical Factory, the Parade and the Cathedral, where Batman finally faces the Joker. The first four stages are divided into 12 sub-stages or mazes. Each main level has its own objective, which basically consists of finding items in the mazes: collecting &quot;smilex&quot; components in the streets of Gotham, cleaning paintings at the museum, planting bombs at the factory and cutting off the ropes of Joker's balloons at the parade. Before each level, a cutscene with scenes from the movie is displayed.\r\n\r\nBatman can attack his enemies with his Batarang. Through the levels, he will collect items which will upgrade his speed and give his Batarang a longer range and multiple shots.",
+      "name": "Batman",
+      "year": "1990-10-12",
+      "publisher": "Sunsoft",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Battle Lode Runner (Japan)",
+      "description": "Originally released only in Japan on the PC Engine (TurboGrafx-16), Battle Lode Runner is a sequel to Lode Runner and its major draw is a 5 player mode. Players move around several platforms collecting gold. Various enemies inhabit the levels, and the player, armed with a drill, attempts to drill holes to capture the enemies.  Unfortunately, this does not defeat the enemies, only disables them for a short time. After a few seconds, the enemies respawn and resume their chase of the player.\n\nThe five-player option was new to any incarnation of Lode Runner, and operates in a very similar manner to Bomberman, except with hole drilling instead of bombing.",
+      "name": "Battle Lode Runner",
+      "year": "1993-02-10",
+      "publisher": "Hudson Soft",
+      "genre": "Platform",
+      "players": 5,
+      "rating": "12"
+    },
+    {
+      "id": "Bikkuriman World (Japan) (Translated En)",
+      "description": "Eleven years have gone by since Tom-Tom rescued his girlfriend Tanya from the clutches of the evil King. Word of Tom-Tom's dangerous adventure soon spread throughout Wonder Land. The people were very proud of him and gave Tom-Tom the highest honor of all - the legendary name of Wonder Boy. With the evil King defeated, Wonder Land returned to its peaceful state, and for over one decade, the kingdom was a paradise, and everything and everyone lived happily together.\r\nEventually, the peace was broken when a ferocious fire-breathing dragon appeared out of nowhere and took over Wonder Land with an army of evil, monsterous henchmen, causing Wonder Land was immediately thrown into utter chaos. The people were quickly taken over and the tranquil and serene kingdom was transformed into a land of demons and devils. Wonder Land was now a Monster Land. Tom-Tom was summoned to set out on a journey, destroy this dragon, and restore peace once again. Tom-Tom is Wonder Land's last hope.",
+      "name": "Bikkuriman World",
+      "year": "1987-10-30",
+      "publisher": "Hudson Soft",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Bomberman '94 (Japan)",
+      "description": "Never one to leave a good thing to be forgotten, Hudson are back with the third installment of the ever present Bomber Man series, and with this one comes a few changes. Apart from our dumpy little hero having lost a little weight since '93, the gameplay has also been altered significantly. While still retaining the basic bombing action, completing a level now no longer requires you to destroy all enemies on screen. Instead, you have to find and destroy a set of pillars on each level and these will unlock a broken piece of amulet from its protected dome. Collect the piece and all remaining destructible blocks turn into coins and you have about 15 seconds to collect as many as possible. Another major addition is kangaroo-type animals that you can jump on and ride. These have special abilities, like jumping and such and also count as an extra hit in case you walk into an enemy or stupidly blow yourself up.",
+      "name": "Bomberman '94",
+      "year": "1993-12-10",
+      "publisher": "Hudson Soft",
+      "genre": "Action / Labyrinth",
+      "players": 5,
+      "rating": "16"
+    },
+    {
+      "id": "Bomberman - Users Battle (Japan)",
+      "description": "The black spaceman kidnapped your beloved and brought her to his chambers in the castle, far beyond your reach, over the rivers, forest and mountains. Your job is to save her, battling the sea of the enemies, with only bombs at your disposal.\n\nThe range of explosion can be upgraded with time, but if you die, the range resets to minimum and you loose your previous skills, though. Some updates can make you walk through the walls, increase your speed, and give you some other assets to aid you in your quest to save the woman you love.\n\nThis top-down action-arcade game consists of nine levels per stage, each tougher than the other, and each final consisting of the boss you'll have to deal with. You can move horizontally and vertically and lay down bombs behind you thus evaporating the enemies, but beware, 'cos you can block yourself with your own bomb, and become a victim of your own tricks if you'll play in a huff.",
+      "name": "Bomberman",
+      "year": "1990",
+      "publisher": "NEC",
+      "genre": "Action / Labyrinth",
+      "players": 5,
+      "rating": "16"
+    },
+    {
+      "id": "Bouken Danshaku Don - The Lost Sunheart (Japan)",
+      "description": "Oddball shoot 'em up with the kind of crazy design of the Cho Aniki games.",
+      "name": "Bouken Danshaku Don - The Lost Sunheart",
+      "year": "1992-01-04",
+      "publisher": "I'Max",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Break In (Japan)",
+      "description": "Break In is a realistic billiards game that allows you to play with up to four players. Choose from a total of six types of games that include: 9 Ball, 8 Ball, Rotation, Cutgame, Bowlard, and Yotsudama.\r\nOn top of that there are several modes you can select ranging from the Simulation mode that lets you arrange balls into the position you desire and take shots with as much power as you want, the Action mode that puts you into realistic situations that often occur in real pool games, and the Technique mode in which you can practice shots from predetermined ball arrangements and attempt to make trick shots.\r\nWhy not learn the rules of billiard with this game and enjoy as if you were at an actual pool hall?",
+      "name": "Break In",
+      "year": "1989-08-10",
+      "publisher": "Naxat Soft",
+      "genre": "Sports / Pool",
+      "players": 4,
+      "rating": "11"
+    },
+    {
+      "id": "Bull Fight - Ring no Haja (Japan)",
+      "description": "Bullfight: Ring no Hasha is a boxing game in which the player takes part in a competition with eight boxers. The tournament consists of four fights and a finale and each boxer can be controlled by a human player. The boxers have different statistics (strength, agility and endurance) which can be improved between fights with a training fight. Each boxer has four moves (left swing, right swing, uppercut and dodge) and a hit both depletes the opponent's energy bar and gives points. Similar to real boxing, those points are used to determine the winner if no boxer is knocked out during the regular rounds. A knockout happens when the energy runs out, but when the player mashes a button fast enough when the boxer is given a count, he stands up again with a partly replenished energy bar. \r\n\r\nAdditionally there is also a side-scrolling fighting game included. Here the player walks from left to right and fights enemies in martial arts melee combat.",
+      "name": "Bull Fight - Ring no Hasha",
+      "year": "1989-12-08",
+      "publisher": "Cream",
+      "genre": "Sports",
+      "players": 8,
+      "rating": "14"
+    },
+    {
+      "id": "Burning Angels (Japan)",
+      "description": "The Burning Angels are two scarcely clothed women who fight with space ships. Their current goal is to rescue the head of a science project who was kidnapped by aliens. Now they head into their ships, fly through the vertically scrolling levels and kill everything they see, including several boss enemies. Killed enemies leave behind power ups which reward five extra weapons, e.g. missiles or drones, which can be used simultaneously or a smart bomb equivalent. The player has a health bar which decreases when the ship is hit by enemies and when it is completely empty, the game is over because there are no continues or extra lives. Similarly, the death of one players ends the game when using the co-operational multiplayer mode.",
+      "name": "Burning Angels",
+      "year": "1990-12-07",
+      "publisher": "Naxat Soft",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Busou Keiji - Cyber Cross (Japan)",
+      "description": "Rolling Thunder-esque platform beat 'em up which gives you the ability to transform into a brightly coloured Power Suit as you fight crime on the streets.",
+      "name": "Busou Keiji - Cyber Cross",
+      "year": "1989-06-23",
+      "publisher": "FACE",
+      "genre": "Platform / Fighter Scrolling",
+      "players": 1,
+      "rating": "11"
+    },
+    {
+      "id": "Champion Wrestler (Japan)",
+      "description": "Champion Wrestler gained popularity in the arcade, and now it is reborn on the PC Engine! Up to 2 people can play simultaneously as well, and you can also enjoy a large number of wrestlers and tag team. In order to take the TWF championship belt, the game will challenge you with formidable enemy skills.",
+      "name": "Champion Wrestler",
+      "year": "1990-12-14",
+      "publisher": "Taito",
+      "genre": "Fighting",
+      "players": 4,
+      "rating": "13"
+    },
+    {
+      "id": "Circus Lido (Japan)",
+      "description": "You play as a little chameleon who must clean up around forty levels. To move, you can't jump. You have to use your language to achieve your ends. The first button allows you to swallow monsters and spit them out, like in Bubble Bobble. Except this time you have to send them to carnivorous plants to eradicate them for good.\r\n\r\nIn Circus Lido impossible to jump, you have to use the other button to stick your tongue out once more in order to pull yourself up via ropes. It follows a rather original handling, but which does not manage to depart from the shadow of Taito's hit. It's a shame, because throughout the levels we take pleasure in finding solutions. Indeed, the game is more of a puzzle game than an action game. Better to think before playing, otherwise you get stuck.",
+      "name": "Circus Lido",
+      "year": "1991-04-06",
+      "publisher": "Uni Post Company",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "City Hunter (Japan)",
+      "description": "City Hunter is based on the manga by Tsukasa Hojo. The story focuses on Ryo Saeba, a young man with a mysterious past, who founds the City Hunter private detective agency in Shinjuku, Tokyo. \r\n\r\nThe gameplay is a straightforward side-scrolling shooter with some adventure elements. The game lacks power-ups or variety of weapons and only one item can be carried at a time. The levels are usually designed as vast indoor areas, with many rooms Ryo can enter while solving 3 cases.",
+      "name": "City Hunter",
+      "year": "1990-03-02",
+      "publisher": "Sunsoft",
+      "genre": "Platform / Shooter Scrolling",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Columns (Japan)",
+      "description": "Columns is loosely derived from Tetris, as it involves arranging falling blocks in such a way as to clear them. However, in columns they are groups of 3 same-size but varying color blocks, which must be arranged into sequences of 3 or more, either horizontally, vertically or diagonally. Sequences of 4 or 5 count for double or triple points, and diagonal sequences score the most. The real trick is to set up 'combos' - where one line causes other blocks to drop so as to create other lines.\n\nAs well as the normal game mode, there is also a 'flash' mode, in which the aim is simply to remove a particular block from the base of the pre-formed pile of bricks. The difficulty of this can be determined by increasing the number of complete rows which are already in place.",
+      "name": "Columns",
+      "year": "1991-03-29",
+      "publisher": "Telenet",
+      "genre": "Puzzle / Fall",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Coryoon - Child of Dragon (Japan)",
+      "description": "Horizontal shoot 'em up that casts you as a baby dragon out to free a princess from the clutches of an evil....well, you get the idea. Gameplay is traditional, with power-up weapons that include multi-way shot and 'miniature' mode and a sort of reverse R-Type beam where you don't shoot to power it up. Also contains 2 minute and 5 minute time attack modes.",
+      "name": "Coryoon - Child Of Dragon",
+      "year": "1991-11-29",
+      "publisher": "Naxat Soft",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Cross Wiber - Cyber Combat Police (Japan)",
+      "description": "Cross Wiber: Cyber-Combat-Police is a sequel to Cyber Cross and follows the adventures of Cross Wiber, an special inspector of the cyber combat police. Several years after the happenings in Cyber Cross, a new threat threatens Earth: Duma and his alien forces. Wiber now starts his counter-attack on Duma.",
+      "name": "Cross Wiber - Cyber Combat Police",
+      "year": "1990-12-21",
+      "publisher": "FACE",
+      "genre": "Platform / Fighter Scrolling",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Cyber Dodge (Japan)",
+      "description": "Futuristic dodgeball game with a choice of fantastical teams (some suspiciously like certain famous movies) and a varied collection of themed courts.",
+      "name": "Cyber Dodge",
+      "year": "1992-01-31",
+      "publisher": "Tonkin House",
+      "genre": "Sports / Dodgeball",
+      "players": 2,
+      "rating": "7"
+    },
+    {
+      "id": "Dai Senpu (Japan)",
+      "description": "Vertically scrolling shoot 'em up, graphically reminiscent of Raiden, with a World War II setting. You set out over various enemy landscapes destroying planes, tanks and boats. Power-ups give you increased weapon damage and you also have a special weapon in the form of a squadron of fighters that comes to your aid.",
+      "name": "Daisenpuu",
+      "year": "1990-12-14",
+      "publisher": "Nec Avenue",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Daichi Kun Crisis - Do Natural (Japan)",
+      "description": "Daichikun Crisis: Do Natural is a 1989 PC Engine game that follows a family of cow anthropomorphs as they cultivate their home of Moo Cow Island. It uses a real-time strategy format where players explore the island and plant various crops. They must also fight off the occasional monster attack from the nearby volcanos, and clear the resulting toxic ash away.",
+      "name": "Daichi-kun Crisis - Do Natural",
+      "year": "1989-11-22",
+      "publisher": "Salio",
+      "genre": "Strategy",
+      "players": 1,
+      "rating": "8"
+    },
+    {
+      "id": "Darius Alpha (Japan)",
+      "description": "One of the rarest games for the PC Engine, Darius Alpha was only offered to those who bought both the CD and HuCard versions of Darius Plus (Which doesn't make much sense, considering how similar the two versions are). People who just couldn't get enough of Darius could now play another variation on the same theme. Darius Alpha is built on the same codebase as Darius Plus, but has been remodeled into a so-called &quot;boss-fight&quot; game, e.g. a game where you only fight the bosses of a game or game series. You start out with an unequipped ship and must take down the boss of the first level, King Fossil. Upon defeating King Fossil, you are granted some slight upgrades and proceed directly to the boss of the next level. And so on.",
+      "name": "Darius Alpha",
+      "year": "1990",
+      "publisher": "Nec Avenue",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Darius Plus (Japan)",
+      "description": "Darius Plus when played on the SuperGrafx has enhanced sprite handing features which removes lots of the flickering issues experienced on the standard PC Engine.",
+      "name": "Darius Plus",
+      "year": "1990-09-21",
+      "publisher": "Nec Avenue",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Detana!! TwinBee (Japan)",
+      "description": "Another top-down shooter in the TwinBee series of &quot;cute'em ups&quot;.\n\nDetana!! Introduces for the first time the characters behind the TwinBee & WinBee fighters, Pastel and Light, and chronicles their journey to save Princess Melora from an evil force that threatens the world. Nevertheless its still all about shooting the heck out of surreal and cute enemies through 6 stages of vertically-scrolling action.\n\nPower-ups and upgrades can be gained by shooting the colored bells that some enemies leave behind until they stay the color you want them to, with many combinations possible. A new charge-shot feature has been added to your basic arsenal, and the game features single and 2-player cooperative gameplay.",
+      "name": "Detana!! Twinbee",
+      "year": "1992-02-28",
+      "publisher": "Konami",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 2,
+      "rating": "13"
+    },
+    {
+      "id": "Die Hard (Japan)",
+      "description": "Terrorists are holding people hostage in Nakatomi Plaza  in an attempt to steal $600 million. John McClain decides to visit his wife Holly, who happens to be one of the hostages, and gets involved in the situation. Unlike other versions of Die Hard that are in the MobyGames database, the TurboGrafx-16 version is played from a top-down perspective, and consists of ten stages which has you fighting bad guys from forests, all the way through the Nakatomi Building, and finally on the roof where the final confrontation takes place. Weapons can be picked up by knocking down enemies, and include machine guns, laser shots, and flamethrowers. If you look hard enough, you may even obtain a bullet-proof vest, which may protects you from shots, but can also reduce its life.",
+      "name": "Hard, Die",
+      "year": "1990-09-28",
+      "publisher": "Nichibutsu",
+      "genre": "Shooter / Run and Gun",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Digital Champ (Japan)",
+      "description": "Set in the near future, DIGITAL CHAMP is a first-person-perspective boxing title that plunges players into the raw intensity of the ring! Determined to thwart Mother Computers plot to conquer mankind, you infiltrate the enemys domain, using your boxing skills to vanquish your foes. Each round is three minutes, with a total of twelve rounds to a match. Advance to the next contest through either a KO or by flattening an opponent three times in a round for a TKO. Utilize an arsenal of left and right jabs, hooks, power-charged crosses, and three different kinds of Devastator punches. Deftly block and slip your opponents attacks, and look for your chance to lay them out. Master these techniques and take down the greatest opponent of them all, DIGITAL CHAMP!",
+      "name": "Digital Champ - Battle Boxing",
+      "year": "1989-10-13",
+      "publisher": "Naxat Soft",
+      "genre": "Sports",
+      "players": 1,
+      "rating": "7"
+    },
+    {
+      "id": "Don Doko Don! (Japan)",
+      "description": "Don Doko Don is a Japanese action platformer first developed and published for arcades by Taito in 1989. One or two players control bearded dwarves as they make their way through fifty platforming and puzzle-like levels in an attempt to save their kidnapped girlfriend.",
+      "name": "Don Doko Don!",
+      "year": "1990-05-31",
+      "publisher": "Taito",
+      "genre": "Platform",
+      "players": 2,
+      "rating": "12"
+    },
+    {
+      "id": "Doraemon - Nobita no Dorabian Night (Japan)",
+      "description": "Based on the popular Doraemon franchise, Nobita no Dorabian Night follows the adventures of the titular robotic cat, as he tries to rescue his friends from different time periods. How did this happen? Naturally, because of Nobita, Doraemon's best friend and geek extraordinaire. Something went wrong when Nobita was showing his friends a time machine, so they ended up stranded in hostile worlds, and now it's Doraemon's job to save them!",
+      "name": "Doraemon - Nobita No Dorabian Night",
+      "year": "1991-12-06",
+      "publisher": "Hudson Soft",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Download (Japan)",
+      "description": "Download is a horizontal shoot 'em up set in a dystopian cyberpunk future in which the main character, Syd, is haunted by memories of his friend Ohala falling to a cybernetic menace. Meanwhile, he receives a call from his contact/partner Deva and must rush to her rescue when she is abducted by the Kabukicho police force. The game's story is depicted in a series of animated vignettes before each stage, similar to Ninja Gaiden. Beginning with the mean streets of Kabukicho, Syd will eventually jack into the internet and fights in a similar manner through cyberspace.",
+      "name": "Down Load",
+      "year": "1990-06-22",
+      "publisher": "Nec Avenue",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Dragon Egg! (Japan)",
+      "description": "A platformer where the player controls a small girl with an egg in her backpack, which can turn into a dragon.",
+      "name": "Dragon Egg!",
+      "year": "1991-09-27",
+      "publisher": "Masaya Games",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Dragon Saber - After Story of Dragon Spirit (Japan)",
+      "description": "Whereas Dragon Spirit was a multi-format conversion, only Turbo-Grafx / PC Engine users initially got to play the lesser-known sequel at home. Gameplay-wise, little has changed from the original, as both games are vertically-scrolling shoot 'em ups putting you in control of a dragon. You are flying over built-up land, complete with rivers and their banks. The enemies and waves can be shot or avoided - shooting them reveals extra points as well as the occasional power-up. Ground units are shooting at you but can't be shot back, so be careful which parts of the screen you occupy at which times.",
+      "name": "Dragon Saber - After Story Of Dragon Spirit",
+      "year": "1991-12-27",
+      "publisher": "Namcot",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Energy (Japan)",
+      "description": "The story of this game is rather simple: Tokyo has been destroyed by monsters! Terrifying creatures have invaded the city and ruined it. A scientist who possesses the secret knowledge of psychic powers known as ESP, imbues a young boy with them, and sends him to the streets and underground caverns of Tokyo, to rescue the few remaining survivors, and find out the source of the monstrous invasion!\n\nEnergy is a side-scrolling shooter. The player manipulates the young hero, who can shoot energy balls and jump. The energy attacks deplete his ESP bar, which refills itself gradually afterwards. The hero's life bar can only be refilled with healing potions which are sometimes dropped by the enemies. The boy can also collect items which change the properties or his ESP attack, and/or upgrade these attacks to the next level.",
+      "name": "Energy",
+      "year": "1989-04-19",
+      "publisher": "Masaya Games",
+      "genre": "Shooter / Run and Gun",
+      "players": 5,
+      "rating": "12"
+    },
+    {
+      "id": "F-1 Dream (Japan)",
+      "description": "Cute themed overhead racing game that takes you through the career of a wannabe F1 driver.",
+      "name": "F-1 Dream",
+      "year": "1989-08-25",
+      "publisher": "Nec Avenue",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "F-1 Pilot - You're King of Kings (Japan)",
+      "description": "Feel the speed and excitement of racing a finely tuned vehicle through the twists and turns of the best race tracks from around the world. Tune your car before each race to maximize your chances of winning each race then hit the tracks to race against opponents that are all vying to win! Keep an eye on things in front and behind at all times to overtake and block your opponents.",
+      "name": "F-1 Pilot - You're King Of Kings",
+      "year": "1989-03-23",
+      "publisher": "Pack In Video",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "F1 Circus '91 - World Championship (Japan)",
+      "description": "F1 Circus '91 is a Formula 1 simulation racing game. The series did not yet feature an official license, and so just like the first game it only features generic team and driver names. The game itself plays much the same, with the overhead race view and focus on car tuning and damage. The World Championship mode has of course returned, though the managerial Constructors mode is no longer present. There is also a Free Attack mode, where any course can be freely practiced; a Training mode, where special training courses can be raced on to learn the ins and outs of the game; and a Watch mode, where the player can choose a course and watch a demonstration race.\r",
+      "name": "F1 Circus '91 - World Championship",
+      "year": "1991-07-12",
+      "publisher": "Nichibutsu",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "F1 Circus '92 - The Speed of Sound (Japan)",
+      "description": "F1 Circus '92 - The Speed ​​of Sound takes the gameplay from previous games. It is therefore a top-down car racing game that mixes the arcade aspect (speed, immediate playability), and simulation elements (settings, damage management). The menus are sober and efficient. The game mixes English and Japanese. This last point is not blocking because it occurs only rarely, during easily understandable phases.",
+      "name": "F1 Circus '92 - The Speed Of Sound",
+      "year": "1992-12-18",
+      "publisher": "Nichibutsu",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "F1 Circus (Japan)",
+      "description": "F1 Circus is a Formula 1 simulation racing game. Unlike later entries in the series, this version does not feature an official license, and so only features generic teams and drivers. Races are viewed from a top-down perspective, and there are a variety of machine settings as well as basic vehicle damage.\n\nA total of 15 courses are on offer, and there is a World Championship mode, as well as a &quot;Constructors&quot; mode for one or two players where the player can take the role of team manager while the computer does the actual racing. The Famicom release also adds a Time Attack mode for practicing and perfecting each course.",
+      "name": "F1 Circus",
+      "year": "1990-09-14",
+      "publisher": "Nichibutsu",
+      "genre": "Racing, Driving",
+      "players": 5,
+      "rating": "14"
+    },
+    {
+      "id": "F1 Triple Battle (Japan)",
+      "description": "F1 Triple Battle is a racing game for the PC Engine based on the open-wheel Formula One racing class. The screen is split three times horizontally and allows for up to three players to play simultaneously. When in single-player or two-player, the top part of the screen shows a map of the course. The game features a single-player World Championship mode, a training Test Run mode and the multiplayer Battle mode.",
+      "name": "F1 Triple Battle",
+      "year": "1989-12-23",
+      "publisher": "Human Entertainment",
+      "genre": "Racing, Driving",
+      "players": 3,
+      "rating": "13"
+    },
+    {
+      "id": "Fighting Run (Japan)",
+      "description": "Fighting Run is an action game by Nihon Bussan that features an unusual mix of racing and fighting. The player takes control of a humanoid biped robot engaged in a series of deadly races against other opponents. But these races have a twist - each racer can attack the opposing player in order to win the race and score points. In single-player mode, the player first needs to choose a track and an opponent. Then points need to be allocated to increase various abilities, from Speed, Power to Armor. Then the race is ready to go - each racer can freely move around the track, hit each other or use special attacks collected along the way (such as lightning bolts, grenades and so forth). Each robot also comes with a life bar and the race is over as soon as it reaches zero. Additionally, Fighting Run features a versus-mode where two players, or two AI controlled opponents, can race against each other, as well as a tournament-mode where eight robots and their pilots race (two at the time) for a golden trophy.",
+      "name": "Fighting Run",
+      "year": "1991-11-29",
+      "publisher": "Nichibutsu",
+      "genre": "Racing, Driving",
+      "players": 2,
+      "rating": "11"
+    },
+    {
+      "id": "Final Blaster (Japan)",
+      "description": "Final Blaster is a vertically scrolling shooter with seven levels. As usual, the player mans a space ship, has to kill the enemy opposition and a powerful boss enemy at the end of each level. A speciality is the dynamic difficulty: if the player offers a good performance in a level, he gets ranked up which affects the difficulty of the next. There are four of those ranks.\r\n\r\nThe game features two power ups which are represented with different colours: weapon upgrades and drones which accompany the player. Those can be upgraded twice each and are compatible to each other. If the player dies, the extras are evacuated into a green capsule. It can be then picked up when using the next life.",
+      "name": "Final Blaster",
+      "year": "1990-09-28",
+      "publisher": "Namcot",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Final Match Tennis (Japan)",
+      "description": "Final Match Tennis is a typical Tennis game for the PC Engine and was only released in Japan. It features 16 different (all male) players and all the normal strokes like smashes, stop balls, lobs, volleys and the like. Through the use of a multiplayer adapter up to 4 people can play the game in any combination in singles and doubles. A tournament and practice mode is also present.",
+      "name": "Final Match Tennis",
+      "year": "1991-03-01",
+      "publisher": "Human Entertainment",
+      "genre": "Sports / Tennis",
+      "players": 4,
+      "rating": "17"
+    },
+    {
+      "id": "Final Soldier (Japan)",
+      "description": "A sci-fi top-down shooter, sequel to the Star Soldier games. Once again its your job to protect the Galactic Empire from an alien invasion using nothing but your trusty starfighter.\n\nThe game is divided in several stages in which enemies attack you in several waves until you reach the stage boss and proceed to the next one. Final Soldier incorporates four different gun pods mapped to each button, which can be fired independently or in conjunction. What you equip in each pod is up to you however as not only you get to select weapon loadouts between levels, but also shooting power-ups cycles to the available weapon types that you can incorporate mid-game.",
+      "name": "Final Soldier",
+      "year": "1991-07-05",
+      "publisher": "Hudson Soft",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Fire Pro Wrestling - Combination Tag (Japan)",
+      "description": "The first in the critically acclaimed Fire Pro Wrestling series, allowing for rapid wrestling action with unprecedented number of moves and a large roster inspired by wrestling legends from around the world.",
+      "name": "Fire Pro Wrestling - Combination Tag",
+      "year": "1989-06-22",
+      "publisher": "Human Entertainment",
+      "genre": "Sports / Wrestling",
+      "players": 4,
+      "rating": "14"
+    },
+    {
+      "id": "Fire Pro Wrestling 2 - 2nd Bout (Japan)",
+      "description": "Fire Pro Wrestling 2nd Bout is the second game in the Fire Pro Wrestling series. It is very similar to Fire Pro Wrestling Combination Tag and doesn't offer much in terms of new content, other than a few new modes, including Excite Series, World Champion Series, Super Tournament, and Elimination Match.",
+      "name": "Fire Pro Wrestling 2 - 2nd Bout",
+      "year": "1991-08-30",
+      "publisher": "Human Entertainment",
+      "genre": "Sports / Wrestling",
+      "players": 4,
+      "rating": "15"
+    },
+    {
+      "id": "Fire Pro Wrestling 3 - Legend Bout (Japan)",
+      "description": "Fire Pro Wrestling 3: Legend Bout is the third game in the long-running Fire Pro Wrestling series. The game is very similar to the first two. There is a significant increase in the amount of wrestlers, however, and there are a few new modes, such as wrestler editing mode and &quot;hidden mode&quot;. There are 28 regular wrestlers, and 4 hidden wrestlers. As usual, while fictitious, they are based on real wrestlers, such as Hulk Hogan. This was the last of the series for the PC Engine as a stand-alone console, with one more being released for its Arcade CD-ROM² add-on.",
+      "name": "Fire Pro Wrestling 3 - Legend Bout",
+      "year": "1992-11-13",
+      "publisher": "Human Entertainment",
+      "genre": "Sports / Wrestling",
+      "players": 4,
+      "rating": "13"
+    },
+    {
+      "id": "Formation Armed F (Japan)",
+      "description": "Formation Armed F, or simply Armed F, is a vertically-scrolling shoot 'em up originally developed by Manjyudo and published by Nichibutsu for the Arcade in 1988. It was later ported to the PC Engine by Pack-In-Video in 1990.The Vowger RC30, the most state of the art starfighter in the Milky Way Federation's fleet, is sent to investigate an unusual phenomenon that has engulfed a number of space stations at the edge of the galaxy. The Vowger is capable of adapting itself via numerous power-ups, which often require that the player switch their weapon formations to better target the enemies they must face.",
+      "name": "Formation Armed F",
+      "year": "1990-03-23",
+      "publisher": "Pack In Video",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": "11"
+    },
+    {
+      "id": "Formation Soccer - Human Cup '90 (Japan)",
+      "description": "Training Soccer - Human Cup '90 is a PC Engine soccer game. In this game you have the choice between Exhibition mode (which consists of playing a single match against an opponent) and Human Cup mode (which pits you against 16 consecutive teams). This game foreshadows the Super Nintendo version which will be released 2 years later.",
+      "name": "Formation Soccer - Human Cup '90",
+      "year": "1990-04-27",
+      "publisher": "Human Entertainment",
+      "genre": "Sports / Football (Soccer)",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Formation Soccer - On J-League (Japan)",
+      "description": "Formation Soccer on J. League is a soccer game developed by Human Entertainment in 1994. The game takes the main lines of its predecessor (Formation Soccer - Human Cup '90). The J. League teams are in the spotlight here. A J. League which had just been created.",
+      "name": "Formation Soccer - On J. League",
+      "year": "1994-01-15",
+      "publisher": "Human Entertainment",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "19"
+    },
+    {
+      "id": "Fushigi no Yume no Alice (Japan)",
+      "description": "Based on Lewis Carrol's Alice in Wonderland novels, Fushigi no Yume no Alice is a cute 2-D platformer which casts you as Alice, a blond-haired girl wearing a pink dress. Your job is to make your way through forests and caves, defeating enemies that you come across by either jumping on their heads or shouting 'IYA' at them. Some enemies will drop eggs which will explode. You can kick these eggs and use them to destroy the enemies themselves. There are three levels in each area, and each level ends with you defeating a boss.",
+      "name": "Fushigi No Yume No Alice",
+      "year": "1990-12-19",
+      "publisher": "FACE",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Gaia no Monshou (Japan) (Translated En)",
+      "description": "Gaia no Monsh? (also known as the 'Crest of Gaia') is a fantasy round-based strategy game by NCS and conversion of a game originally released for the NEC PC-8801 in 1987. The Light and Dark forces are engaged in a fierce war and Böser, leader of the Dark Army, is now ready to capture the Rall Tower, source of the world's energy. Sieghart, leader of the Light army, is the only one who stands between the evil Böser and the complete decimation of the kingdom. Gaia no Monsh? is a turn-based strategy game at heart - the player moves troops around a battlefield and attacks nearby enemy units. An Auto Battle mode is also available and gives the option to let the AI figure out of the player's next move. The game offers several play modes - the first one (Scenario Mode) gives the player the chance to jump straight into battle using predefined troops. The second (Construction Mode) allows him to build his own army using unit points. The last one (Campaign Mode) conveys story plot elements and starts in the siege town of Dirl, where king Sieghart battles the fierce Böser. This mode requires more complex strategy and the player must assemble his own troops using unit points and units lost in battle don't come back during the campaign. Unlike the other two modes, it offers a password system to save the player's progress through the game.",
+      "name": "Gaia No Monshou",
+      "year": "1988-09-23",
+      "publisher": "Nippon Computer Systems (NCS)",
+      "genre": "Strategy",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Ganbare! Golf Boys (Japan)",
+      "description": "Ganbare! Golf Boys (&quot;Do Your Best! Golf Boys&quot;) is a PC Engine exclusive golf game that allows for up to four players to compete is a round of golf via the console's multi-tap peripheral. It did not receive a US localization.\r\n\r\nThe game has a permanent top-down view of each hole, zooming in whenever the player is on the green, and has the &quot;hit the sweet spot&quot; power gauge system standard to most golf simulators. It features a total of two courses, with eighteen holes apiece.",
+      "name": "Ganbare! Golf Boys",
+      "year": "1989-03-28",
+      "publisher": "Masaya Games",
+      "genre": "Sports",
+      "players": 4,
+      "rating": "16"
+    },
+    {
+      "id": "Gekisha Boy (Japan) (Translated En)",
+      "description": "Novel game in which you have to earn points by taking photographs of the most newsworthy happenings as you walk down the street. These involve people falling over, planes crashing, UFOs and many other bizarre events. You have a limited amount of film and have to be careful to dodge obstacles such as bouncing balls and skateboards, as contact means you drop some and when you run out the level is over.",
+      "name": "Gekibo - Gekisha Boy",
+      "year": "1992-10-02",
+      "publisher": "Irem Corporation",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Genji Tsuushin Agedama (Japan)",
+      "description": "Agedama Genji is a 4th grader boy in elementary school, and a hero on the training from 'Hero Planet.' Though the cheerful kid is no one special in appearance, he can transforms into a superhero called &quot;Agedaman&quot; by combining himself with his computer friend called Wapuro. He believes in Kiai power and he tries to handle all the problems that he encounters with that, so his father decided to let him go training on the earth accompanied by only Wapuro on summer vacation. After his arrival to Morisoba city, where an enormously wealthy clan rules arbitrarily, he joined East-Morisoba elementary school, then met a diva girl of the clan named Rei Kuki who has an ambition to conquer the world and, as a first step, attacks the city with a variety of chimera monsters that she and her grandfather create with the Monster-Cooker, which the rich old man invented. When they plot to attack the city she transforms into a super-villainess called &quot;Onyomiko&quot;. The battles of Agedaman and Onyomiko began!",
+      "name": "Genji Tsuushin Agedama",
+      "year": "1991-12-13",
+      "publisher": "NEC",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Genpei Toumaden (Japan)",
+      "description": "In the year 1192, the darkness of the Minamoto clan has come and is spreading across Japan. The country is being ravaged, and only one man of the lost Heike clan can return from the depths of hell to put a stop to it. His name is Taira no Kagekiyo.\n\nThe story of Genpei T?ma Den ostensibly revolves around the historical Genpei War from Japanese history, and involves Taira no Kagekiyo fighting the evil Minamoto no Yoritomo and the Minamoto clan across Japan.\n\nThe game features three modes of play: &quot;side mode&quot;, a small-scale action platforming section; &quot;big mode&quot;, a large-scale fighting section comparable to the Taito coin-op Gladiator; and &quot;flat mode&quot;, an overhead-view section. In all three sections the goal is to destroy enemies, collect items, and reach the end before the life bar (represented by burning candles) runs out.",
+      "name": "Genpei Toumaden",
+      "year": "1990-03-16",
+      "publisher": "Namcot",
+      "genre": "Platform",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Gokuraku! Chuuka Taisen (Japan)",
+      "description": "Cloud Master, or Chuuka Taisen as it's known in Japan, is a horizontal shoot 'em up featuring the literary character Sun Wukong, better known as the Monkey King and the deuteragonist of the Chinese novel Journey to the West. In the English localization of the game, the main character's name is changed to Mike Chen.",
+      "name": "Gokuraku! Chuuka Taisen",
+      "year": "1992-03-13",
+      "publisher": "Taito",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Gomola Speed (Japan)",
+      "description": "Gomola Speed is an action game featuring a robot snake. You must find the pieces of your body strewn about each maze-like stage, which increase your size, and use your length to surround items, food, and enemies in order to eliminate them. You can also use bombs to stun more dangerous enemies.\n\nDifferent stages may have different goals -- for example, you may have to find a key, or use your surround ability on floor tiles to reveal items or enemies. Only your snake's head is vulnerable; if an enemy hits your body it will scatter all the pieces and you'll have to collect them again. After completing set conditions on each stage, a door will open that leads to the next stage, at which point you'll be just a head again, and will have to hunt for your body once more.\n\nThe game has the same unique UPL style that will be familiar to fans of games such as Atomic Robo-Kid and Mutant Night.",
+      "name": "Gomola Speed",
+      "year": "1990-09-28",
+      "publisher": "UPL",
+      "genre": "Action / Labyrinth",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Gradius (Japan)",
+      "description": "The people of Gradius are in trouble. The ameoboid Bacterions have launched an all out attack against the planet, and it's up to you to fly into battle and save them. Along the way you'll be able to power up your ship with hyper speed, force fields, lasers, missiles, double beam cannons and more to help you battle. Based on the arcade game, Gradius is a side scrolling shooter. Shooting certain enemies will leave a power up pod behind which can be collected to add more power to your ship. Each level features a wide variety of enemies trying to stop you, with a large boss at the end. Gameplay is for one player or two players alternating.",
+      "name": "Gradius",
+      "year": "1991-11-15",
+      "publisher": "Konami",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Hana Taaka Daka! (Japan)",
+      "description": "Konta the little fox is in trouble - while on a walk with his girlfriend Inari, he &quot;accidentally&quot; broke the magical seal that held the evil tanuki raccoon Jikanda and his minions prisoner. They have abducted Inari and Konta is in great despair. He decides to seek assistance from the gods and ask them for help. A flying Tengu answers to his desperate plea.",
+      "name": "Hana Taaka Daka!?",
+      "year": "1991-08-09",
+      "publisher": "Taito",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Hatris (Japan)",
+      "description": "In Hatris, the falling blocks of Tetris are replaced by falling hats which are top hats, cowboy hats, baseball caps, derbys, party hats and crowns. The setting is a hat factory, where hats are dropped down from a conveyor belt two at a time and must be stacked on one of six mannequin heads. Once five hats of the same kind have been stacked on top of each other, they fall down onto another conveyor belt below and are shipped out of the factory, rewarding the player with a cash bonus (the game keeps track of score as money, not simply points). Once you ship out enough hats out of the shop, you go up a level to the next shop. The higher shop number you get to, the more types of hats start appearing to make it more difficult for you to accomplish your task. The game ends when one of your stacks of hats reaches the top of the screen.",
+      "name": "Hatris",
+      "year": "1991-05-24",
+      "publisher": "Micro Cabin",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Heavy Unit (Japan)",
+      "description": "Heavy Unit is a &quot;shoot-'em-up&quot; game.\n\nIt's year 2014 and human colony &quot;Le Tau&quot; is under attack by some strange aliens. You are given command a special starship that can be transformed into mecha (giant robot) through game by obtaining various power ups. Besides that it's a typical shooting game where you have to fly through various side scrolling levels and shoot everything you see.",
+      "name": "Heavy Unit",
+      "year": "1989-12-22",
+      "publisher": "Taito",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "10"
+    },
+    {
+      "id": "Honoo no Toukyuuji Dodge Danpei (Japan)",
+      "description": "Dodgeball game with loads of anime style sequences and even an RPG style story mode. Based on the manga of the same name.",
+      "name": "Honoo No Toukyuuji Dodge Danpei",
+      "year": "1992-09-25",
+      "publisher": "Hudson Soft",
+      "genre": "Sports / Dodgeball",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Image Fight (Japan)",
+      "description": "A mysterious alien life form is spreading across the galaxy, trying to conquer the world. It took control of the moon base and is threatening to descend on the Earth. The humans have sent the most advanced fighter jet to oppose the aliens: the OF-1. The OF-1  has the ability to change speed at any time and equip different weapons and pods. OF-1 is humanity's last hope!\r\n\r\nImageFight is a top-down vertically scrolling space shooter. On every level there will be enemy ships, turrets, robots, and other machines shooting projectiles or trying to ram you. But there are also power-ups scattered around in small green containers. You must destroy these containers before you can obtain the power-up. Those power-ups include pods that add extra attack power or speed, new kinds of weapons, the ability to fire in different directions, etc.",
+      "name": "Image Fight",
+      "year": "1990-07-27",
+      "publisher": "Irem Corporation",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "J-League Greatest Eleven (Japan)",
+      "description": "J-League Greatest Eleven features the ten teams of the Japanese Soccer League from its inaugural 1993 season. There is an exhibition mode with the support of four players and a league mode where 1 or 2 players can play against the computer.",
+      "name": "J. League Greatest Eleven",
+      "year": "1993-05-14",
+      "publisher": "Nichibutsu",
+      "genre": "Sports",
+      "players": 4,
+      "rating": "17"
+    },
+    {
+      "id": "Jigoku Meguri (Japan)",
+      "description": "Bonze Adventure, or Jigoku Meguri (&quot;Hell Tour&quot;), is an Arcade platformer featuring the eponymous Buddhist monk Bonze has he makes his way through the Shinto/Buddhist equivalent of Hell. He is beset by demons and yokai from all sides but is able to exorcise them with his prayer beads, which are thrown outwards with a bouncing motion.",
+      "name": "Jigoku Meguri",
+      "year": "1990-08-03",
+      "publisher": "Taito",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Jinmu Denshou (Japan)",
+      "description": "Jinmu Denshou is an action game in which the player character marches towards the horizon while enemies fly towards him. It looks and plays like Sega's Space Harrier, its clear inspiration, though a major difference is that the main character is a samurai-like figure who is usually limited to attacking incoming enemies with his sword. After an upgrade, he is able to fire projectiles and he can also charge up an attack and unleash it to cause a significant amount of damage. The game has a few superficial platforming elements as well.",
+      "name": "Jinmu Denshou",
+      "year": "1989-06-28",
+      "publisher": "Big Club",
+      "genre": "Shooter / TPV",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Juuouki (Japan)",
+      "description": "You are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive.\r\n\r\nThe Altered Beast title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.\r\n\r\nThe game can be played in single player mode, or in same-screen multiplayer co-op mode.",
+      "name": "Juuouki",
+      "year": "1989-09-29",
+      "publisher": "Nec Avenue",
+      "genre": "Platform / Fighter Scrolling",
+      "players": 2,
+      "rating": "17"
+    },
+    {
+      "id": "Kaizou Choujin Shubibinman (Japan)",
+      "description": "The evil robot Dark Skull has escaped Doc's control and now threatens to destroy the city with his army of evil robots, now only Doc's newest creations: the cyborgs Tasuke and Kyapiko can put an end to his plans.\r\n\r\nShubibinman is a 2D side-scrolling action platformer, in which you play as either of the Shubibinmen (or both in the cooperative 2-player mode) and try to defeat Dark Skull's forces using your blade and your cyborg-powers. The game starts in a city-map from which you select which stage to tackle next, each stage features a hostage and a boss cyborg that must be defeated. Successful completion of these objectives rewards you with money that you can take back to &quot;Doc&quot; for upgrades that augment your existing powers or add new ones, which you'll surely need for the final battle. ",
+      "name": "Kaizou Choujin Shubibinman",
+      "year": "1989-03-18",
+      "publisher": "Masaya Games",
+      "genre": "Platform",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Kattobi! Takuhai Kun (Japan)",
+      "description": "Kattobi! Takuhai-kun (&quot;Fury! Delivery Boy&quot;) is a top-down action/driving game from Advance Communications Company and Tonkin House. The player is a delivery boy who must make a series of increasingly surreal deliveries across town, occasionally leaving the country and getting into trouble with drug trafficking. As the player complete jobs, they can use their earnings to buy better two-wheeled delivery vehicles, upgrading from a pedal bike to a moped to a state-of-the-art motorcycle. Destroying their vehicle (by losing a life) drops them back down to the regular pedal bike.",
+      "name": "Kattobi! Takuhai Kun",
+      "year": "1990-11-09",
+      "publisher": "Tonkin House",
+      "genre": null,
+      "players": 1,
+      "rating": "10"
+    },
+    {
+      "id": "KickBall (Japan)",
+      "description": "Kickball is a comedic sports game developed by Dual and published by Masaya exclusively for the Japanese PC Engine. It resembles baseball, complete with a diamond of bases to around, but the &quot;batting&quot; player is actually kicking the ball. The rest of the game plays like a normal round of baseball.\r\n\r\nIt features seven characters - each of which represents a team of identical athletes - each with their own special pitch/kick move. These characters also include the two protagonists from the Kaizou Choujin Shubibinman series: Tasuke and Kyapiko (or Arnold and Sonia, as they're known in Shockman). Each team also has an assigned stadium that fits their theme: the seal team, for instance, have a stadium with an ice-like floor.",
+      "name": "Kickball",
+      "year": "1990-11-23",
+      "publisher": "Masaya Games",
+      "genre": "Sports / Baseball",
+      "players": 2,
+      "rating": "13"
+    },
+    {
+      "id": "Kiki Kaikai (Japan)",
+      "description": "Sayo-chan/Pocky makes her way across various levels, changing directions occasionally, and using either a wand or scrolls to exorcise the unruly spirits she meets. She can only get hit once before dying, though some enemies will grab her instead to slow her down.",
+      "name": "KiKi KaiKai",
+      "year": "1990-03-27",
+      "publisher": "Taito",
+      "genre": "Shooter / Run and Gun",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Knight Rider Special (Japan)",
+      "description": "Michael Knight is a man on a mission. Reborn, so to speak, after getting shot in the face, Knight decides to dedicate his life to fighting for justice. Self-made billionaire Wilton Knight hires Michael to be the lead field agent in his Knight Foundation's public justice organization, part of which includes the developoing of KITT (Knight Industries Two Thousand), a superpowered, intelligent souped-up Pontiac Trans-Am. KITT can drive 300 miles an hour, is bulletproof, fireproof, can talk, and helps Michael fight injustices in the world.",
+      "name": "Knight Rider Special",
+      "year": "1989-12-22",
+      "publisher": "Pack In Video",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Kyuukyoku Tiger (Japan)",
+      "description": "Twin Cobra is a vertically scrolling shoot-em-up. You pilot the TC-17 Twin Cobra assault helicopter to fight the forces of Commander Anziga, the myopic leader of the nation of Kaban. Your job is to fly into Kaban and tak",
+      "name": "Kyuukyoku Tiger",
+      "year": "1989-03-31",
+      "publisher": "Taito",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Lady Sword (Japan) (Translated En)",
+      "description": "In this game, the player takes control of a young nameless traveler. One day, the hero meets a man who tells him a sad story: monsters have kidnapped his granddaughter, and locked her away in a tower. Apparently, the monsters also took away nine other young girls, and have some evil plans in mind. The hero agrees to venture into the tower's labyrinth and succeed where no other adventurer could...\r\n\r\nLady Sword is a first-person solo dungeon crawler. The player navigates the hero through the complex, maze-like corridors of the tower (with an auto-map feature), trying to find the right way to the stairs to the next floor. Fake walls, teleporters, one-way doors, items that must be collected to unlock hidden passages, boss enemies, etc., are there to make this task harder than it looks. Regular enemies pop out randomly, and must be defeated in a very simple turn-based combat. \r\n\r\nThere is no damage feedback for the hero (though the player can see exactly how badly the hero himself is hurt), no weapons, armor, or items for combat usage. The player can heal the hero's wounds by selecting &quot;sleep&quot; from the menu. Sleeping restores the hero to full HP; but if he rests too much, a tough demon will appear and attack.\r\n\r\nCharacter growth is handled via direct stat increasing; there are no &quot;levels&quot;, and the hero's HP, attack and defense power, as well as agility, increase gradually the more he fights.\r\n\r\nOn each floor, a digitized photo of a young woman will greet the hero and encourage the player to explore further - at the stairs to the next floor, should the hero overcome all the obstacles, the player will be able to see the girl naked.",
+      "name": "Lady Sword - Ryakudatsusareta 10-nin no Otome",
+      "year": "1992-07-13",
+      "publisher": "Games Express",
+      "genre": "Role Playing Game",
+      "players": 1,
+      "rating": "9"
+    },
+    {
+      "id": "Lode Runner - Lost Labyrinth (Japan) (Translated En)",
+      "description": "Lode Runner: Lost Labyrinth is an exact conversion of the original Lode Runner. However, this version features one hundred levels which mostly differ from the original ones. Another difference is that the levels scroll.\r\n\r\nThis is a platformer in which the protagonist needs to collect all gold which is spread out over the levels. Unfortunately there are a lot of enemies roaming around which should be avoided. The protagonist can't jump and so he needs to resort to ladders and horizontal ropes for dodging. The only way to temporarily get rid of a guard is to make a hole in the ground where they can't get out when falling in. After a certain amount of time a hole is filled up and a trapped guard respawns.",
+      "name": "Lode Runner - Lost Labyrinth",
+      "year": "1990-07-27",
+      "publisher": "Pack In Video",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Magical Chase (Japan)",
+      "description": "Ripple is a student of magic, and her teacher is a terrifying witch. Ripple's particulary afraid of her teacher right now, because she's just broken a promise she made to the witch: Ripple took a peek inside the forbidden book Sleeping Demons! No sooner had she opened the cover than out jumped six demons, which raced away! Unless she can catch all six demons and get them back inside the book, the witch will turn Ripple into a frog for breaking her promise! Ripple sets off on her quest with her two Elf-Star friends, Topsy and Turvy. Good luck, Ripple!!",
+      "name": "Magical Chase",
+      "year": "1993",
+      "publisher": "Turbo Technologies",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Makai Prince Dorabocchan (Japan)",
+      "description": "Makai Prince Dorabocchan (&quot;Demon Prince Dorabo&quot;) is a 2D platformer for the PC Engine. The player controls the titular character who is on a quest to rescue his master and defeat the evil demons that have invaded the kingdom.\r\n\r\nAs well as his own magical powers, he can be upgraded by finding suits of armor which boost his abilities as well as temporary power-ups that provide double-jumping, a syringe weapon that stuns enemies and cleats that allow him to jump on enemies to defeat them. If he finds a bat with a bell, he can summon his burly Moai guardians who use their stone bodies to create bridges that allow Dorabo to move forward or find secret areas.",
+      "name": "Makai Prince Dorabocchan",
+      "year": "1990-12-21",
+      "publisher": "Naxat Soft",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Marchen Maze (Japan) (Translated En)",
+      "description": "Märchen Maze is a platform/shooter game and conversion of Namco's 1988 arcade game of the same name. The gameplay remains largely the same - the player takes control of Alice who must shoot bubbles at enemies to knock them off platforms. Unlike the arcade original which was in isometric perspective, Märchen Maze on the PC Engine is an overhead game. This version features different stages than the arcade game, and because of the lack of a time limit, many of the stages are much more expansive. The chequered platforms at the end of a level are static rather than moving, hopping on to them automatically takes you to the boss. Also, instead of starting from a checkpoint when you die, your lives are represented by balloons. Should Alice fall, you'll be respawned on the spot.",
+      "name": "Märchen Maze",
+      "year": "1990-12-11",
+      "publisher": "Namcot",
+      "genre": "Shooter / Run and Gun",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Metal Stoker (Japan)",
+      "description": "Metal Stoker is a 2D top-down, multi-directional shooter. The player controls a female pilot (presented only in several cut-scenes) controlling a prototype CS-05 tank. The tank can freely be moved around the screen in any direction and the game scrolls along until the edge of the area is reached. The tank needs to destroy enemies and locate the exit. There are several weapons such as lasers, homing missiles, mines, a force field etc. The tank's turret can be locked into one position to shoot, so it is possible to strafe. Sometimes the player must destroy all the enemies or a boss to progress. The game has seven levels in totals and many parts of the levels are mazes.",
+      "name": "Metal Stoker",
+      "year": "1991-07-12",
+      "publisher": "FACE",
+      "genre": "Shoot'em Up",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Mizubaku Dai Bouken (Japan)",
+      "description": "In Mizubaku Daibouken, you play Hipopo the Hippopotamus who must venture through a large number of enemy-packed levels in search for his missing girlfriend, as well as rescuing other hippo-like creatures along the way. ",
+      "name": "Mizubaku Dai Bouken",
+      "year": "1992-01-17",
+      "publisher": "Taito",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Momotarou Katsugeki (Japan)",
+      "description": "Momotaro Katsugeki (&quot;Momotaro Action Movie&quot;) is a side-scrolling action-platformer from Hudson that uses their Momotaro character who is better known as the star of the Momotaro Dentetsu and Momotaro Densetsu series. It is a PC Engine exclusive and never saw international releases.\r\n\r\nMomotaro Katsugeki seems influenced by and plays similarly to Westone's Wonder Boy in Monster Land and the sequels that followed: the goal is to move across a set of 2D stages, and the player can talk to NPCs for hints and to purchase better equipment with the money they find. There is also a world map that links the various stages together.",
+      "name": "Momotarou Katsugeki",
+      "year": "1990-09-21",
+      "publisher": "Hudson Soft",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Monster Pro Wrestling (Japan)",
+      "description": "Monster Pro Wrestling is a Japanese game in which you choose a monster and battle other monsters in turn-based battles. It is notable for its humorously nonsensical battle animations, such as the appearance of a dozen heads on screen and death blows literally tearing monsters apart.",
+      "name": "Monster Pro Wrestling",
+      "year": "1991-11-22",
+      "publisher": "ASK Kodansha",
+      "genre": "Sports / Wrestling",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Moto Roader II (Japan)",
+      "description": "Moto Roader II is a racing game shown in a top-down perspective. Five vehicles compete on a course with the goal to finish first. However, the screen always follows the leading vehicle and if a vehicle is left behind, it gets replaced on the current screen. Every vehicle has a fuel counter which gets a penalty if the vehicle is hit or needs to be replaced. Reaching zero ends the race. Players can choose between three vehicles which drive differently (car, tank or hovercraft) and, if they have gathered enough prize money, can upgrade it between races (including weapons). In contrast to the predecessor, the game has a futuristic look.",
+      "name": "Moto Roader 2",
+      "year": "1991-03-29",
+      "publisher": "Masaya Games",
+      "genre": "Racing, Driving",
+      "players": 5,
+      "rating": "15"
+    },
+    {
+      "id": "Mr. Heli no Daibouken (Japan)",
+      "description": "It is 2999 and Mr Muddy threatens your planet. Fortunately you have a fully armed large helicopter with which to attack his sadistic minions. You hop aboard and fly through four side-view levels, primiarly scrolling left to right but with some variant, each of which ends with a boss.\n\nAs well as enemies, there are many blocks on the levels. The weapon upgrade system is build into these, which function in two different ways. Most will drop crystals, which if collected are added to your cash total. The others reveal a picture of a weapon with a price - make contact with it while carrying enough credits and you will buy this weapon. When your energy bar runs out you lose a life; when this happens you lose all your money.",
+      "name": "Mr. Heli no Daibouken",
+      "year": "1989-12-01",
+      "publisher": "Irem Corporation",
+      "genre": "Shoot'em Up",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Naxat Open (Japan)",
+      "description": "Naxat's first foray into golf games features a full 18-hole course and lots of top professional opponents. You choose your clubs before starting play, and the game automatically chooses what it feels is the best club for each shot. Before each shot you can view either a fly-by of the course or a close-up of the green and its contours. The game's courses scroll in multiple directions form an overhead view, and feature bunkers, trees, water hazards and all the rest. A three-press control system is used for playing shots, switching to a two-click once you reach the green (as draw and fade become irrelevant).",
+      "name": "Naxat Open",
+      "year": "1989-05-30",
+      "publisher": "Naxat Soft",
+      "genre": "Sports",
+      "players": 1,
+      "rating": "11"
+    },
+    {
+      "id": "Naxat Stadium (Japan)",
+      "description": "Baseball game with very dumpy players.",
+      "name": "Naxat Stadium",
+      "year": "1990-10-26",
+      "publisher": "Naxat Soft",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "10"
+    },
+    {
+      "id": "Nekketsu Koukou Dodgeball Bu - PC Bangai Hen (Japan)",
+      "description": "Similar to the NES version, the PC Engine version added individual stats, life gauges, and power shots for each member of every team, but the graphics, teams, and stages are still identical. In addition to the single-player tournament mode and a 2-player versus mode, it also features a single-player quest mode where the player can replace the default members of their team with the captains from the rival teams.",
+      "name": "Nekketsu Koukou Dodgeball-bu - Pc Bangai Hen",
+      "year": "1990-03-30",
+      "publisher": "Naxat Soft",
+      "genre": "Sports / Dodgeball",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Nekketsu Koukou Dodgeball Bu - Soccer PC Hen (Japan)",
+      "description": "While Kunio and Shinichi were practicing dodge ball, soccer manager Misako approached the two on the court. &quot;Please! Instead of dodgeball, join me and play soccer in the national convention!&quot;\r\n\r\nNekketsu High Soccer Club has come down with food poisoning, and Kunio must lead his dodgeball team into the soccer competition and go for the goal! Only through winning the championship can Kunio convince his whole team to join him.\r\n\r\nThe classic soccer game is now presented with high resolution graphics and enchanting sounds!",
+      "name": "Nekketsu Koukou Dodgeball Bu - Soccer Pc Hen",
+      "year": "1992-04-03",
+      "publisher": "Naxat Soft",
+      "genre": "Sports / Football (Soccer)",
+      "players": 4,
+      "rating": "8"
+    },
+    {
+      "id": "New Zealand Story, The (Japan)",
+      "description": "One day, a kiwi tribe was having fun and games outside the zoo, only to be kidnapped by the evil-minded Leopard Seal, who plans to sell them at the black market. Fortunately, during the kidnapping process, Tiki, leader of the tribe, managed to escape the sack, and her job is to rescue Phee-Phee and the other kiwis scattered around New Zealand, and are held in cages in various locations that include Auckland, Rotorua, Waitomo Caves, Strait Cook, and Mt. Cook. \r\n\r\nIf Tiki doesn't rescue a kiwi in a limited amount of time, the devil will appear and try to kill her. When Tiki reaches the outskirts of each city, except Strait Cook, there is a boss waiting to meet Tiki, and kill her by using their own choice of weapons. Also making the rescue mission difficult are several nasties that attempt to throw their own weapons, like bombs and arrows, at her. To defeat these enemies, Tiki shoots at them using her crossbow and arrows. More often than not, when Tiki shoots at enemies, they will leave behind pieces of fruit that she can pick up for points. However, it is likely that Tiki may get other weapons or the letters E, X, T, E, N, and D. Collecting all these letters will result in an extra life, and as for the weapons, they include laser shots, bombs, and fireballs. \r\n\r\nIn some levels, a few areas are located further up than just left or right, and the only way that Tiki can go up is by snatching something off the enemy that gives her the ability to fly up. Other areas are underwater, and when Tiki goes underwater, her oxygen  meter decreases, so she has to rise up to the surface again to restore her oxygen levels. Apart from her own weapons, Tiki is able to squirt water at enemies if she gets to the top of the water.\r\n\r\n\r\n",
+      "name": "New Zealand Story, The",
+      "year": "1990-02-23",
+      "publisher": "Taito",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Niko Niko Pun (Japan)",
+      "description": "Jajamaru, Pikkoro and Porori one day arrive on an island where they find a cute little pink dragon. The poor thing is starving and they all decide to help him and escort the animal through several stages to collect his favorite food (displayed at the bottom of the screen).",
+      "name": "Niko Niko Pun",
+      "year": "1991-12-13",
+      "publisher": "NHK Software",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "11"
+    },
+    {
+      "id": "Ninja Ryuuken Den (Japan)",
+      "description": "Ninja Gaiden begins with a cinematic animation in which two ninjas duel to the death and one goes down. It is then revealed that the doomed ninja is the father of Ryu Hayabusa. When Ryu learns of this, he embarks on a quest to find out who killed his father and why. This quest takes him to America to find an archaeologist with whom his father was working. From there, Ryu becomes embroiled in an evil, supernatural conspiracy involving a villain named Jaquio who has plans to use an ancient castle and some relics to unleash a terrifying evil upon the world.\r\n\r\nNinja Gaiden is a side scrolling game where Ryu the ninja can run, jump and slash with his ninja sword. He can also attach to any vertical surface. Power-ups that allow Ryu to toss fireballs and ninja stars as well as perform other feats are scattered throughout the landscape.\r\n\r\nRyu will battle through urban city settings, forests, jungles, snow covered castles, underground railroads and ancient castles. A major feature in Ninja Gaiden are the cinematic scenes ? sometimes fullscreen ? through which the storyline unfolds.",
+      "name": "Ninja Ryuukenden",
+      "year": "1992-01-24",
+      "publisher": "Hudson Soft",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Ninja Warriors, The (Japan)",
+      "description": "The Ninja Warriors is a one or two player side-scrolling beat-em-up. The Taito coin-op featured three monitor screens side by side, while the Amiga version was developed in letterbox format in order to show as much of the wide screen background graphics as possible. \r\n\r\nThe player(s) control robot Ninjas, which battle their way through the levels using Shuriken and knives. As the Ninja's take damage their classic Ninja garb is torn away to reveal robotic limbs, torso or head. When the damage reaches a critical level the Ninja Robot explodes scattering mechanical body parts.\r\n\r\nAs with The Sales Curve's later title SWIV, The Ninja Warriors uses the company's Dynamic Loading System to load sprites, sound and background graphics from disk on the fly.",
+      "name": "Ninja Warriors, The",
+      "year": "1989-06-30",
+      "publisher": "Taito",
+      "genre": "Beat'em Up",
+      "players": 1,
+      "rating": "11"
+    },
+    {
+      "id": "Obocchama Kun (Japan)",
+      "description": "From the manga of the same name, you will play Chama Obo, a young boy from a rich Japanese family. One day, a huge mountain in the shape of a turtle appears. It is said that this mountain was the home of the Obo ancestors and that a fabulous treasure would be found there. According to legend, the eruption of this mountain announces however a bad omen and would be initiated by a profanation. The young Chama does not support this idea and promises his father, ready to call the army, he will kick the buttocks intruders. With his friends, he goes to the mountains, in a hurry to fight. Unfortunately, soon after the beginning of their journey, his companions are removed by dark forces ... and that was not planned in the program!",
+      "name": "Obocchama Kun",
+      "year": "1991-03-15",
+      "publisher": "Namcot",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Operation Wolf (Japan)",
+      "description": "You have been recruited for Operation Wolf, a desperate attempt to rescue prisoners from the enemy. Through a series of missions, you'll engage a variety of enemies, from soldiers to ninjas, patrol boats to helicopters, and more. \r\nIt is a &quot;rail-shooter&quot;, where you basically hold the gun and shoot just about everything that moves, while conserving your ammo and grenades.  Your primary machine gun can kill everything if you hit it enough times, but you can also use the grenade launcher for really deadly targets like helicopters or armored cars. You can collect a machine gun which will allow you to shoot faster for a few seconds.\r\nYou'll be pummelled by a LOT of enemies. Some will be shooting, others will be tossing grenades, knifes, ... Some are armored and requires more than a few hits, others dodges. You can shoot grenades and knifes out of the air if you aim well enough.\r\nBosses appear at the end of some levels, and each has a specific weakness you need to exploit.",
+      "name": "Operation Wolf",
+      "year": "1990-08-31",
+      "publisher": "NEC",
+      "genre": "Shooter / FPV",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Out Run (Japan)",
+      "description": "Brace yourself for the most realistic racing experience yet. And to play, you've got to have what it takes: NERVE, SKILL and BRAINS. NERVE - you're behind the wheel of a supertuned race car with one speed only: fast. SKILL - you're maneuvering a car that can nearly reach a simulated 270 KMH. BRAINS - because you're in control of your car's speed and handling at a dangerous pace, you have to use your head and not just your hands to survive. So get geared for the ride of your life and stay alert. The track may look terrific, but at these speeds anything can turn into a danger zone.",
+      "name": "Out Run",
+      "year": "1990-12-21",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Override (Japan)",
+      "description": "Override is a vertically-scrolling shooter in which the player controls a fighter craft on a mission to stop an alien invasion of the Earth. Much of the action takes place on planet surfaces, and enemies include spaceships of various kinds as well as ground enemies, mobile (tanks) or stationary (turrets). The player-controlled craft begins with two lives with three hit points each; restoring power-ups can repair the plane or increase its number of lives. \n\nOther power-ups come in two varieties: strength-increasing or secondary weapons. Depending on the color, the latter grants the plane wingmen with laser attacks, spreading fire, side lasers, rotating energy balls, etc. The strength of secondary weapons can be increase by flying over strength-increasing power-ups as well. Special weapon that hurts all enemies on screen must be activated by charging, which is achieved by not pressing the fire button for a certain amount of time.",
+      "name": "Override",
+      "year": "1991-01-08",
+      "publisher": "Data East Company",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "P-47 - The Freedom Fighter (Japan)",
+      "description": "The P-47 was one of the toughest planes in use in World War 2, and this side-scrolling shoot 'em up puts you in control of one as you take on hordes of Nazis. 16-bit versions have a simultaneous 2-player mode, as well as the ability to wrap-around the game with increased difficulty up to 4 times.\r\n\r\nYou are initially armed with a machine gun, but can also pick up bombs, spray missiles and multi-missiles by picking up the appropriate letter. Each weapon can be upgraded by picking up further tokens of the same type. Tokens offering extra lives and speed-ups are also on offer.",
+      "name": "P-47 - The Freedom Fighter",
+      "year": "1989-03-20",
+      "publisher": "Aicom Corporation",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Parodius da! - Shinwa Kara Owarai he (Japan)",
+      "description": "One day, our octopus friend gets into a fight to the death with his old rival, the bug. Our octopus wins and people start to call him Mr. Parodius. On his paid vacation he goes to the countryside to enjoy a little farming. Returning to our ready-made octopus pot, he reads the &quot;People of the Universe&quot; newspaper and nearly falls off his chopping board in surprise. There now is a picture of the mysterious Great Octopus with the Earth in his arms. &quot;F... father?,&quot; he stutters. It was his father, who had disappeared just two years before, never to return home. So Octopus sets out on a search for the truth and with his companions begins to travel the world!",
+      "name": "Parodius Da! - Shinwa Kara Owarai He",
+      "year": "1992-02-21",
+      "publisher": "Konami",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Populous (Japan)",
+      "description": "You play a god, gaming against other gods in a celestial game of conquest.  To win, you must help your chosen people take over the world and wipe out the vermin who worship that other god.\r\n\r\nEach god starts out with a single human, dumped into the middle of the wilderness.  Sometimes there is inhabitable land in sight, sometimes not.  To get win, you must change the landscape, creating flat land for your followers to build on.  The more followers you have you have, the more powerful you will be, so take care of them. Build as fast as you can, because the other god is doing the same.",
+      "name": "Populous",
+      "year": "1991-04-05",
+      "publisher": "Hudson Soft",
+      "genre": "Strategy",
+      "players": 1,
+      "rating": "17"
+    },
+    {
+      "id": "Power Drift (Japan)",
+      "description": "Ever wanted to race dune buggies at high speed on a variety of tracks? Power Drift is an arcade racer that gives you the chance to do just that.\n\nThere are 5 tracks to choose from, each with 5 stages. The stages range from cities, to deserts to tracks over water. There are also 12 drivers to pick from, from businessmen to skinheads and mohicans. \n\nYour buggy has 2 gears, high and low. Once the light goes green, just keep the pedal to the metal. You’ll need to place third or higher to continue to the next stage. Be careful not to bump into other buggies or objects next to the road. While you’re buggy can take a pounding, crashing will slow you down. \n\nFinish all 5 stages in a level and you’ll be presented with a bonus level.",
+      "name": "Power Drift",
+      "year": "1990-04-13",
+      "publisher": "Asmik",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "11"
+    },
+    {
+      "id": "Power Eleven (Japan)",
+      "description": "Power Eleven is a top-down soccer game with three playing modes: multiplayer, penalty kicks (shown from the back of the transparent goalkeeper) and a tournament mode. The latter is the main mode for solo players and features twelve national soccer teams. ",
+      "name": "Power Eleven",
+      "year": "1991-06-21",
+      "publisher": "Hudson Soft",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Power Gate (Japan)",
+      "description": "Pack-In-Video was not the most amazing publisher for the PC Engine system and here they are back with the horizontal shooter Power Gate. The player takes control of a high-tech fighter plane and fly through canyons, enemy cities and giant battle cruisers. The fighter plane starts with a simple and slow vulcan gun which can be upgraded during the game by destroying flashing enemies, often in the shape of planes or missiles. Other power-ups are also available, like ground bombs or energy-cells restoring one of your plane shield bar. However, your fighting plane can also carry a secondary weapon. There are six of them including Homing missiles, Napalm Bomb, 8-ways and even one interesting option which will mirror your plane and triple its fire-power. This secondary weapons are triggered using the other action button, they can be collected in the same way the other items are and can be stocked up. ",
+      "name": "Power Gate",
+      "year": "1991-08-30",
+      "publisher": "Pack In Video",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Power League '93 (Japan)",
+      "description": "Smell the freshly cut grass, listen to the umpire's calls and prepare yourself for some world-famous baseball action! Power League '93 is an amazing sporting adventure through the international baseball season of 1993! Select your team and then play the computer, taking on every aspect of the wonderful game - from fielding, pitching and eventually batting the balls out of the park!",
+      "name": "Power League '93",
+      "year": "1993-10-15",
+      "publisher": "Hudson Soft",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "12"
+    },
+    {
+      "id": "Power League II (Japan)",
+      "description": "Become part of the baseball action, feel the breeze, sense the pitch and then bat that ball right out of the park in the badass Power League II! Use your all round skills to field, pitch and bat like a true pro to beat all the other teams and emerge as the true baseball champion of the world! Keep your eye on the ball to become an absolute champion of the game!",
+      "name": "Power League 2",
+      "year": "1989-08-08",
+      "publisher": "Hudson Soft",
+      "genre": "Sports / Baseball",
+      "players": 2,
+      "rating": "18"
+    },
+    {
+      "id": "Power League III (Japan)",
+      "description": "The fantastic Power League III is the full baseball experience wrapped into this amazing title. Become a true baseball superstar by selecting your team and then taking to the oval to bat, pitch and field your way to victory over the best teams in the world! Immerse yourself totally in the game and feel the every move of the player while smacking that ball out of the park!",
+      "name": "Power League 3",
+      "year": "1990-08-10",
+      "publisher": "Hudson Soft",
+      "genre": "Sports",
+      "players": 4,
+      "rating": "16"
+    },
+    {
+      "id": "Power League IV (Japan)",
+      "description": "Put your world-class baseball skills to the test by playing the best teams in the world! Get your baseball on in the fantastic Power League IV by fielding, pitching and batting your way through a fictional league of all time great teams! Involve yourself in every aspect of the great game in this amazingly cool title that allows you to feel part of the action with the cheering crowds and amazing players.",
+      "name": "Power League 4",
+      "year": "1991-08-09",
+      "publisher": "Hudson Soft",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "17"
+    },
+    {
+      "id": "Power League V (Japan)",
+      "description": "Step up to the plate prepare yourself and then swing that bat with all your might so the world will know how a true professional plays ball! As a key part of the baseball action you take control of your team and every aspect of the great game - from fielding to pitching and definitely batting - then hit homeruns so your players can score big and take the world of professional baseball by storm!",
+      "name": "Power League 5",
+      "year": "1992-08-07",
+      "publisher": "Hudson Soft",
+      "genre": "Sports",
+      "players": 4,
+      "rating": null
+    },
+    {
+      "id": "Power Tennis (Japan)",
+      "description": "This game of tennis offers the modes Singles, Doubles and World Tour. You have the choice between 26 players with half of the players. Each of these players have their own specializations: service-volley, short-handed game, southpaw. Three types of courts are available: hard, grass and clay.",
+      "name": "Power Tennis",
+      "year": "1993-06-25",
+      "publisher": "Hudson Soft",
+      "genre": "Sports",
+      "players": 4,
+      "rating": "12"
+    },
+    {
+      "id": "Pro Yakyuu World Stadium '91 (Japan)",
+      "description": "This game with its super deformed characters has more Arcade style rather than a serious simulation of the sport. The player can always customize the teams before the matches, and there can be a maximum of four human players per game. The player can also choose to watch two CPU opponents challenge themselves.",
+      "name": "Pro Yakyuu World Stadium '91",
+      "year": "1991-03-21",
+      "publisher": "Namcot",
+      "genre": "Sports",
+      "players": 4,
+      "rating": "4"
+    },
+    {
+      "id": "Pro Yakyuu World Stadium (Japan)",
+      "description": "The game involves ten teams - nine based freely on pro clubs of Japanese baseball, and the Namco team whose list is filled with characters from the older Namco games. Neither the teams nor the names are licensed (which happened only in 1992), and some of the teams are amalgams of real clubs - the 'R' team, abbreviation for 'Railways', is formed in from a mix of players from the three clubs owned by rail companies: the Kintetsu Buffaloes (missing in 2004), the Nankai Hawks (now Fukuoka Softbank Hawks) and Hankyu Braves (now the Buffalo Orix). There are also some hidden teams accessible via password.",
+      "name": "Pro Yakyuu World Stadium",
+      "year": "1988-05-20",
+      "publisher": "Namcot",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Psycho Chaser (Japan)",
+      "description": "Space year X2981Y. Earth has developed battle androids to fight bloodless wars. A new battle android called &quot;Aura&quot; was developed and sent into battle, and seemed to be leading its country to victory. However, Aura broke free of human control and revolted against the Earth, taking control of the other androids and starting a war against humanity. In a last ditch effort, humanity developed one more android, stronger than any before and imbued with the wishes of humanity, dubbed &quot;Psycho Chaser.&quot; It is making its assault on Aura's stronghold to end the war.\r\n\r\nPsycho Chaser is a vertically-scrolling sci-fi shooter. The player takes control of the titular battle android. There are multiple weapons which can be picked up and freely switched between, and also power-ups which allow for weapon and energy upgrades between stages.",
+      "name": "Psycho Chaser",
+      "year": "1990-04-06",
+      "publisher": "Naxat Soft",
+      "genre": "Shoot'em Up",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Puzzle Boy (Japan) (Translated En)",
+      "description": "Puzzle Boy is a port of the Game Boy title Kwirk, but features more and different levels along with changed graphics. In contrast to the original version, the perspective is straight top-down and there is no undo-function.\r\n\r\nHowever, regarding gameplay this is still a Soko-Ban variant. The player finds himself in a maze and needs to find the way to the exit. The obstacles on the way are boxes which can be pushed but not pulled, holes and revolving doors. The game features three playing modes, most notably the level mode with 100 levels. They are divided over four sets of 20 each. Those sets have a difficulty level associated with them and each rewards the same ending when solved. The other two modes are the challenge mode (solving ten levels in a limited amount of time) and a split-screen multiplayer mode.",
+      "name": "Puzzle Boy",
+      "year": "1991-02-22",
+      "publisher": "Telenet",
+      "genre": "Puzzle",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Puzznic (Japan)",
+      "description": "The challenge in each level of Puzznic is to maneuvre a selection of blocks into place so as to clear them all, by making them make contact with blocks of the same design. You control a cross-hair, which can move a block left or right, which can cause it to fall if there is no block under the space it would occupy.\r\n\r\nThere are many complications in terms of solving the levels. Moving platforms meaning that you need to move a block at a particular time, or in particular order, to prevent them being blockaded. In some situations there are an odd number of a certain type of block - solving these requires positioning two of the blocks one space apart, such that a move will result in a piece making contact with 2 others, and immediately removing all 3. You will also encounter blocks positioned on platforms suspended in space and gaps in level arrangements meaning that a certain number of blocks must be in place to make a certain move possible (by forming a stack, for example)",
+      "name": "Puzznic",
+      "year": "1990-06-29",
+      "publisher": "Taito",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Rabio Lepus Special (Japan)",
+      "description": "In a faraway Kingdom, the king and his two daughters are happy and there is peace and harmony in the land. That is until one fateful day when an unknown spaceship appears like a bolt out of the blue and kidnaps the king and the two girls, all dressed in their bunny suits. The player assumes control of Usagi, a flying robotic-rabbit and his mission is to rescue the captives and eliminate their unknown captors.",
+      "name": "Rabio Lepus Special",
+      "year": "1990-10-19",
+      "publisher": "Video System",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Racing Damashii (Japan)",
+      "description": "Racing Damashii (Racing Spirit) is a motorcycle racing video game from Irem , released in 1991 exclusively in Japan. The game features tracks all over Japan.",
+      "name": "Racing Damashii",
+      "year": "1991-07-19",
+      "publisher": "Irem Corporation",
+      "genre": "Racing, Driving",
+      "players": 2,
+      "rating": "13"
+    },
+    {
+      "id": "Rastan Saga II (Japan)",
+      "description": "The &quot;Rastania&quot; was a sacred place, in which the sacred temple, &quot;Skyscraper&quot;, soared into the sky. It is said that whoever conquer the &quot;Skyscraper&quot; would rule the &quot;Rastania&quot;. A wicked group has invaded the &quot;Skyscraper&quot; and has tried to make it their own. If the situation is left as it is, the place would eventually be controlled by the wicked group.\r\n\r\nRastan Saga II is the sequel to Rastan,   containing the same hack-em'/slash-'em gameplay as the original. You are a warrior who must get through a number of levels, and trying to collect gems which can only be obtained by defeating the end-of-level bosses.  Collecting power-ups along the way awards you with extra life or better weapons.",
+      "name": "Rastan Saga 2",
+      "year": "1990-07-06",
+      "publisher": "Taito",
+      "genre": "Platform / Fighter Scrolling",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Rock-On (Japan)",
+      "description": "You are a Buster and your mission is to make your fortune by finding FISA (Mysterious Fortune Hidden by the Ancient People) in your flying craft over various levels. At the start you are just armed with a small cannon and move slowly but scattered around each level are icons which can improve your weaponry and speed. These include 2-way, 3-way, laser and back-fire. The whole world will be watching on TV to see if you can succeed.\r\n\r\nRock-On is a horizontal side scrolling shoot 'em up moving from left to right.",
+      "name": "Rock-on",
+      "year": "1989-08-25",
+      "publisher": "Big Club",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Ryuukyuu (Japan)",
+      "description": "Solitaire Poker. That's certainly an odd sounding combination, but that's exactly what it is. It's even more interesting that you realize that there is a touch of bingo in there too. Your objective is to draw face-down cards from one of four different piles and draw these cards into five different &quot;hands&quot; that are scored as traditional poker values. However the hands may be scored in any combination... vertical, horizontal or diagonal on the game board... (that's where the bingo element comes into play).",
+      "name": "Ryukyu",
+      "year": "1990-10-26",
+      "publisher": "ASCII",
+      "genre": "Puzzle",
+      "players": 2,
+      "rating": "12"
+    },
+    {
+      "id": "Salamander (Japan)",
+      "description": "Salamander (or LifeForce on other media) is a shoot'em up on PC Engine. Aboard your severely armed ship, you must progress through the levels by shooting everything that moves up to the final boss. A multiplayer option allows you to play two at the same time.",
+      "name": "Salamander",
+      "year": "1991-12-06",
+      "publisher": "Konami",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 2,
+      "rating": "17"
+    },
+    {
+      "id": "Shanghai (Japan) (Translated En)",
+      "description": "Shanghai is one of the first video game adaptations of the tile-based game played with the Chinese mahjong stones - essentially a puzzle game that has little to do with real mahjong rules.\r\n\r\nThe gameplay involves 144 tiles, each depicting different images, which have to be removed by matching them into pairs. The tiles are arranged in a gridded pattern, which is higher near the centre. A tile can only be removed if it has no tile next to it on at least one side.\r\n\r\nThis computer implementation can generate a random board layout to take on and features five preset challenges, some of which have time limits of five or ten minutes, as well as a multiplayer mode.",
+      "name": "Shanghai",
+      "year": "1987-10-30",
+      "publisher": "Hudson Soft",
+      "genre": "Mahjong",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Shinobi (Japan)",
+      "description": "You control a ninja, Shinobi, who must battle his way through each level in search of hostages which must be rescued. You have shurikens, kicks and punches to defend yourself with. As well as the powerful ninja magic which can clear the screen of enemies in one go.\n\nEach level is broken down into smaller scenes and hostages are guarded by big blokes who throw swords. Watch out for gun-toting enemy henchmen and ninjas.\n\nReaching the end of each level will find you battling it out with a boss. These range from 8ft giants to helicopter gunships.",
+      "name": "Shinobi",
+      "year": "1989-12-08",
+      "publisher": "Asmik",
+      "genre": "Platform / Fighter Scrolling",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Shiryou Sensen (Japan)",
+      "description": "Similarly to the original MSX release, guns require ammunition, battles have backgrounds, several enemies may attack at once, and it is possible to leave the side-scrolling battle area by walking to its edge. However, map layout and locations are almost identical with those of the PC-88 version, hence being completely different from those of the MSX release.\r\nThe most significant change - which is unique to this version - is the addition of a RPG system. Whereas in the two other versions the battles didn't serve any other purpose but challenge the player and impede the progress of the story, in the PC Engine release they are essential to Laila's character growth. Like in most RPGs, Laila can now gain levels, which enhance her parameters and make her stronger in combat. When defeated, enemies leave orbs of various colors and chests; these serve to heal Laila, grant her experience points, &quot;mind points&quot; , or ammunition for the firearms.",
+      "name": "Shiryou Sensen - War of the Dead",
+      "year": "1989-03-23",
+      "publisher": "Victor Entertainment",
+      "genre": "Role Playing Game",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Skweek (Japan)",
+      "description": "The Skweeks lived in harmony for centuries, being a naturally peaceful peoples, until Pitark arrived. He ruined their bright pink land by removing the colour, and it was only after he died that they had the opportunity to clean the land up. Your job is to travel through the 99 continents and clean each one in sequence.\r\n\r\nSkweek can move in each of the four compass directions, and is armed with a simple weapon, whose shots rebound around before they hit one of Pitark's minions, the Schnoreuls - contact with which is instantly fatal. Some squares contain arrows which force you in a particular direction, while there are also blockades to avoid. Bomb squares blow up surrounding squares but give you time to move away from them as they do this, while Shortcut squares allow you to move to another teleport-type square by pushing the joystick in its direction.",
+      "name": "Skweek",
+      "year": "1991-08-02",
+      "publisher": "Victor Entertainment",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Son Son II (Japan) (Translated En)",
+      "description": "In this platformer, loosely based on the classic Chinese novel Xi You Ji, players take control of Son Goku who has to rescue his friends from a mysterious villain. In seven levels, Son Goku has to survive various jumping puzzles, fight off enemies with his staff and collect money in form of fruit. Along the way, he can pick up various helpful items that can either be bought in stores or found hidden within the levels. They include: Medicine that refills Son Goku's health, a magic lamp that allows him to continue after losing a life, keys that open doors, a glove that breaks certain walls and a cloud that Son Goku can use to fly during boss-battles. Additionally, Son Goku can buy longer and more powerful staffs if he finds somebody who sells them.",
+      "name": "Son Son 2",
+      "year": "1989-01-27",
+      "publisher": "Nec Avenue",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Space Invaders - Fukkatsu no Hi (Japan)",
+      "description": "The Invaders are back and tougher than ever! Space Invaders: Fukkatsu no Hi (Day of Resurrection) is an update of the iconic game from Taito. The game features updated graphics and nearly a dozen different weapon types, as well as a much wider variety of enemy Invaders to shoot down.\r\n\r\nAlso included is a conversion of the original 1978 coin-op.",
+      "name": "Space Invaders - Fukkatsu No Hi",
+      "year": "1990-03-02",
+      "publisher": "Taito",
+      "genre": "Shooter / Space Invaders Like",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Special Criminal Investigation (Japan)",
+      "description": "Three girls have been reported missing including the mayor's daughter, and Chase Special Investigations has asked you to track down five vehicles, mentioned in the mission briefing, who are believed to be involved in the kidnapping. Using a heavy-designed machine with a V6 DOHC 3000CC Twin Turbo Engine, five sets of nitro-fuel boosts, and a gun attached to the steering wheel (which you can use to damage the target vehicle), your mission is to patrol the streets and find these vehicles.\r\n\r\nThe gameplay is similar to Chase H.Q., but there are a few differences. For example, cars travel in both directions instead of one, and some of them will catch up to your car and shoot at you. At least once in every stage a helicopter does a fly by and drops you some grenades you can use to further damage the target vehicle. A guy on a motorcycle will catch up to you and throw grenades at your car. And, most importantly, as mentioned earlier, you can shoot at the target vehicle rather than just bumping into it.\r\n\r\nHave fun driving around, but remember, there is a strict time limit, so I wouldn't waste time or keep crashing into things if I were you.",
+      "name": "Special Criminal Investigation",
+      "year": "1991",
+      "publisher": "Taito",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Spin Pair (Japan)",
+      "description": "This might look like a typical drop-the-block puzzle game, but there?s a twist (or spin) to it. Instead of just matching block colours, you also have to fill in the blocks by rotating their 'full' half so it matches the 'empty' half of the shape below. As levels progress, blocks represent different things like plants, animals etc to give some variety. There are several modes of play, including a story mode and link-up.",
+      "name": "Spin Pair",
+      "year": "1990-12-14",
+      "publisher": "Media Rings",
+      "genre": "Puzzle",
+      "players": 2,
+      "rating": "12"
+    },
+    {
+      "id": "Street Fighter II' - Champion Edition (Japan)",
+      "description": "This version of Street Fighter II is similar in most aspects to the original, save that all 12 characters are selectable from the get-go (the boss characters were originally locked), and the game engine has been revamped.",
+      "name": "Street Fighter 2' - Champion Edition",
+      "year": "1993-06-12",
+      "publisher": "NEC",
+      "genre": "Fighting",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Strip Fighter II (Japan)",
+      "description": "Strip Fighter II is similar to Street Fighter II, but has a distinguishing feature: in this fighting game all the participants are attractive women. Players can choose one of six female characters. The player-controlled character must use her fighting and combat strengths to defeat the other five girls and a palette-swap of herself. \r\n\r\nThe game has some fairly explicit content: during some moves the fighters would take their clothes off; after each fight the player is presented with a picture of female stripper.",
+      "name": "Strip Fighter 2",
+      "year": "1994-03-26",
+      "publisher": "Games Express",
+      "genre": "Adults",
+      "players": 2,
+      "rating": "11"
+    },
+    {
+      "id": "Super Metal Crusher (Japan)",
+      "description": "Strategy game where you design a robot by allocating points to various stats, then let it scrap it out with an opponent while you watch.",
+      "name": "Super Metal Crusher",
+      "year": "1991-11-29",
+      "publisher": "Pack In Video",
+      "genre": "Strategy",
+      "players": 2,
+      "rating": "17"
+    },
+    {
+      "id": "Takeda Shingen (Japan)",
+      "description": "Takeda Shingen is a 2D beat 'em up set in feudal Japan. The action takes place in Sengoku period. The player takes the role of the daimy? Takeda Shingen, who must defeat his adversary Uesugi Kenshin. Gameplay is typical of the genre, similar to King of Dragons or Knights of the Round. Takeda wields a Japanese sword (katana) and dons red armor. He must proceed from left to right and eliminate all enemies and bosses. Sometimes, the daimy? can visit some shops to buy various items.",
+      "name": "Takeda Shingen",
+      "year": "1989-07-28",
+      "publisher": "Aicom Corporation",
+      "genre": "Beat'em Up",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Tatsujin (Japan)",
+      "description": "Power on! All systems go! Takeoff! Meet the alien attack head-on in your Super Fighter! Before the Gidans overrun your planet, destroy them in an explosive scramble in space. You are the one pilot alive with the guts to do it! The Gidans have blown up your planet's cargo barge and are on their way to Borogo with a swarm of flying fortresses - asteroids loaded with tanks, guns, and explosives for an all-points takeover! Attack them face-to-face in your Super Fighter, the most powerful assault ship in the universe. Blast them to kingdom come with Power Shots. Fire the incredible Truxton Beam to disintegrate their speeding onslaught. And when there's no escape through their force fields, surprise them with the devastating Rainbow Circle Shot! You CAN save the planet!",
+      "name": "Tatsujin",
+      "year": "1992-07-24",
+      "publisher": "Taito",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Tatsunoko Fighter (Japan)",
+      "description": "Tonkin House presents another cute platformer for the Engine. Armed with only a floppy hat and long stick, you must run, leap and poke your way through various levels filled with spiders, flying balls of fire and thug-types, no doubt all in the name of honour and justice.",
+      "name": "Tatsu No Ko Fighter",
+      "year": "1989-10-20",
+      "publisher": "Tonkin House",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "11"
+    },
+    {
+      "id": "Tenseiryuu - Saint Dragon (Japan)",
+      "description": "Shoot 'em up where you play as a robotic dragon with the ability to use your tail to deflect bullets and harm enemies.",
+      "name": "Tenseiryuu - Saint Dragon",
+      "year": "1990-12-21",
+      "publisher": "Aicom Corporation",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Terra Cresta II - Mandoraa no Gyakushuu (Japan)",
+      "description": "Vertically scrolling shoot 'em up where you collect modules that can either combine with your ship or fly in formation with you to alter their effectiveness.",
+      "name": "Terra Cresta 2 - Mandoraa No Gyakushuu",
+      "year": "1992-11-27",
+      "publisher": "Nichibutsu",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Thunder Blade (Japan)",
+      "description": "Get ready to take part in the greatest helicopter battle of the century with THUNDER BLADE! You're the Gunship Gladiator. You fly the Thunder Blade chopper. Some say you're unstoppable. This mission will put you to the test! The enemy has invaded your country. That makes you mad. So you're going to stop them... all by yourself! In cities... over deserts and oceans... in caves and through refineries... you're cutting loose with your cannons and dropping air-to-surface missiles from your skids. They've got tanks, airpower and incredible super fortresses. But you have guts, a taste for glory... and the meanest fightin' copter in the sky!",
+      "name": "Thunder Blade",
+      "year": "1990-12-07",
+      "publisher": "Nec Avenue",
+      "genre": "Shoot'em Up",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Titan (Japan)",
+      "description": "Titan is a 2D arcade game / puzzle game hybrid.\n\nFor some reason, mad professors of the future tend to invent strange entertainment games in which every participant dies. Professor Hybrys’ variant is called Titan and involves a ball, a control unit and 80 labyrinths. Your objective is either to destroy all destructible blocks in each level by hitting them with the sphere, or to pilot it to the exit. The black ball is beyond your control; it will bounce straight or diagonally through the labyrinth with constant speed. You move the control unit, a small box, with you are to position in a way that the ball bounces off it in the desired direction. You can also catch the sphere by quickly moving over it, and then release it in a direction of your choice.\n\nThe labyrinths not only contain harmless, destructible blocks, but also increasingly difficult hazards. If the sphere or your control unit hit a skull symbol, one of your nine lives is lost. Teleporters exchange the position of you and the ball, wall pieces can be pushed around or destroyed by your unit, floor tiles will grow into walls when you pass over them too often. The high game speed can be slowed down by holding the space key – a very useful option in tricky situations.\n\nTitan mixes an arcade game foundation (requiring quick reflexes and good nerves) with puzzle game elements (requiring logical thinking to beat the complex levels). The challenge is to control the sphere accurately, yet indirectly.",
+      "name": "Titan",
+      "year": "1991-03-15",
+      "publisher": "Naxat Soft",
+      "genre": "Strategy",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "Toilet Kids (Japan)",
+      "description": "One night, while visiting the bathroom, the protagonist suddenly finds himself flushed down the toilet and transported to a mysterious realm filled with strange monsters. Piloting a flying vehicle, the protagonist is tasked to defeat the the inhabitants of the mysterious world and find a way to return home.\r\n\r\nToilet Kids is an Japanese exclusive PC Engine vertical-scrolling shooter very similar in gameplay to Xevious. The game has only four stages and makes heavy use of toilet humor and scatological references.",
+      "name": "Toilet Kids",
+      "year": "1992-03-06",
+      "publisher": "Media Rings",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 2,
+      "rating": "9"
+    },
+    {
+      "id": "Toshi Tensou Keikaku - Eternal City (Japan)",
+      "description": "Horizontal run and shoot game with some mecha design by the legendary Masamune Shirow.",
+      "name": "Toshi Tensou Keikaku - Eternal City",
+      "year": "1991-04-12",
+      "publisher": "Naxat Soft",
+      "genre": "Platform / Shooter Scrolling",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Tower of Druaga, The (Japan) (Translated En)",
+      "description": "This is a remake of the original game. The story still's the same: Ishtar sends Gilgamesh up the 60 maze levels of the Druaga's tower to rescue Ki and retrieve the Blue Crystal Rod. He must find each level's key to proceed to the next one.\n\nBesides the updated graphics, this remake features a 3/4 view instead of the original top-down one. It also bears some RPG elements, as Gilgamesh gathers experience points for killing enemies, which are spent at the end of each level, to improve his stats (such as speed, health, etc.). He'll also find equipment such as swords, helmets, armors, shields, gauntlets and boots, which can be changed to better his stats, and will also find special items in hidden chests. The way to find theses chests is different for each floor. There are new treasures and new enemies.\n\nThe game also features four different difficulty levels (easy, normal, hard and pro), as well as a password feature.",
+      "name": "Tower Of Druaga, The",
+      "year": "1992-06-25",
+      "publisher": "Namcot",
+      "genre": "Role Playing Game",
+      "players": 1,
+      "rating": "11"
+    },
+    {
+      "id": "Toy Shop Boys (Japan)",
+      "description": "Toy Shop Boys is a vertical shoot 'em up exclusive to the PC Engine. It features three kids - the titular Toy Shop Boys - who fight to recover their toys from a villain named Gamma.\r\n\r\nThe player can switch between the three at any time: the kid in the red cap fires a straightforward shot that will branch out into a spreadshot when upgraded; the kid in the yellow cap fires boomerangs which home in on enemies on the screen, with power-ups increasing the number fired at once; the kid in the blue cap swings around a lightsaber that catches projectiles and works as a close-range weapon.\r\n\r\nMost of the game's enemies are toy based: a giant cymbal monkey, for instance, or a pair of toy Formula 1 cars.",
+      "name": "Toy Shop Boys",
+      "year": "1990-12-14",
+      "publisher": "Victor Entertainment",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 2,
+      "rating": "13"
+    },
+    {
+      "id": "Tsuppari Oozumou - Heisei Ban (Japan)",
+      "description": "Tsuppari Oozumou essentially means &quot;Shove Sumo&quot;, Tsuppari being a move performed by Sumo wrestlers to push their opponent out of the ring. The game works like any other tournament-based fighter: The player character must fight a series of increasingly difficult opponents until they reach the top and are declared Yokozuna: The highest rank of Sumo.",
+      "name": "Tsuppari Oozumou - Heisei Ban",
+      "year": "1993-02-19",
+      "publisher": "Naxat Soft",
+      "genre": "Sports / Sumo",
+      "players": 2,
+      "rating": "11"
+    },
+    {
+      "id": "Valkyrie no Densetsu (Japan)",
+      "description": "Legend of Valkyrie puts you in the shoes of a young Valkyrie of Norse mythology as she sets out to reclaim the fabled golden seed, which has been stolen by an evil god.\n\nThe game plays as a top-down action/adventure title with some RPG and platformer elements. You must navigate the many levels that compose Valhalla and defeat all the enemies in your path while sorting out chasms and other platformer-styled obstacles.\n\nYou can also find several NPCs in each stage, who offer gameplay hints, clues and items to buy with the gold stolen from fallen enemies. You can buy health power-ups, improved weapons and even magic spells for added fire-power.",
+      "name": "Valkyrie No Densetsu",
+      "year": "1990-08-09",
+      "publisher": "Namcot",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": "17"
+    },
+    {
+      "id": "Volfied (Japan)",
+      "description": "Volfied is a home conversion of an arcade coin-op developed by Taito in the late '80s. The game is very similar to Qix -- the player takes control of an object whose purpose is to roam the screen, forming shapes and removing them from the play field. By way of reward, a picture is gradually revealed in the removed areas of the screen. The borders of the area which the player has not cleared become the border of the area the player's pointer can move along.\n\nThe player's object must avoid contact with any of the enemies which float around the screen, as this will weaken and eventually destroy it. Barriers limit which parts of the border boxes can be formed through. The goal is to clear 80% or more of the screen, and each additional percent adds bonus points.\n\nAs an arcade conversion this game allows for one or two player games in three difficulty levels, but offers no passwords or saved games across its numerous levels.",
+      "name": "Volfied",
+      "year": "1989-12-22",
+      "publisher": "Taito",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "W-Ring - The Double Rings (Japan)",
+      "description": "W Ring: The Double Rings is a shoot 'em up developed and published by Naxat Soft for the PC Engine platform. The player makes their way across horizontal levels collecting power-ups from fallen foes.\r\n\r\nThe game has three difficulty modes which determine the amount of enemies and their health: Beginner, Normal and Expert.\r\nEach power-up provides a different weapon to the player depending on the color, and collecting subsequent power-ups increases the power of that weapon. If the player switches colored power-ups, they'll acquire the stronger versions of those power-ups. If the player gets hit, they'll lose the current power-ups they have; if they don't have a power-up, they'll lose a life.",
+      "name": "W Ring - The Double Rings",
+      "year": "1990-09-28",
+      "publisher": "Naxat Soft",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Winning Shot (Japan)",
+      "description": "Winning Shot is a golf game for the PC Engine/Turbogfrafx-16 and was the very first game based on the sport to be released for the system. Up to four human players can play, though because of the nature of golf, each player takes alternating turns depending on their distance from the hole. The game has many similar features to golf games of this era - the player can select which club to use, whether or not to hit the ball at a slight angle to adjust its trajectory and which direction to hit the ball towards, before hitting the requisite power gauge at the right point to send the ball flying as close to the hole as possible.",
+      "name": "Winning Shot",
+      "year": "1989-03-03",
+      "publisher": "Data East",
+      "genre": "Sports",
+      "players": 4,
+      "rating": "14"
+    },
+    {
+      "id": "Wonder Momo (Japan)",
+      "description": "In Wonder Momo you play as Momo, an actress playing the lead role in a kid's show about a crime-fighting heroine that puts the hurt on several alien monsters and assorted criminals.\n\nSet in the stage of the &quot;Namco Theater&quot;, the game plays as an action side-scroller in which you progress across each stage kicking the snot out of all the enemies you run across. By collecting the right power-up you can transform into Wonder Momo for a limited time, who can perform ranged attacks with a hoola-hoop and is more powerful than regular Momo.\n\nNot only must you clear the enemies of each stage, but also please the crowd with your performances, being wary of perverts that attempt to take pictures of your underwear whenever you attack (Momo shows quite a bit of leg whenever she &quot;kicks high&quot;) which results in blinding flashes that stun Momo and leave her open to an attack.",
+      "name": "Wonder Momo",
+      "year": "1989-04-21",
+      "publisher": "Namcot",
+      "genre": "Beat'em Up",
+      "players": 1,
+      "rating": "7"
+    },
+    {
+      "id": "World Jockey (Japan)",
+      "description": "World Jockey is a horse racing game, we have in particular a &quot;Family Game&quot; mode which itself is a sub-mode of &quot;Jockey Play&quot; mode, where you choose the number of races you want to do (four, eight, twelve or sixteen).\r\nThe madness of the racecourse will begin to seize you, from the betting screen, where we choose on which horses we want to bet! For the uninitiated, know that we put on the couple that we think will be the winner (unless you're really stupid ...) and it is possible to multiply his chances of winning, to bet on three different couples. Each horse has its own hill, which is attributed to him according to his attitudes towards the terrain on which he will run and his previous performances. Without wishing to bore you with mathematical formulas, also know that in case of victory, your gain will be inversely proportional to the winning couple's edge ... Logic.",
+      "name": "World Jockey",
+      "year": "1991-09-20",
+      "publisher": "Namcot",
+      "genre": "Horse racing",
+      "players": 4,
+      "rating": "13"
+    },
+    {
+      "id": "Xevious - Fardraut Densetsu (Japan)",
+      "description": "Xevious: Fardraut Densetsu, despite sharing its name with Xevious: Fardraut Saga (Fardraut Densetsu in Japanese), can be considered a sequel to that game. The humans' battle against the bio-computer GAMP continues, with new pilots rising to the challenge and doing their best to protect the Earth.\r\n\r\nThe game consists of two modes, entitled Arcade and Fardraut. The Arcade mode is the same as the Recon mode in Xevious: Fardraut Saga, being a port of the original arcade Xevious. The Fardraut mode is composed of four stages, featuring familiar South American backgrounds. Unlike most Xevious games, the player takes control of the aircraft Solvalou only in the third stage; the first two ones are played controlling two different, smaller ships, each possessing properties similar to the Solvalou: rapid fire against air enemies, and bombs dropped on ground structures.",
+      "name": "Xevious - Fardraut Densetsu",
+      "year": "1990-06-29",
+      "publisher": "Namcot",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Youkai Douchuuki (Japan)",
+      "description": "Youkai Dochuuki is a side-scrolling 2D platformer with multiple branching paths. Each stage is full of bonuses, secrets and alternate exits and the player must be economical with their savings to purchase items that will help them progress. Though Tarosuke only has one life, he has a health bar with sixteen segments allowing for multiple enemy attacks. The player can recover some or all Tarosuke's lost health with healing items.",
+      "name": "Youkai Douchuuki",
+      "year": "1988-02-05",
+      "publisher": "Namcot",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Zero 4 Champ (Japan)",
+      "description": "Zero4 Champ is a racing simulation game inspired by Japanese urban street racing, its name derived from the traditional racing distance (0 to 400 meters). A versus mode allows players to compete against each other or computer AI in first-person-view races; however, the game's main mode is the Story Mode, which has strong simulation elements. The player takes the role of a young racer, competing in tournaments and gradually advancing in rank. It is possible to buy car parts or whole vehicles, as well as customize cars. Money is obtained from prizes or by doing part-time jobs. These jobs are sometimes designed as mini-games; for example, working as a security guard involves inspecting rooms in a first-person environment. It is also possible to play simple arcade games such as UFO catcher or Turbo Racing.",
+      "name": "Zero 4 Champ",
+      "year": "1991-03-08",
+      "publisher": "Media Rings",
+      "genre": "Racing, Driving / Racing",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Zipang (Japan)",
+      "description": "Zipang is a puzzle game released exclusively for the PC Engine in 1990. It is based on the movie of the same name (which in turn is an antiquated word for the nation of Japan): a comedy action movie from director Kaizo Hayashi that was loosely based on Japanese mythology and was also released in 1990. The same movie would also be the inspiration for the NES game Kabuki Quantum Fighter, which in Japan was named Jigoku Gokurakumaru: the name of the movie's protagonist.\r\n\r\nZipang plays similarly to Solomon's Key/Solomon no Kagi by Tecmo. The player character can destroy and place blocks, using them as platforms to get higher up in the stage. The player needs to remove enemies in their way and collect necessary items along the way to the exit. After each stage, a prefecture of Japan is placed on a map of Japan: upon completing them all, the game is over.",
+      "name": "Zipang",
+      "year": "1990-12-14",
+      "publisher": "Pack In Video",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": "14"
+    }
+  ]
+}

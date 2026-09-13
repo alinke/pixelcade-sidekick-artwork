@@ -1,0 +1,141 @@
+4-TRIS (World).int
+ABPA Backgammon (World).int
+Advanced Dungeons & Dragons (World).int
+Advanced Dungeons & Dragons - Treasure of Tarmin (World).int
+Armor Battle (World).int
+Astrosmash (World).int
+Atlantis (World).int
+Auto Racing (World).int
+B-17 Bomber (World).int
+BeamRider (World).int
+Beauty and the Beast (World).int
+Blockade Runner (World).int
+Body Slam - Super Pro Wrestling (World).int
+Bomb Squad (World).int
+Boxing (World).int
+Bump 'N' Jump (World).int
+BurgerTime (World).int
+Buzz Bombers (World).int
+Carnival (World).int
+Centipede (World).int
+Championship Tennis (World).int
+Checkers (World).int
+Chip Shot - Super Pro Golf (World).int
+Commando (World).int
+Congo Bongo (World).int
+Deep Pockets - Super Pro Pool and Billiards (World).int
+Defender (World).int
+Demon Attack (World).int
+Dig Dug (World).int
+Diner (World).int
+Donkey Kong (World).int
+Donkey Kong Jr (World).int
+Dracula (World).int
+Dragonfire (World).int
+Dreadnaught Factor, The (World).int
+Duncan's Thin Ice (World).int
+Electric Company - Math Fun (World).int
+Electric Company - Word Fun (World).int
+Fathom (World).int
+Frog Bog (World).int
+Frogger (World).int
+Game Factory (World).int
+Grid Shock (World).int
+Happy Trails (World).int
+Hard Hat (World).int
+Horse Racing (World).int
+Hover Force (World).int
+Ice Trek (World).int
+Jetsons, The - Ways With Words (World).int
+Kool-Aid Man (World).int
+Lady Bug (World).int
+Land Battle (World).int
+Las Vegas Blackjack and Poker (World).int
+Las Vegas Roulette (World).int
+League of Light (World).int
+Learning Fun I - Math Master Factor Fun (World).int
+Learning Fun II - Word Wizard Memory Fun (World).int
+Lock 'N' Chase (World).int
+Loco-Motion (World).int
+Magic Carousel (World).int
+Major League Baseball (World).int
+Masters of the Universe - The Power of He-Man! (World).int
+Melody Blaster (World).int
+Meteor (World).int
+Microsurgeon (World).int
+Mind Strike! (World).int
+Mine Hunter (World).int
+Mission X (World).int
+Moto-Cross (World).int
+Mountain Madness - Super Pro Skiing (World).int
+Mouse Trap (World).int
+Mr. Basic Meets Bits 'N Bytes (World).int
+NASL Soccer (World).int
+NBA Basketball (World).int
+NFL Football (World).int
+NHL Hockey (World).int
+Night Stalker (World).int
+Nova Blast (World).int
+Number Jumble (World).int
+Pac-Man (World).int
+PBA Bowling (World).int
+PGA Golf (World).int
+Pinball (World).int
+Pitfall! (World).int
+Pole Position (World).int
+Popeye (World).int
+Q-bert (World).int
+Reversi (World).int
+River Raid (World).int
+Robot Rubble (World).int
+Royal Dealer (World).int
+Safecracker (World).int
+Same Game & Robots (World).int
+Scooby Doo's Maze Chase (World).int
+Sea Battle (World).int
+Sewer Sam (World).int
+Shark! Shark! (World).int
+Sharp Shot (World).int
+Slam Dunk - Super Pro Basketball (World).int
+Slap Shot - Super Pro Hockey (World).int
+Snafu (World).int
+Space Armada (World).int
+Space Battle (World).int
+Space Cadet (World).int
+Space Hawk (World).int
+Space Spartans (World).int
+Spiker! - Super Pro Volleyball (World).int
+Stadium Mud Buggies (World).int
+Stampede (World).int
+Star Strike (World).int
+Star Wars - The Empire Strikes Back (World).int
+Stonix (World).int
+Sub Hunt (World).int
+Super Cobra (World).int
+Super Pro Decathlon (World).int
+Super Pro Football (World).int
+Swords & Serpents (World).int
+Takeover (World).int
+Tennis (World).int
+Thunder Castle (World).int
+Tower of Doom (World).int
+Triple Action (World).int
+Triple Challenge (World).int
+TRON - Deadly Discs (World).int
+TRON - Maze-A-Tron (World).int
+TRON - Solar Sailer (World).int
+Tropical Trouble (World).int
+Truckin' (World).int
+Turbo (World).int
+Tutankham (World).int
+U.S. Ski Team Skiing (World).int
+USCF Chess (World).int
+Utopia (World).int
+Vectron (World).int
+Venture (World).int
+White Water! (World).int
+World Championship Baseball (World).int
+World Cup Soccer (World).int
+World Series Major League Baseball (World).int
+Worm Whomper (World).int
+Zaxxon (World).int

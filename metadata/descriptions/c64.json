@@ -1,0 +1,1274 @@
+{
+  "games": [
+    {
+      "id": "10th Frame (USA)",
+      "description": "Get out that shirt, put on your bowling shows and get ready to roll with 10th FRAME! This simulation gives you the look of &quot;real&quot; bowling through outstanding graphics and a true perspective view.\r\nWith multiple levels of play, realistic pin action and automatic scoring, 10th FRAME is a bowling experience the whole family can enjoy.",
+      "name": "10th Frame",
+      "year": "1986",
+      "publisher": "U.S. Gold",
+      "genre": "Sports / Bowling",
+      "players": 8,
+      "rating": "17"
+    },
+    {
+      "id": "1942 (Europe)",
+      "description": "A conversion of the arcade game, 1942 is a vertically scrolling shooter for one or two players. The year is 1942, and you are a daring fighter pilot &quot;Super Ace&quot;. You begin and end each of the numerous levels on an aircraft carrier and then fly your plane into battle against the enemy over both sea and land. After destroying certain plane formations you can collect several different power ups to increase your fire power and chances of survival.",
+      "name": "1942",
+      "year": "1987",
+      "publisher": "Elite Systems",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "1943 - The Battle of Midway (USA)",
+      "description": "1943: The Battle of Midway is a shoot'em up on Commodore 64 that follows 1942. You are plunged into the heart of the Second World War. This time it is a question of recreating the intense battle off the coast of the Midway Islands. Compared to its predecessor, 1943 displays a health bar that empties when you are hit, but can be recharged with some bonuses.",
+      "name": "1943 - The Battle Of Midway",
+      "year": "1988",
+      "publisher": "Go!",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 2,
+      "rating": "6"
+    },
+    {
+      "id": "Action Biker (Europe)",
+      "description": "&quot;Action Biker&quot; sends the clumsy Colin on his motorbike through an isometric world, where he must collect clothing and bike parts to eventually take part in a drag race. The environment is full of obstacles like walls, fences, trees, telegraph poles, a petrol station and water – each crash costs a life. But not everything is dangerous – raised platforms can be safely ridden or jumped from. Once Colin has gathered all required items, it's straight to the drag strip – ready for the grand finale.",
+      "name": "Action Biker",
+      "year": "1985",
+      "publisher": "Mastertronic",
+      "genre": "Motorcycle race TPV",
+      "players": 1,
+      "rating": "17"
+    },
+    {
+      "id": "Archon (USA)",
+      "description": "Archon brings the forces of light and darkness together on a magical battlefield resembling an overgrown chessboard. Unicorns, golems, wizards, dragons and other mythical beings move across shifting light and dark squares that affect their strength, while encounters with enemies are settled in direct arena battles. By using the changing light cycle wisely, victory can be achieved either by destroying the entire opposing army or capturing all five power points – requiring both tactical planning and quick reactions.",
+      "name": "Archon",
+      "year": "1984",
+      "publisher": "Ariolasoft",
+      "genre": "Board game",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Archon III - Exciter (USA) (Unl)",
+      "description": "In Archon III: Exciter the battle between light and dark continues unofficially in this fan-made sequel to the classic Archon series. Never commercially released or endorsed by Electronic Arts, the game was freely shared among players. Combat plays out between slow-moving sprites, stripped of melee or projectile attacks. Instead, each fighter generates a ring of “fire” that drains the opponent's health on contact. With no single-player mode or AI, the game is purely a two-player experience — a minimalist reinterpretation of Archon's concept focused entirely on timing, positioning, and control.",
+      "name": "Archon 3 - Exciter",
+      "year": "1985",
+      "publisher": null,
+      "genre": "Strategy",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Arkanoid (Europe)",
+      "description": "In Arkanoid, you control a spaceship called Vaus that deflects an energy bolt to break through walls of blocks. What started as a simple Breakout clone evolved with power-ups like lasers, catch devices, and slow-motion, adding new strategy and excitement. But chasing bonuses too eagerly can cost you the ball – and the game. Only careful play leads you through the blocked zones to freedom.",
+      "name": "Arkanoid",
+      "year": "1988",
+      "publisher": "Imagine",
+      "genre": "Action / Breakout games",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Arkanoid II (USA) (Unl)",
+      "description": "In Arkanoid II by Gollum, you once again control the Vaus capsule, using an energy ball to smash blocks. Some blocks hide power-ups that, when caught, widen your bat, enable lasers, or slow down the ball. You start with five lives, and each lost ball brings you closer to game over. This unofficial sequel was released before the official follow-up and stands out with clever design and the same addictive gameplay.",
+      "name": "Arkanoid 2 (FLT)",
+      "year": "1987",
+      "publisher": "Fairlight",
+      "genre": "Action / Breakout games",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Ballblazer (USA)",
+      "description": "In the year 3037, the most competitive sport in the known universe is Ballblazer. Ballblazer is a futuristic 3D football game, in which the player (inside a Rotofoil) is set on an individual playing field of 1155 squares (the grid) presented in a first-person perspective. The player's objective is to throw a floating ball (Plasmorb) into the opponent's goal (Goalbeams).  A player can compete with a human opponent or the computer. The game can be played against the computer or against another human.",
+      "name": "Ballblazer",
+      "year": "1985",
+      "publisher": "Activision",
+      "genre": "Sports",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "BC's Quest for Tires (USA)",
+      "description": "Cute Chick is in trouble! She is being held captive by the dinosaur, and it is up to Thor to ride his trusty wheel to the rescue. There are many obstacles in the way which Thor will need to jump and duck, including rocks, trees, rivers, lava pits, cliffs, and of course Fat Broad. When you duck, the character bounces up and down, so don't duck too soon. BC's Quest For Tires is a side scrolling action game resembling Moon Patrol in some ways, featuring characters from the comic strip BC.",
+      "name": "Bc's Quest For Tires",
+      "year": "1984",
+      "publisher": "Software Projects",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Beach-Head (USA)",
+      "description": "Beach-Head challenges you to reclaim an island fortress seized by a dictator. The mission unfolds across several consecutive combat stages: first conducting aerial reconnaissance and choosing a route to surprise the enemy. You then operate anti-aircraft and heavy guns to defend your fleet from hostile planes and ships. Afterward, you guide the fleet to the shore, where tanks roll out and must be driven through enemy fire and obstacles. In the final assault on the fortress, you must destroy multiple key targets to bring down the dictator's stronghold – an action-packed invasion campaign with varied battle sequences.",
+      "name": "Beach-Head",
+      "year": "1983",
+      "publisher": "U.S. Gold",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "BMX Simulator (Europe)",
+      "description": "&quot;BMX Simulator&quot; puts you in control of a BMX bike from a top-down perspective as you tackle seven increasingly tricky circuits featuring ramps and bumps that affect your handling. The goal is to complete three laps within the time limit – the faster you are, the more points you earn. A computer opponent races alongside you, but only your time matters for scoring. A standout feature: the slow-motion action replay that lets you relive your ride.",
+      "name": "Bmx Simulator",
+      "year": "1987",
+      "publisher": "Codemasters Software",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Bomb Jack (Europe)",
+      "description": "In Bomb Jack, the player controls Jack, who must collect all the bombs in order to complete the current round and go onto the next one. This sounds easy, right? Wrong! Making Jack's task difficult are numerous enemies such as birds, mummies, turtles, and orbs. In each round, collecting a number of bombs results in a bonus coin appearing, and collecting this coin will make the player's score increase 2 to 4 times. More often than not, the &quot;power ball&quot; appears, and when you collect this, you can defeat enemies and have more time to collect all the bombs. There is also the &quot;E&quot; coin, which gives Jack one additional life, but rarely does this coin appear. The more you progress through the game, the more difficult it becomes, as enemies travel more quickly to get you.",
+      "name": "Bomb Jack",
+      "year": "1986",
+      "publisher": "Elite Systems",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Bomb Jack II (Europe)",
+      "description": "Having saved the world in the first game, Bomb Jack is out to collect as much gold as possible, which is lying on a number of ledges. These vary between open and shut - the open ones offer more points, and an extra life is on offer for collecting 10 in a row, so if possible the route should take in the open ones in order. Gameplay differs from the original, in that Bombjack's movement is no longer free and self-propelled. Instead, he moves flick-style between ledges, so long as one is directly within one of the 4 compass directions. Baddies can be pushed off ledges, but this uses up some of Jack's limited energy.",
+      "name": "Bomb Jack 2",
+      "year": "1986",
+      "publisher": "Elite Systems",
+      "genre": "Platform",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Boulder Dash  II - Rockford's Revenge (USA)",
+      "description": "In part two of the Boulder Dash series the overall game design hasn't changed compared to the original, but sixteen new levels have been created. The basis of the game is the same, you still have to mine diamonds while avoiding falling rocks and cave monsters of all sorts. As in part one, later levels become more difficult because many puzzle elements are added.",
+      "name": "Boulder Dash 2 - Rockford's Revenge",
+      "year": "1985",
+      "publisher": "First Star Software",
+      "genre": "Action / Labyrinth",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Boulder Dash  III (USA)",
+      "description": "Boulder Dash III continues the series with a futuristic twist – Rockford now wears a spacesuit and explores sci-fi themed caverns. The goal remains the same: collect enough diamonds to open the portal to the next level. Along the way, boulders, monsters, and spreading slime threaten to block paths or kill Rockford. Skill is required to use falling rocks strategically, crush monsters, and unlock extra diamonds. A strict time limit and puzzle elements, such as walls that transform boulders into diamonds, make the challenge even greater.",
+      "name": "Boulder Dash 3",
+      "year": "1986",
+      "publisher": "First Star Software",
+      "genre": "Action / Labyrinth",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Boulder Dash (USA)",
+      "description": "You're Rockford and have to dig through monster infested caves in search of diamonds. In each level you must collect a certain number of these diamonds, in order to open a portal to the next stage. Enemies can be squashed by falling boulders, which are released when the ground below them is removed or they are pushed onto empty ground, but be careful because these can also squash you. In later levels, difficulty is increased by many puzzle elements and shorter time limits.",
+      "name": "Boulder Dash",
+      "year": "1984",
+      "publisher": "State Soft",
+      "genre": "Action / Labyrinth",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Break Dance (USA)",
+      "description": "Break Dance (also known as Breakdance) is a Commodore 64 rhythm game that relies on players making dancing moves that resemble the classic game Simon says. A computer character performs a pattern of five break dancing moves that must be copied by the player. One new move is added to every round, making the game more complicated as the player progresses through each stage.",
+      "name": "Break Dance",
+      "year": "1984",
+      "publisher": "Epyx",
+      "genre": "Dancing",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Bruce Lee (USA)",
+      "description": "The late martial arts hero features in this platform game, with the aim of reaching a wizard in an underground lair, defeat of whom can offer him untold wealth.\r\n\r\nIn each area you must collect the many strategically-placed lanterns before exiting through the newly-revealed passageway. Some rooms also have escalator-type sections to run along, and the standard (although slightly illogical in this context) ladders. There are 20 areas to be completed.",
+      "name": "Bruce Lee",
+      "year": "1984",
+      "publisher": "U.S. Gold",
+      "genre": "Platform / Run & Jump",
+      "players": 2,
+      "rating": "18"
+    },
+    {
+      "id": "Bubble Bobble (Europe)",
+      "description": "Bubble Bobble tells the story of Bub and Bob, two humans who are transformed into little dinosaurs after entering a mysterious cave of monsters. To regain their human form, they must reach the end of the cave. Each level is contained on a single screen, and only when all enemies are defeated can you progress. Bub and Bob can jump, collect items for points, and most importantly blow bubbles – their key ability. Bubbles can trap enemies, which then turn into fruit when popped, or serve as platforms to reach higher ground. Occasionally, power-ups drift by in bubbles, unleashing effects such as lightning bolts or rushing water. But if you take too long, Baron Von Blubba will appear and relentlessly pursue you across the screen.",
+      "name": "Bubble Bobble",
+      "year": "1987",
+      "publisher": "Taito",
+      "genre": "Platform",
+      "players": 2,
+      "rating": "17"
+    },
+    {
+      "id": "Burger Time (Europe)",
+      "description": "Burger Time puts you in the role of Chef Pepper, who must build giant hamburgers while being chased by evil eggs, sausages, and pickles across a multi-level playfield. Each ingredient drops down one level when you walk over it. With good timing, you can squish enemies with falling food and bump multiple ingredients downward. As a last resort, you can collect pepper shakers to release a pepper cloud that temporarily stuns enemies, letting you slip past them. Speed, tactics, and timing are key to completing your burger masterpiece.",
+      "name": "Burger Time (Interceptor Software - 1984)",
+      "year": "1984",
+      "publisher": "Interceptor Software",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Burnin' Rubber (Europe)",
+      "description": "In Burnin' Rubber, you speed along a futuristic road that constantly narrows, opens up again, and is packed with dangerous hazards. Potholes, gaps in the road, and islands demand quick reactions, as dodging or taking a risky jump is often the only way through. Other cars keep trying to force you off the road – but with enough nerve, you can knock them off the track and keep charging ahead.",
+      "name": "Burnin' Rubber",
+      "year": "1983",
+      "publisher": "Colosoftware",
+      "genre": "Racing, Driving",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "California Games (USA) (Disk 1 Side A)",
+      "description": "California Games tosses all traditional sports aside and takes you on a ride through California, packed with action and trend sports. You start in Hollywood with risky skateboard tricks in the halfpipe, then head to San Francisco to show your footbag skills without using your hands. Next stop is the beach: dodge obstacles while roller-skating, ride the perfect wave while surfing, and perform BMX stunts on a rugged course. The finale is a frisbee competition set in beautiful Yosemite – California from start to finish.",
+      "name": "California Games",
+      "year": "1987-07-01",
+      "publisher": "U.S. Gold",
+      "genre": "Sports / Multisports",
+      "players": 8,
+      "rating": "17"
+    },
+    {
+      "id": "Chop n' Drop (USA)",
+      "description": "In the game, three karateka fight against each other on a beach, trying to be the first to score six points. After every two rounds, there is a bonus game which is either deflecting bouncing balls or kicking away bombs. The C64 version of the game only has the ball bouncing bonus game, and not the bomb bonus game. The game can be played by one or two human players; at least one fighter is always controlled by the computer. Unlike its predecessor, International Karate, there is only one backdrop. However, different parts of the backdrop can be recoloured to several different themes by the players using specific keystrokes.",
+      "name": "International Karate Plus",
+      "year": "1988",
+      "publisher": "System 3 Software",
+      "genre": "Sports / Fighting",
+      "players": 2,
+      "rating": "17"
+    },
+    {
+      "id": "Commando (Europe)",
+      "description": "In Commando, you are Super Joe, a lone soldier armed with an M60 machine gun and six grenades, battling through enemy territory. Mortars, grenades, and bullets rain down as you fight through trenches, cliffs, and lakes. Rebel forces emerge from caves, bunkers, and carriers to stop you. But there's no retreat – only forward. Collect supplies, grab more grenades, and push through wave after wave until you reach the fortress. Do you have the skill and stamina to defeat the enemy?",
+      "name": "Commando",
+      "year": "1986-07-01",
+      "publisher": "Elite Systems",
+      "genre": "Shooter / Run and Gun",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Connection (Hungary) (Unl)",
+      "description": "Connection: Gravity challenges you with physics-based puzzles where gravity is both your enemy and ally. Using the cursor, you select green or blue stones and move them horizontally, while special “bubbles” can be moved vertically as well. Sometimes, you'll need to rotate stones by pressing down and fire. It's all about clever planning and precise moves – and with the built-in level designer, you can even create your own puzzles.",
+      "name": "Connection - Gravity",
+      "year": "1993",
+      "publisher": "CP Verlag",
+      "genre": "Thinking",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Decathlon (USA)",
+      "description": "In Decathlon you compete in ten different athletics events inspired by the Olympic decathlon. Up to four players can take part, either playing through all events in sequence or selecting individual ones. The events include the 100-meter dash, long jump, shot put, high jump, 400-meter race, 110-meter hurdles, discus throw, pole vault, javelin throw and the 1500-meter race. In the running events you rapidly move the joystick to build speed while pressing the button at the right moment, for example to clear hurdles without losing momentum. In the jumping and throwing events you build up power and then release at the correct time to achieve the best result. Points are awarded for each event based on your performance, and the player with the highest total score at the end wins the gold medal.",
+      "name": "Decathlon",
+      "year": "1983",
+      "publisher": "Activision",
+      "genre": "Sports / Multisports",
+      "players": 4,
+      "rating": "16"
+    },
+    {
+      "id": "Deceptor (Europe)",
+      "description": "Deceptor drops you into a futuristic world where you take on the role of a mysterious being in search of a destiny defined by your elders. You navigate extended corridors, avoid dangerous inhabitants, and rely on the unique ability to transform in order to overcome obstacles. Switching between land and air forms opens different paths and requires constant adaptation, as touching the ground immediately changes your situation. The experience centers on movement, timing, and smart use of transformations, tightly linking exploration and survival.",
+      "name": "Deceptor",
+      "year": "1986",
+      "publisher": "U.S. Gold",
+      "genre": "Action",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Defender of the Crown (USA)",
+      "description": "Defender of the Crown puts you in the role of one of four Saxon knights in medieval England, in a time where the land is in turmoil as the King is dead and his crown was stolen. The Saxons and the Normans blame each other and fight for control of England.\n\nAfter a short introduction by Robin of Locksley himself, you start the game with a single castle and 10 soldiers at your command. From there, you have to build your army, take control of additional territories and fight the three Norman lords - and sometimes your Saxon friends as well.\n\nThe game has several different styles: You may either engage in a jousting contest where you have to knock your opponent off his horse using a lance, you can go raid a castle for loot or you can attack another territory/castle.\n\nThe game was originally created on the Amiga platform in 1986 by Cinemaware with wonderful graphics by James D. Sachs and great music by Jim Cuomo, then ported to the PC whilst keeping its original appeal and quality.",
+      "name": "Defender Of The Crown",
+      "year": "1987",
+      "publisher": "Mirrorsoft",
+      "genre": "Strategy",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Desert Fox (Europe)",
+      "description": "Desert Fox is a strategy/action mix set in World War II. The player takes the role of tank commander Lone Wolf who has to foil Rommel's plans in Northern Africa. The strategic part of the game plays on a overhead map which shows Lone Wolf and Rommel's positions. The overall goal is to save the Allied depots which are attacked by Rommel's troops - the main challenge is to save all of them in time. Lone Wolf can be moved over the map and one airstrike per game can be used to buy time for one depot. Lone Wolf also has the ability to gain enemy intel with his radio - this is useful in order to find out where obstacles await.\r\n\r\nWhenever Lone Wolf runs into one of these obstacles or Rommel, one of five action sequences starts. This includes tank duels, a turret section against incoming fighters, navigating a minefield, protecting a convoy and escaping an ambush. Those action sequences can also be played separately from the campaign. Lighting conditions change depending on the time of day.",
+      "name": "Desert Fox",
+      "year": "1985",
+      "publisher": "U.S. Gold",
+      "genre": "Strategy",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Donkey Kong (Ocean) (Europe)",
+      "description": "&quot;Donkey Kong&quot; – this is the Ocean version of the game where Jumpman tries to rescue a lady from the clutches of a giant ape named Donkey Kong. The game consists of four different single-screen levels, each representing 25 meters of the structure Donkey Kong has climbed. The final screen takes place at 100 meters.",
+      "name": "Donkey Kong (Ocean)",
+      "year": "1986",
+      "publisher": "Ocean",
+      "genre": "Platform / Run & Jump",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Double Dragon (Europe)",
+      "description": "Double Dragon follows twin brothers Billy and Jimmy Lee as they take on the brutal Black Warriors gang after Billy's girlfriend Marian is kidnapped in the streets of a post-apocalyptic New York. Refusing to give in to blackmail, they fight back using their martial arts skills and anything they can get their hands on. From city slums and industrial ruins to the depths of the forest, each step brings them closer to the gang's hideout and a final showdown with boss Willy. The path is tough, the enemies relentless, but the Lee brothers won't stop until Marian is safe.",
+      "name": "Double Dragon (Melbourne House)",
+      "year": "1988",
+      "publisher": "Melbourne House",
+      "genre": "Beat'em Up",
+      "players": 2,
+      "rating": "11"
+    },
+    {
+      "id": "Dragon's Lair (Europe)",
+      "description": "Dragon's Lair puts you in the role of the fearless knight Dirk, who ventures into the perilous castle of Singe the dragon to rescue Princess Daphne. Before reaching the dragon's lair, you'll need to survive countless traps, dodge deadly creatures, and rely on sharp reflexes. After rescuing the princess, a second quest begins instantly – escaping from the castle, now overrun by the Lizard King and his minions. A mix of platforming, reflex-based action, and puzzle elements challenges your timing and choices in every scene.",
+      "name": "Dragon's Lair",
+      "year": "1987",
+      "publisher": "Software Projects",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Eidolon, The (USA)",
+      "description": "The Eidolon places you in an abandoned laboratory where you uncover a strange 19th-century machine. As you examine it, you are suddenly pulled into another dimension – a vast cave system whose creatures awaken at the energy it emits. Your only chance of survival lies in this mysterious vehicle, guiding it through twisting tunnels and using its energy weapon to keep the creatures at bay as you search for a way out.",
+      "name": "Eidolon, The",
+      "year": "1985",
+      "publisher": "Lucasfilm Games",
+      "genre": "Shooter / FPV",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Elevator Action (Europe)",
+      "description": "You are Agent 17 (codename: &quot;Otto&quot;). Your mission is to secure all top secret documents from a security building and escape in the getaway car, located in the basement of the building.\r\n\r\nEnemies spies are scattered throughout the 30-floor building and they have only one mission: execute Agent 17 at all costs. There are several ways in which Agent 17 can kill them: shooting them with his gun, kicking them by jumping onto them, shooting a light on the ceiling while in an elevator, dropping the light onto one of them and crushing them with an elevator.\r\n\r\nWhenever a light has been dropped, the hallways will be dark for a short period of time, making the enemy spies harder to see. The same holds true for hallways that are already dark.",
+      "name": "Elevator Action",
+      "year": "1986",
+      "publisher": "Quicksilva",
+      "genre": "Platform / Shooter Scrolling",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Elite (Europe)",
+      "description": "Elite opens up a vast journey through space where combat, trading, and exploration are closely connected. With your Cobra spacecraft, you travel from system to system, trade goods, take on missions, hunt pirates, or find other ways to earn profit and reputation. The money you make can be invested in better equipment, stronger weapons, defensive systems, or more convenient technology, gradually making your ship more capable. Between honest business, risky shortcuts, and dangerous battles, Elite unfolds as a free-form adventure driven entirely by your choices.",
+      "name": "Elite",
+      "year": "1986",
+      "publisher": "Firebird Software",
+      "genre": "Simulation / SciFi",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Frank Bruno's Boxing (Europe)",
+      "description": "In Frank Bruno's Boxing you step into the ring as Frank Bruno and fight your way through a lineup of increasingly tough opponents to claim the title. The action is shown from a viewpoint directly behind your boxer, letting you feel the impact of every punch and movement. Using a mix of head and body punches along with defensive moves like dodging, ducking and blocking, you try to wear your opponent down. Each successful hit weakens his strength, though it can recover if he avoids damage for a while. After enough punishment you finally get the chance to land the decisive knockout blow.",
+      "name": "Frank Bruno's Boxing",
+      "year": "1985",
+      "publisher": "Elite Systems",
+      "genre": "Sports / Boxing",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Friday the 13th (Europe)",
+      "description": "Jason is hiding in the forest, waiting to avenge his mother's death, when a party of teenagers visit the eerie Crystal Lake holiday camp close to the killer's filthy grotto. Jason puts on his hockey mask and sharpens his machete, ready for a razor-edges massacre.\n\nTen of your friends are lose in the surroundings of Crystal Lake. Jason is out there to hunt them down. It's up to you to find him and kill him before he kills you. Luckily there are a lots of weapons to be found in the scenery, ranging from small knives to chainsaws. Unfortunately Jason is looking like a normal player until he attacks or is attacked. So it's up to you to identify him and end the nightmare by killing Jason.\nDepending on the number of friends surviving you'll get bonus points just to start over again with a different character.",
+      "name": "Friday The 13th",
+      "year": "1985",
+      "publisher": "Domark",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Ghostbusters (USA)",
+      "description": "Ghostbusters puts you in charge of a ghostbusting team tasked with saving New York from a paranormal disaster. Hired by the mayor and equipped with starting funds, you hunt ghosts across the city, watch the map for new hauntings, and drive through traffic to reach the locations in time. Once there, you deploy proton beams and traps to capture the spirits and lower the city's PK energy level. The money earned can be spent on upgrades and new equipment. But if ghost activity rises too high, the Temple of Zuul awakens along with Gozer – and only if you've been successful enough will you stand a chance in the final showdown.",
+      "name": "Ghostbusters",
+      "year": "1984-10-01",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Ghosts'n Goblins (Europe)",
+      "description": "The beautiful princess is kidnapped. Her lover, the Knight in shining armor, armed with five different weapons to fight the enemy, sets out to rescue the beautiful princess. The Knight, aided by your skill, must pass through seven different guarded gates, fighting and destroying demons, dragons, giants and zombies. Ghosts 'N Goblins is exciting... challenging you and the Knight to rescue the princess, amid great danger, escaping Hades, land of the enemies!",
+      "name": "Ghosts 'n Goblins",
+      "year": "1987",
+      "publisher": "Elite Systems",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "17"
+    },
+    {
+      "id": "GI Joe (USA)",
+      "description": "&quot;G.I. Joe&quot; puts the player in the role of a member of the G.I. Joe team with the mission to eliminate threats from Cobra and capture eight Cobra operatives. The game features two gameplay modes – an overhead vehicular combat section and one-on-one fights against Cobra agents. In the first mode, the player controls one of eight G.I. Joe members through various terrains such as forests, deserts, and arctic tundra, using iconic vehicles like the Dragonfly helicopter, Rattler plane, or H.I.S.S. tank. The melee combat sections feature sixteen playable Joes, including Duke, Snake Eyes, and Scarlett, battling well-known Cobra enemies like Destro, the Baroness, and Cobra Commander. The game cannot be fully completed if too many members from either side end up in jail – as released prisoners will continue the fight.",
+      "name": "G.i. Joe - A Real American Hero",
+      "year": "1985",
+      "publisher": "Epyx",
+      "genre": "Shoot'em Up",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Goonies, The (USA)",
+      "description": "In The Goonies you join a group of adventurous kids on their quest to find the legendary treasure of One-Eyed Willie. After a ruthless developer threatens their neighborhood, the friends discover a treasure map at Mikey's house and set off on a dangerous expedition. The adventure begins in an abandoned restaurant and then leads deep into a network of catacombs. Inside, the group must face traps, bats, enemies and many tricky puzzles. In most stages you have to guide two Goonies safely to the exit, while in the final stage both of them must reach the treasure. Only with skill and careful teamwork can the kids make it through this perilous adventure.",
+      "name": "Goonies, The",
+      "year": "1985",
+      "publisher": "U.S. Gold",
+      "genre": "Platform",
+      "players": 2,
+      "rating": "10"
+    },
+    {
+      "id": "Gyroscope (Europe)",
+      "description": "Gyroscope is a fast-paced skill game strongly inspired by Marble Madness. You control a spinning gyroscope from a fixed isometric view across sloped, hazard-filled tracks – packed with ramps, drops, and obstacles. The controls are sensitive – the gyro accelerates quickly, slows down slowly, and must stay stable. Time pressure and limited lives increase the tension – losing a life sends you back to the start of the level without resetting the timer. You earn points for clearing screens, time bonuses, and an extra life at 1000 points. After level 7, the game mirrors – beat level 14, and it loops back to level 1.",
+      "name": "Gyroscope",
+      "year": "1985",
+      "publisher": "Melbourne House",
+      "genre": "Action / Labyrinth",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Gyruss (USA)",
+      "description": "Gyruss pits you against the deadly Gyrusians attacking the solar system. Piloting a ship that moves in a circular path around the screen's edge, you must clear three enemy waves per planet, traveling from one world to the next. Shoot special satellites to upgrade from a single to a double cannon, and earn bonuses and weapons in post-level stages. With its fast-paced action and unique radial movement, Gyruss delivers a fresh twist on classic arcade shooting.",
+      "name": "Gyruss",
+      "year": "1984",
+      "publisher": "Konami",
+      "genre": "Shoot'em Up",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "HardBall! (USA)",
+      "description": "Hardball is a baseball action game for one or two players. You can throw a variety of pitches from fast balls to curve balls, steal bases, select team members, and substitute players as the game is played.",
+      "name": "Hardball!",
+      "year": "1985",
+      "publisher": "Accolade",
+      "genre": "Sports / Baseball",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Henry's House (Europe)",
+      "description": "Henry's House has you guiding a tiny character through a home filled with oversized household objects that turn into dangerous hazards. You jump across single-screen rooms, avoid moving obstacles, and collect scattered items to unlock the exit. Only after gathering everything and revealing the key can you move on, sometimes with new challenges appearing along the way. The experience relies on precise timing and careful exploration – a charming platform adventure that rewards skill, patience, and awareness.",
+      "name": "Henry's House",
+      "year": "1984",
+      "publisher": "English Software",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "18"
+    },
+    {
+      "id": "Hot Wheels (USA)",
+      "description": "Hot Wheels is a licensed title based on Mattel's toy cars.\r\nYou start at a car dealership with different types of model cars, but if they don't suit your taste, you can design and build your own.\r\n\r\nYou look at your car from the side at a slightly elevated angle and can drive it to the right or left along the road. To change direction, you must enter an opening and exit in the new direction. The city itself is divided into two parts and connected by a highway. Each part of the city consists of different buildings and some buildings can be driven into, either to keep the car running smoothly or to take part in various mini-games.",
+      "name": "Hot Wheels",
+      "year": "1985",
+      "publisher": "Epyx",
+      "genre": "Racing TPV",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Impossible Mission (USA)",
+      "description": "Impossible Mission is an action-packed platformer with puzzle elements where the player takes on the role of a secret agent trying to stop the evil Professor Elvin Atombender. Suspected of tampering with national security computers, Atombender must be thwarted by infiltrating his fortress while avoiding deadly robots. The goal is to collect different pieces of a password needed to access the main control room. The mission is time-sensitive, giving players only six hours to complete it. Every failure costs valuable minutes — either by losing a life or using the portable computer's help function. Since robots, rooms, and puzzle pieces are randomly generated at the start of each game, the replay value remains high.",
+      "name": "Impossible Mission",
+      "year": "1984",
+      "publisher": "U.S. Gold",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Impossible Mission II (USA)",
+      "description": "Eight hours remain to stop Elvin's deadly plan. In Impossible Mission II, you infiltrate his tower fortress, avoid dangerous robots, and search for the required security combinations. At the same time, you must restore scattered music sequences and assemble them into a complete melody to reach the central control room. The adventure blends tense infiltration, clever searching, and the constant pressure of an unforgiving countdown.",
+      "name": "Impossible Mission 2",
+      "year": "1988",
+      "publisher": "Epyx",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "18"
+    },
+    {
+      "id": "Jumpman (USA)",
+      "description": "As a bomb disposal expert, Jumpman is called to Jupiter Headquarters after the Alienators have rigged the entire complex with explosives. In each stage, you must collect every bomb, climb across platforms and ladders, and use the jet booster to reach higher areas when needed. Enemies and dangerous falls make the mission far more hazardous than it first appears. The result is a tense rescue adventure that neatly combines precise movement, awareness, and the constant pressure of an imminent threat.",
+      "name": "Jumpman",
+      "year": "1983",
+      "publisher": "CBS Electronics Software",
+      "genre": "Platform",
+      "players": 4,
+      "rating": "16"
+    },
+    {
+      "id": "Jumpman Junior (USA)",
+      "description": "Jumpman Junior is the sequel to Jumpman and features similar gameplay with all new levels. As Jumpman, your goal is to disarm all of the bombs on the level before time runs out. Each level consists of a variety of platforms, ladders, and ropes you will need to jump and climb to reach the bombs. To make the game more challenging, a bullet will fire on the screen from time to time which will cause Jumpman to lose a life if hit. Each level has a different theme to it, and a few also have additional dangers as well. You will encounter deadly fires, the bouncing hellstones, moving ladders, disappearing platforms, and more.",
+      "name": "Jumpman Junior",
+      "year": "1983",
+      "publisher": "Epyx",
+      "genre": "Platform",
+      "players": 4,
+      "rating": "16"
+    },
+    {
+      "id": "Karateka (USA)",
+      "description": "The evil Akuma has destroyed your homeland, killed many of your friends and kidnapped your Princess Mariko. Fortunately, you are skilled in Martial Arts, so your inevitable quest to reach Akuma's palace has a chance of success.\n\nThe game is viewed from the side and features a succession of increasingly-difficult opponents. All the standard karate kicks and punches are available to both you and your foes. The game's design was serious and realistic, and the game featured lots of cutscenes to develop the story.",
+      "name": "Karateka",
+      "year": "1985",
+      "publisher": "Ariolasoft",
+      "genre": "Beat'em Up",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Koronis Rift (USA)",
+      "description": "Koronis Rift places you on an abandoned planet left behind by an ancient civilization full of secrets. You deploy a droid to explore wrecks and recover modules whose purposes are revealed over time. Ancient technology can provide protection, power, or weapons and becomes essential for survival, as hostile craft threaten your progress. The expansive, richly detailed world encourages exploration and rewards curiosity, caution, and smart choices.",
+      "name": "Koronis Rift",
+      "year": "1985-10-01",
+      "publisher": "Activision",
+      "genre": "Strategy",
+      "players": 1,
+      "rating": "18"
+    },
+    {
+      "id": "Kung-Fu - The Way of the Exploding Fist (Europe)",
+      "description": "This menacingly-titled beat 'em up was the first in many martial arts titles from Australia's Melbourne House. Sixteen different moves are on offer, ranging from standard kicks to jumps, somersaults and roundhouse kicks.\n\nThe move executed each time is defined based on the character's direction, the joystick/keyboard positioning, and on whether the fire button is depressed, in a system which became standard on single-button control systems.\n\nTo win each bout you must score 2 Yin-Yangs - a perfectly executed kick/punch scores a full one, whereas a less forceful contact offers half a point - the best moves also offer more points. In the one-player game, you advance through a Dan by winning two successive bouts, and a single win for the opponent means game over. The champion in a two-player duel is decided by points after 4 rounds.",
+      "name": "Way Of The Exploding Fist, The",
+      "year": "1986",
+      "publisher": "Melbourne House",
+      "genre": "Fighting / 2D",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Last Ninja , The (Europe) (Disk 1 Side A)",
+      "description": "In The Last Ninja, you play as the sole survivor of your clan, which was destroyed by the treacherous Shogun Kunitoki. While your brothers were slain and the sacred Koga scrolls stolen, you must now journey through perilous lands, evade traps, and confront Kunitoki. Only by mastering martial arts, agility, and wisdom can you reclaim your legacy and restore the honor of the ninja.",
+      "name": "Last Ninja, The",
+      "year": "1987",
+      "publisher": "System 3 Software",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": "18"
+    },
+    {
+      "id": "Last Ninja II (Europe) (Side A)",
+      "description": "Last Ninja 2: Back with a Vengeance throws Armakuni from the medieval Far East into modern-day New York to face his archenemy Kunitoki, who escaped through time and built a new reign of terror. The journey to their final showdown leads through carefully crafted environments like parks, streets, and grim drug labs, with the gameplay peppered with tongue-in-cheek humor and pop culture references. You'll be pelted by flower pots from annoyed bystanders, face an urban legend crocodile in the sewers, and even spot Superman flying past an office window. Thematically, it strongly echoes the wave of urban ninja films that flooded the video market at the time, especially those from B-movie director Joseph Lai and actor Shô Kosugi.",
+      "name": "Last Ninja 2 - Back with a Vengeance",
+      "year": "1989-01-04",
+      "publisher": "System 3 Software",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Last Ninja III (Europe) (Side A)",
+      "description": "The third in the Last Ninja series sees you as Armakuni, the Last Ninja. He is drawn again into a battle with evil Shogun Kunitoki. The battle will take place among the temples of Tibet, the source of the Last Ninja's mystical strength. The Shogun intends to corrupt these Buddhist temples, to destroy the source of power for Armakuni and his emerging Ninja brotherhood. Armakuni must stop the Shogun's evil scheme.",
+      "name": "Last Ninja 3",
+      "year": "1991",
+      "publisher": "System 3 Software",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Leaderboard Golf (USA)",
+      "description": "„Leaderboard Golf“ marks the beginning of Access' long line of golf simulations. The shot starts by holding the fire button to set the power, then pressing it again to apply a hook or slice if needed. The greens are sloped, so this should be taken into account when planning shots. Four 18-hole courses are available, which can be combined freely in a 4-round match with up to four players. There are three difficulty levels: novices only need to choose the right speed, direction, and club. Amateurs must also time their shot precisely to control the ball's curve—conventional golf wisdom suggests eliminating unwanted spin before intentionally applying it—while the professional level introduces wind fluctuations as an additional challenge.",
+      "name": "Leaderboard Golf",
+      "year": "1986",
+      "publisher": "Access Software",
+      "genre": "Sports / Golf",
+      "players": 4,
+      "rating": null
+    },
+    {
+      "id": "Lightforce (Europe) (Unl)",
+      "description": "Lightforce sends you on a desperate mission as the last remaining defender tasked with securing an attacked star system and rescuing captured hostages. In constantly upward-scrolling sections, you fight through heavily defended zones and alien worlds with clearly distinct environments and threats. Varied enemy formations and attack patterns demand quick reactions and smart positioning, while constant forward momentum keeps the pressure high – a classic struggle for survival that tests speed, awareness, and endurance.",
+      "name": "Lightforce",
+      "year": "1987",
+      "publisher": "FTL - Faster Than Light",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Maniac Mansion (USA) (Side A)",
+      "description": "The Edison mansion has always been a creepy old house on the edge of town. There have been rumors of strange experiments going on and of odd creatures living amongst the Edison family. There is even a story that a meteorite once crashed near the home nearly 20 years ago. More immediately, a girl named Sandy has gone missing from the local highschool and her boyfriend Dave swears that he saw Dr. Fred abducting her. Dave knows that he cannot do it alone and will need help from two other students if he has any hope of infiltrating the mansion and rescuing Sandy.",
+      "name": "Maniac Mansion",
+      "year": "1987-10-02",
+      "publisher": "LucasArts",
+      "genre": "Adventure / Point and Click",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Manic Miner (Europe)",
+      "description": "You play the role of Miner Willy, a bold explorer and adventurer. He discovers a network of underground caverns used by an advanced but now extinct civilization, and realizes that the mines contain lucrative metal ores. Through 20 caverns, you must collect all treasures before all time (air) runs out, watching out for the nasty guardians, the obstacles, dead falls, quicksands and all elements to be found in a classic platform game.",
+      "name": "Manic Miner",
+      "year": "1984",
+      "publisher": "Software Projects",
+      "genre": "Platform",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Marble Madness (USA)",
+      "description": "Marble Madness demands precision and control as you guide your glass marble through a surreal, isometric 3D maze. Each level gets tougher, with narrower paths, nastier enemies, and less time. Only those who steer with care, dodge hazards, and master the ramps and ledges can reach the goal. Any leftover time carries over to the next level – every second counts. A race against the clock and against gravity, where even the smallest mistake can cost everything.",
+      "name": "Marble Madness",
+      "year": "1986",
+      "publisher": "Electronic Arts",
+      "genre": "Action / Labyrinth",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Mayhem in Monsterland (Europe)",
+      "description": "&quot;Mayhem in Monsterland&quot; is a side-scrolling platform game where the player, as Mayhem, an unhappy dinosaur, works to restore Monsterland to a cheerful place. Monsterland became gloomy due to the magical experiments of Theo Saurus, an apprentice who dabbled in spells after drinking too much cactus juice. In each of the five levels, Mayhem collects magic dust from defeated enemies and delivers it to Theo's hidden cave. Theo uses the dust to make the level happy again, which is reflected in livelier music, brighter landscapes, and friendlier creatures.",
+      "name": "Mayhem In Monsterland",
+      "year": "1993",
+      "publisher": "Apex Computer Productions",
+      "genre": "Platform / Run & Jump Scrolling",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Mr. Do! (USA)",
+      "description": "In &quot;Mr. Do!&quot; you control the title character as he collects all the cherries in a maze while being chased by relentless enemies. To defend himself, Mr. Do can drop apples onto his foes or throw a power ball that destroys them on contact. He only has one ball at a time, and it must return before he can use it again, so timing is key. Occasionally, an alpha monster appears carrying a letter from the word EXTRA – hit it with the power ball to collect that letter. Once you've completed the word, you earn an extra life. Collect all the cherries to advance to the next, more difficult level.",
+      "name": "Mr. Do!",
+      "year": "1985",
+      "publisher": "Datasoft",
+      "genre": "Action / Labyrinth",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Mr. Do's Castle (USA)",
+      "description": "In &quot;Mr. Do's Castle&quot; you control the clown Mr. Do! as he navigates a multi-level castle, aiming to either eliminate all unicorns or remove all cherry blocks to complete the stage. Using a hammer, you can knock out floor blocks to drop enemies or create new paths. Deadly unicorns patrol the castle and relentlessly pursue you. There are three blocks with key symbols – knock them out to unlock the door on the roof. If you reach the door, the unicorns temporarily become harmless and carry letters from the word EXTRA. Hitting one earns you that letter, and spelling the full word grants an extra life. Skull blocks add another twist: knocking out two in a row turns all blocks between them into a bridge. As you progress, castles become more complex and the unicorns faster and more numerous.",
+      "name": "Mr. Do's Castle",
+      "year": "1984",
+      "publisher": "Parker Brothers",
+      "genre": "Platform",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Mr. Robot and his Robot Factory (USA)",
+      "description": "Mr. Robot and His Robot Factory is a single-player platform game created for the Atari 8-bit family by Ron Rosen and ported to the Apple II and Commodore 64. The music for the Atari 8-bit version is by Gary Gilbertson (using Philip Price's Advanced Music Processor) and published in 1984 by Datamost. Robert McNally performed the Apple II translation.[2] The player controls a humanoid robot that must climb and jump its way through a factory. The factory is filled with suspended platforms, ladders and conveyors belts. The game includes a built-in level editor.",
+      "name": "Mr. Robot And His Robot Factory",
+      "year": "1984",
+      "publisher": "Datamost",
+      "genre": "Platform",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Ms. Pacman (USA)",
+      "description": "In 1982, a sequel to the incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man. This sequel continued on the &quot;eat the dots/avoid the ghosts&quot; gameplay of the original game, but added new features to keep the title fresh. Like her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics. One touch from any of these ghosts means a loss of life for Ms. Pac-Man. Ms. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points (ranging from 200, 400, 800 and 1600, progressively). The Energizer power only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.",
+      "name": "Ms. Pac-Man",
+      "year": "1983",
+      "publisher": "Atarisoft",
+      "genre": "Action / Labyrinth",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Ninja (Mastertronic) (Europe)",
+      "description": "In Ninja you take on the role of a silent warrior fighting through a series of side-scrolling stages. Armed with a dagger and shuriken, you confront enemies that block your path and can defeat them both in close combat and from a distance. Along the way you collect scattered idols that restore your strength and increase your score. Once all idols have been gathered, your mission is complete and the game is won.",
+      "name": "Ninja (Mastertronic)",
+      "year": "1986",
+      "publisher": "Mastertronic",
+      "genre": "Beat'em Up",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "On Court Tennis (USA)",
+      "description": "In On Court Tennis, the computer controls your player's movement, allowing you to focus entirely on precise shot placement. To win, you'll need well-aimed volleys, lobs, and drop shots. The result is a tactically rich game where clever shot selection is key. One or two player matches can be played over three or five sets, on asphalt, clay, or grass courts. The AI opponents are modeled after tennis legends like Jimmy Connors and Björn Borg and adapt to your playing style. Court layout and service rules are faithfully implemented.",
+      "name": "On Court Tennis",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Sports / Tennis",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "One on One (USA)",
+      "description": "One-on-One brings basketball legends like Julius Erving and Larry Bird straight to the virtual court and sets a new standard with smooth animation and detailed gameplay. From fall-away jumpers and steals to blocks and spin moves, each action feels like a real duel, complete with personal fouls and a 24-second shot clock. The highlight is a backboard-shattering dunk that summons a grumpy janitor to clean up the mess, muttering censored complaints. With customizable score goals and even instant replay, this game is both a competitive showdown and a humorous milestone in sports gaming.",
+      "name": "One on One (Electronic Arts)",
+      "year": "1984",
+      "publisher": "Electronic Arts",
+      "genre": "Sports / Basketball",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Paperboy (Europe)",
+      "description": "Paperboy puts you on a fast and frantic bike ride through a suburb that is anything but ordinary. Newspapers need to be delivered while chaos unfolds around every corner and each street becomes a challenge. Dodging traffic, strange obstacles and unpredictable locals demands sharp timing and precise aim. Those who ride smart, take risks and hit bonus targets along the way rack up points, fame and the thrill of mastering each route – intense, demanding and packed with classic arcade energy.",
+      "name": "Paperboy",
+      "year": "1986",
+      "publisher": "Elite Systems",
+      "genre": "Sports / Cycling",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Paradroid (Europe)",
+      "description": "Paradroid is set aboard a massive spaceship viewed from a top-down perspective. Across its many decks and rooms, you encounter hostile droids that must all be destroyed. You control the “Influence Device,” a special droid with the designation 001. Every droid is represented by a number that reflects its strength – the higher the number, the tougher the opponent. Your main tool is the ability to take over other droids: by “linking” into them, you destroy your old shell and assume control of the stronger droid. This mechanic allows you to fight your way through the ship, with the goal of eliminating all hostile units.",
+      "name": "Paradroid",
+      "year": "1985",
+      "publisher": "Graftgold Creative Software",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Pirates! (USA)",
+      "description": "Pirates! lets you live the life of a buccaneer in the Caribbean, where fame, wealth, and political opportunities are constantly shifting. As captain, you choose an era, nationality, talent, and difficulty level, then sail between colonial powers, capture ships, plunder towns, and build your reputation with governors. Diplomacy, crew loyalty, sword fights, sea battles, and personal goals such as family, titles, land ownership, or marriage all tie closely together. From this freedom comes an unusually lively adventure that blends pirate romance, strategy, and open-ended career building in a fascinating way.",
+      "name": "Pirates!",
+      "year": "1987",
+      "publisher": "MicroProse",
+      "genre": "Strategy",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Pitfall II - Lost Caverns (USA)",
+      "description": "“Pitfall II: Lost Caverns” takes Pitfall Harry deep into the Andes, where he searches for the legendary Raj diamond, his niece Rhonda, her cat Quickclaw, and hidden treasures. But the maze-like caverns are full of dangers: poisonous frogs, eels, scorpions, bats, and more make every move critical. Unlike its predecessor, the game features checkpoints – red crosses that send Harry back when he fails, reducing his score in the process. That score also serves as an energy reserve, and if it hits zero, the game ends. Smart exploration and collecting gold bars not only boosts your score but also helps you endure the long journey through the lost caverns.",
+      "name": "Pitfall 2 - Lost Caverns",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Platform / Run & Jump Scrolling",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Pitstop (USA)",
+      "description": "Pitstop combines high-speed racing with an extra twist that gives the game its distinctive character: you not only have to drive fast, but also keep an eye on tire wear and fuel so you know exactly when to head into the pits. A large part of the tension comes from those pit stops, because you control the pit crew yourself and every second matters while the race keeps going around you. That blend of speed on the track, tactical timing, and frantic pit work gives the game a lively and unusually engaging appeal.",
+      "name": "Pitstop",
+      "year": "1983",
+      "publisher": "Epyx",
+      "genre": "Racing, Driving",
+      "players": 4,
+      "rating": "13"
+    },
+    {
+      "id": "Pitstop II (USA)",
+      "description": "Pitstop II turns Formula 1 racing into an especially gripping contest, because it is not just raw speed that matters, but also the smart handling of tires, fuel, and the perfect moment for a pit stop. The different tracks, the choice of lap count, and the direct competition against the computer or a second player ensure that each race has its own character and feels like more than just a simple dash to the finish. Its most striking feature is the simultaneous split-screen mode for two players, which gives the game an unusually lively and competitive energy.",
+      "name": "Pitstop 2",
+      "year": "1984",
+      "publisher": "Epyx",
+      "genre": "Racing, Driving",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Popeye (Parker Brothers) (USA)",
+      "description": "Popeye is a conversion of the arcade action/platform game. As Popeye, you are trying to win Olive Oyl's love! She is at the top of the screen dropping tokens of her love, and you need to collect them before they hit the ground. After you have collected the required number of items, you can move on to the next, more difficult level. There are many obstacles trying to stop you from completing your task, though! Brutus wanders around the screen and is constantly trying to catch you. If you collect a can of spinach, you can temporarily knock him out, otherwise Brutus will knock you out. Other objects such as bottles or birds are also flying around the screen and will cause you to lose one of your lives if you are hit. Each level features a different layout of platforms and ladders, and will have you collecting different items as they float towards the bottom of the screen!",
+      "name": "Popeye (Parker Brothers)",
+      "year": "1983",
+      "publisher": "Parker Brothers",
+      "genre": "Platform",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Project Firestart (USA) (Disk 1 Side A)",
+      "description": "In the future (2066) a genetic experiment (Project Firestart) onboard the Prometheus to get strong durable miners went wrong. Your job is to go onboard the Prometheus (which has been out of radio contact) and find out what happened. You will end up fighting monsters, gathering information on what really happened, and have a chance to save a survivor.",
+      "name": "Project Firestart",
+      "year": "1989",
+      "publisher": "Electronic Arts",
+      "genre": "Adventure / Survival Horror",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Racing Destruction Set (USA) (Side A)",
+      "description": "Racing Destruction Set gives you the freedom to design your own tracks and get creative with ramps, intersections, icy or muddy sections. Alongside cars, you can choose motorcycles and equip them with different tires, while even adjusting gravity from Moon-like to Jupiter-heavy conditions. This creates thrilling and often chaotic races, with spectacular crashes and vehicles soaring across the landscape. Split-screen competition lets you face your rival directly, and the option to sabotage them with mines or oil slicks makes every race unpredictable.",
+      "name": "Racing Destruction Set",
+      "year": "1985",
+      "publisher": "Electronic Arts",
+      "genre": "Racing, Driving",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Radar Rat Race (USA)",
+      "description": "Radar Rat Race takes the gameplay of Rally X and puts it into a rodent context. You control a rat, who must grab all the pieces of cheese in a maze, and flee from all the other rats. Once you reach a barrier in the maze, you are automatically rotated, but you can always manually change direction.\r\n\r\nThere are red ones who chase after you, and black ones who are activated when you get close to them - both types kill you on contact. When they are close, you can activate a Star Screen to block them off.\r\n\r\nThe Radar of the title is on the right of the screen, and shows you where each piece of cheese is, although the actual maze is not illuminated, so your next snack might be further away than you think.",
+      "name": "Radar Rat Race",
+      "year": "1982",
+      "publisher": "Commodore Electronics",
+      "genre": "Action / Labyrinth",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Raid over Moscow (USA)",
+      "description": "Raid over Moscow throws you into a global crisis: The Soviet Union has launched an attack on the USA, and only your squadron can turn the tide. In multiple action-packed stages, you first launch from the hangar – as many units as possible, though low gravity makes takeoff difficult. You then fly deep into Soviet territory, avoiding radar, fighting enemy jets and skimming close to the ground to stay undetected. In later scenes you shoot from windows at enemy gunners, defend the base entrance and use bouncing discs to disable maintenance robots. The goal is to overheat the Soviet base and stop the attack – all before the bomb goes off.",
+      "name": "Raid Over Moscow",
+      "year": "1984",
+      "publisher": "Access Games",
+      "genre": null,
+      "players": 1,
+      "rating": "17"
+    },
+    {
+      "id": "Rambo - First Blood Part II (Europe)",
+      "description": "In Rambo: First Blood Part II you battle through six enemy-filled zones, advancing from bottom to top as a one-man army. Armed with a machine gun that fires upward, sideways, and diagonally, you must fend off relentless waves of attackers. Limited explosive arrows can be fired in eight directions for extra firepower. Each stage culminates in a fierce boss fight where precision, reflexes, and tactical use of your weapons determine your survival.",
+      "name": "Rambo - First Blood Part 2",
+      "year": "1986",
+      "publisher": "Ocean",
+      "genre": "Shooter / Run and Gun",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Rescue on Fractalus! (USA)",
+      "description": "Rescue on Fractalus is an action game played from a 3D first person point of view. Your mission is to rescue stranded pilots on the planet of Fractalus. You begin each mission from the mother ship, and when your quota of pilots has been rescued you must return there so you can move on to the next level. To help locate the pilots and navigate the tricky terrain, your spaceship is equipped with various instruments, such as a compass, altimeter, and scanner. Your enemy, the Jaggi's, have numerous forces on this planet and will be attempting to stop you. Gun emplacements, flying saucers, and the Jaggi themselves are all capable of destroying your ship if you don't destroy them first. To defend yourself from these threats, your ship is equipped with torpedoes. As the levels progress, the Jaggi defenses become more aggressive, and you will even need to fly some night missions where visibility is limited!",
+      "name": "Rescue On Fractalus!",
+      "year": "1985",
+      "publisher": "Activision",
+      "genre": "Shooter / Vehicle, FPV",
+      "players": 1,
+      "rating": "11"
+    },
+    {
+      "id": "River Raid (USA)",
+      "description": "River Raid puts you in a jet flying along a hostile river as you destroy key bridges and fight through heavy defenses. Enemy vehicles, ships and aircraft appear continuously, forcing precise maneuvering between narrow banks and incoming fire. At the same time, fuel management is essential, requiring careful passes over supply points to keep the mission alive. The blend of navigation, shooting and resource awareness creates a focused action experience where mistakes carry immediate consequences.",
+      "name": "River Raid",
+      "year": "1984",
+      "publisher": "Activision",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Robin of the Wood (Europe)",
+      "description": "In Robin of the Wood, you take on the role of the outlaw Robin, whose mission is to reclaim the legendary Silver Arrow, offered by the Sheriff of Nottingham as bait in a grand archery contest. To take part, you must first acquire equipment from a tree spirit – provided you can afford it. You wander through the forest collecting money bags or persuading wealthy nobles to make a “donation.” Along the way, you encounter allies like the hermit, who heals you if you don't attack him, and enemies such as Norman soldiers, the Sheriff himself, witches, and wild boars. Armed with sword and bow, you must survive these trials, gather gold, and eventually compete in the contest to win the Silver Arrow.",
+      "name": "Robin Of The Wood",
+      "year": "1985",
+      "publisher": "Odin Computer Graphics",
+      "genre": "Action / Adventure",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Rush'n Attack (USA)",
+      "description": "Rush'n Attack in the United States (Green Beret) is an action video game developed and marketed by Konami in 1985 on arcade machines. The game was quite successful and was ported to various family systems. It had a sequel on arcade machines in 1989, MIA: Missing in Action.\r\n\r\nIn this action game, known to be very difficult due to its handling, the player embodies an American soldier armed with a knife whose mission is to rout an entire army in order to avoid a nuclear war across six horizontally scrolling levels (missile base, airport, port, forest, warehouse and enemy base).\r\n\r\nThe character can lie down, jump, climb a ladder, stab, use a bazooka or grenades. These secondary weapons are recovered when certain enemies are eliminated.",
+      "name": "Rush'n Attack",
+      "year": "1986",
+      "publisher": "Imagine",
+      "genre": "Platform / Shooter Scrolling",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Saboteur (Durell Software) (Europe)",
+      "description": "Saboteur combines platform, beat 'em up and adventure elements, setting you as a lone samurai trying to infiltrate an enemy complex. You are capable of all manner of ninja-style moves including kicks and punches, as well as using weaponry. You must travel through an underground complex linked mainly by platforms and ladders, before triggering a bomb and escaping the complex. Your energy recharges if you stay still, so finding areas free of guards (kill these for money) and dogs (avoid them; killing them gains you nothing) is useful, especially as you only have one life. There's plenty of object manipulation involved, although only one item can ever be carried at a time.",
+      "name": "Saboteur",
+      "year": "1986",
+      "publisher": "Durell Software",
+      "genre": "Platform / Fighter Scrolling",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Saucer Attack! (Europe)",
+      "description": "Saucer Attack! places you as the last line of defense between an alien invasion and the landmarks of Washington D.C. From a first-person view, you control an energy turret and must shoot down flying saucers before they destroy monuments or land. If you score 150 points before the aliens reach 50, you'll face a final showdown in space against the Mothership. To win, hit its Command Module while wearing down its shields. Time progresses from day to night – but your mission remains the same: save what's left of Earth.",
+      "name": "Saucer Attack!",
+      "year": "1984",
+      "publisher": "Lotus Soft",
+      "genre": "Shooter / FPV",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Sentry, The (Europe)",
+      "description": "The Sentinel puts you in control of a Synthoid, a telepathic robot tasked with conquering surreal checkerboard landscapes. Starting at the lowest point, your goal is to reach the highest platform where the ever-watching Sentinel stands. You don't move directly – instead, you scan the terrain, absorb objects to gain energy, build stacks of boulders, and create inert Synthoid shells to transfer your consciousness into. Only through strategic positioning and careful energy use can you evade the Sentinel's gaze and take control.",
+      "name": "Sentinel, The",
+      "year": "1987",
+      "publisher": "Firebird Software",
+      "genre": "Thinking",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Seven Cities of Gold (USA) (Side A)",
+      "description": "In The Seven Cities of Gold you take on the role of Christopher Columbus and later the Spanish conquistadors, exploring the New World or a randomly generated map. You establish forts and missions, return gold to Spain, and earn promotions from the Queen. The vast game world invites exploration, while arcade sequences portray encounters with natives where language barriers play a key role. The historical map of 1492 accurately places the indigenous peoples of the New World, letting you decide whether to gain the riches of the Aztecs and Incas through trade or conquest.",
+      "name": "Seven Cities Of Gold, The",
+      "year": "1984",
+      "publisher": "Ariolasoft",
+      "genre": "Strategy",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Shadowfire (USA)",
+      "description": "Shadowfire puts you in command of the Enigma Team – six unique mercenaries with different abilities. Your mission: rescue Ambassador Kryxix and capture the ruthless General Zoff, all within just 40 minutes. Tactical planning is key – only by using each team member wisely can you bypass defenses, infiltrate enemy territory, and complete your objective in time.",
+      "name": "Shadowfire",
+      "year": "1985",
+      "publisher": "Beyond",
+      "genre": "Role Playing Game",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Silent Service (USA)",
+      "description": "In Silent Service, you take command of a submarine in the Pacific and set out on dangerous patrols against Japanese targets. From bases such as Hawaii, Australia, or New Zealand, you plan extended missions, hunt convoys, and must decide carefully when to attack or dive away. Dud torpedoes, depth limits, escorts, and changing conditions make every mission uncertain – stay calm, and you may make history or vanish beneath the waves.",
+      "name": "Silent Service",
+      "year": "1985",
+      "publisher": "MicroProse",
+      "genre": "Simulation",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Slinky (USA)",
+      "description": "Slinky puts you in control of a spring that hops across blocks to change them all to a target color – clearly inspired by Q*Bert but with unique twists. Magnets, clouds, raindrops, and monsters affect your progress: monsters are deadly, magnets catch you only if you stop, raindrops boost speed, clouds make you dusty. If both hit you, your spring rusts and gets dragged off by an oil-can. Besides having five lives, you must also avoid running out of points – every jump drains your score, and only bonus pickups can keep you alive.",
+      "name": "Slinky",
+      "year": "1983",
+      "publisher": "Cosmi",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Smurf 2 - The Revenge (Netherlands)",
+      "description": "In Smurf 2: The Revenge, you jump, hop, and skip over numerous obstacles to find your way and reach the goal. The game challenges you with various platforming sections, requiring quick reflexes and precise movements to navigate through the levels and overcome the hazards in your path.",
+      "name": "Smurf 2 - The Revenge",
+      "year": "1985",
+      "publisher": "Courbois Software",
+      "genre": "Action",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Space Taxi (Europe)",
+      "description": "Piloting a Space Taxi, you must pick up passengers from &quot;pads&quot; and carry them to whatever other pads they wish to go. Space Taxi features 25 screens with varying obstacles and challenges that must be navigated in order to collect your fare. Although Space Taxis sort of resemble yellow Checker Cabs, they operate on a different principle - the longer you take to deliver a passenger, the less money you collect. In addition to watching the clock because of an incentive to collect money, players have to be aware of their fuel supply. Run out of fuel, and you will crash.",
+      "name": "Space Taxi",
+      "year": "1986",
+      "publisher": "Muse Software",
+      "genre": "Platform",
+      "players": 4,
+      "rating": null
+    },
+    {
+      "id": "Space-Pilot (Europe)",
+      "description": "Space Pilot throws you into a time-spanning battle above an endless sky, where you fight waves of enemy aircraft with complete freedom of movement. Your jet flies in all directions, but the goal never changes: shoot down enemies, dodge screen-filling chaos, and face off against a boss guarding the path to the next era. From biplanes and helicopters to futuristic UFOs, each time zone brings fresh foes, mounting tension, and relentless action. Only those with steel nerves can survive the flight from 1919 to 2001.",
+      "name": "Space Pilot",
+      "year": "1984",
+      "publisher": "Kingsoft",
+      "genre": "Shooter / Top view",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Spy Hunter (USA)",
+      "description": "A conversion of the arcade game, Spy Hunter is a driving action game played from an overhead point of view. Your car is equipped with machine guns to help you get past the numerous enemies out on the road (be careful not to shoot any civilians, though!) Occasionally you will come across a weapons van, and if you drive into the back of the van your car becomes equipped with a second weapon (such as smoke screen, oil slick, or missiles.) At several points the road splits and you can enter a boathouse which transforms your car into a boat temporarily. If you drive far enough the seasons change as well (watch out for icy conditions during winter!) The enemy cars will do anything to stop you, including running you off the road, firing guns from the back of a limmo, or dropping bombs from a helicopter.",
+      "name": "Spy Hunter",
+      "year": "1983",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "11"
+    },
+    {
+      "id": "Spy vs Spy (USA)",
+      "description": "MAD magazine's comic strip of the same name comes to life in this game which was designed for one or two players. The split-screen shows both spies at the same time. Play with a friend or against the machine. The black spy and the white spy are out to outsmart each other before the time bell rings. Find the needed objects (money, passport, secret plans and airport door key) by searching rooms in the embassy, which include desks, file cabinets and other furniture. Foil your opponent by setting creative booby traps in the various rooms (a bomb in a dresser drawer, for instance). Traps can be disarmed with objects found in rooms (a water bucket from a firebox on the wall will disarm the bomb in the prior example). When all the items are together in the secret briefcase, head for the airport door. Fights ensue when both spies enter the same room and are armed with clubs.",
+      "name": "Spy Vs Spy",
+      "year": "1984-10-01",
+      "publisher": "Beyond",
+      "genre": "Strategy",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Spy vs Spy II - The Island Caper (USA)",
+      "description": "A follow-up to the first Spy vs Spy game now sees the spies stranded on a desert island. This time, instead of the four items which allow you to leave for the airport, the spies must try to collect three pieces of a missile and escape from the island in a waiting submarine before a volcano erupts. There are a few pitfalls to avoid such as quicksand and sharks. There are also new traps (hidden pits, napalm, snares and a pistol) and hand-to-hand combat is done with swords instead of clubs.",
+      "name": "Spy vs Spy - The Island Caper",
+      "year": "1985",
+      "publisher": "Databyte",
+      "genre": "Strategy",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Street Surfer (Europe)",
+      "description": "Street Surfer sends a skateboarder along a busy highway where discarded bottles must be collected and delivered to recycling containers. Cars, potholes, road edges and suddenly appearing chickens make the journey dangerous, while every accident reduces the available energy. Careful lane changes, well-timed drinks and a large collection of bottles lead to valuable bonus points – but every second before reaching the next container remains risky.",
+      "name": "Street Surfer",
+      "year": "1986",
+      "publisher": "Mastertronic",
+      "genre": "Sports / Skateboard",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Stroker (Europe)",
+      "description": null,
+      "name": "ZZZ(notgame):Stroker",
+      "year": null,
+      "publisher": null,
+      "genre": null,
+      "players": null,
+      "rating": null
+    },
+    {
+      "id": "Summer Games (USA) (Side A)",
+      "description": "„Summer Games“ puts the player in the role of an Olympic athlete competing in eight different disciplines. Events such as athletics, swimming, diving, shooting, and gymnastics require not only quick reflexes but also strategic planning. A realistic presentation, including an opening ceremony, award ceremonies, and national anthems from 18 countries, creates an authentic atmosphere. Unlike other games of this kind, success is not solely dependent on joystick speed but requires precise control and tactical decision-making.",
+      "name": "Summer Games",
+      "year": "1984",
+      "publisher": "Epyx",
+      "genre": "Sports / Multisports",
+      "players": 8,
+      "rating": "15"
+    },
+    {
+      "id": "Summer Games II (USA) (Side A)",
+      "description": "Eight Olympic events feature in this game, and any selection of these can be played at a time. There is no pure sprinting, and only the rowing and cycling can be thought of as pure joystick-waggling. The triple jump involves pressing right to start the hop (before reaching the white line), right again for the step as you land, left as you land for the jump, and then up to propel you through the sand. I high jump, after selecting a height you feel you can clear, you use up and down to control the speed, fire to jump, and then forward to propel you over the bar.",
+      "name": "Summer Games 2",
+      "year": "1985",
+      "publisher": "U.S. Gold",
+      "genre": "Sports / Multisports",
+      "players": 8,
+      "rating": "15"
+    },
+    {
+      "id": "Super Zaxxon (HesWare) (USA)",
+      "description": "Super Zaxxon is the sequel to the classic Zaxxon, taking the isometric space shooter formula to new heights of speed and intensity. You pilot your fighter across a heavily fortified asteroid base filled with gun turrets, missiles, radar towers, and fuel tanks. After surviving the onslaught, you must navigate a perilous tunnel filled with enemy fighters, mine layers, and floating mines before reaching another asteroid where the mighty Super Zaxxon dragon robots await. Combining precision flying, quick reflexes, and sharp shooting, this game pushes your skills to the limit in true arcade fashion.",
+      "name": "Super Zaxxon (HesWare)",
+      "year": "1984",
+      "publisher": "Hesware",
+      "genre": "Shoot'em Up / Diagonal",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Terra Cresta (Europe)",
+      "description": "Terra Cresta throws you into a vertically scrolling firefight, starting with a ship of limited firepower. Numbered pods appear, each containing parts that expand your ship and increase its strength. Collecting all modules transforms your craft into a fiery phoenix, granting temporary invincibility. Once multiple sections are attached, you can also split the ship to fire in different directions. Success depends on smart collecting, strategic splitting, and striking at the right moment to survive the relentless enemy waves.",
+      "name": "Terra Cresta",
+      "year": "1986",
+      "publisher": "Imagine",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Test Drive (USA)",
+      "description": "This mix of racing simulation and arcade game consists of driving a choice of 5 sports cars on a mountain strip at the fastest speed possible without getting caught by the cops.  To avoid them, use your radar detector -- or just try to outrun them if they spot you.  Manual stickshift only, so make sure you don't redline or you'll blow your engine.",
+      "name": "Test Drive",
+      "year": "1987",
+      "publisher": "Accolade",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Trailblazer (Europe)",
+      "description": "An imaginative action game in which you must guide a ball-shaped craft through a succession of levels. These have a patchwork-quilt type display, with holes to avoid, and squares of various colors, which affect the craft's speed, both within its power potential and into warp, as well as a control-reverser and lots of holes. You can jump these holes by pressing fire, although you have a limited number of these for each level, and adjust the speed by pulling the joystick forward or backwards.  You face a time limit on each of the 21 levels, although your time is boosted every time you complete one. A simultaneous 2-player mode is included, similar to the split-screen mode in the Lotus games (by the same authors).",
+      "name": "Trailblazer",
+      "year": "1987",
+      "publisher": "Gremlin Graphics Software",
+      "genre": "Strategy",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Transformers (Europe)",
+      "description": "&quot;Transformers&quot; takes place on an Earth occupied by shape-shifting alien robots, turning the planet into a battlefield. The war between the heroic Autobots and the evil Decepticons revolves around energy – the goal is to collect four pieces of the Energon Cube and return them to the Autobot base. The Decepticons will do everything in their power to stop this and use the cubes for their own purposes. The player controls five Autobots, which can switch between robot and vehicle form. In robot form, they can walk or fly, while in vehicle form, they drive across the platforms. The Defensa Pod allows switching between Autobots. Once all cubes are collected, the game restarts – with an increased level of difficulty.",
+      "name": "Transformers",
+      "year": "1985",
+      "publisher": "Ocean",
+      "genre": "Platform / Shooter Scrolling",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Turrican (Europe) (Side A)",
+      "description": "Turrican throws you into a dark world where monstrous forces push humanity to the brink and you stand against them. You explore expansive areas, uncover hidden paths, and collect new equipment that expands your combat options. The experience constantly shifts between careful exploration, fast evasive movement, and intense firefights as new threats emerge. Its strength lies in the blend of freedom and pace – only those who search thoroughly, react skillfully, and use their arsenal wisely can overcome the nightmare.",
+      "name": "Turrican",
+      "year": "1990",
+      "publisher": "Rainbow Arts",
+      "genre": "Platform / Shooter Scrolling",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Turrican II - The Final Fight (Europe) (Side A)",
+      "description": "Turrican II: The Final Fight casts you as the lone survivor fighting back against a powerful machine while wearing a bionic combat suit. You explore large, open levels filled with hidden extras, new weapons, and secret paths that reward careful searching. Alongside expansive stages, fast-paced flight sequences add variety and raise the intensity as environments grow darker and enemies more dangerous. The experience blends freedom of exploration with heavy action – a constant push where equipment, reactions, and persistence determine whether you can stop the threat.",
+      "name": "Turrican 2 - The Final Fight",
+      "year": "1991",
+      "publisher": "Rainbow Arts",
+      "genre": "Platform / Shooter Scrolling",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "UFO (Firebird + Odin Computer Graphics) (Europe)",
+      "description": "UFO puts you in the cockpit of the F21 Condor for Earth's last defensive battle against an alien invasion. You fight through waves of enemy ships, but you have to do more than aim and dodge, because your weapon can overheat if used too much. After each cleared section, a risky flight through a hypersonic corridor awaits before you can spend earned credits on shields and energy. Its appeal lies in the mix of classic alien defense, resource management, and short skill-based sequences between battles.",
+      "name": "Ufo (Firebird / Odin)",
+      "year": "1987",
+      "publisher": "Firebird Software",
+      "genre": "Shooter / Vehicle, Vertical",
+      "players": 1,
+      "rating": "10"
+    },
+    {
+      "id": "Ultima IV - Quest of the Avatar (USA) (Side A)",
+      "description": "Ultima IV: Quest of the Avatar shifts the focus from defeating evil to achieving moral perfection. As the chosen hero, your goal is not wealth or power, but to embody the Eight Virtues – Honesty, Compassion, Valor, Justice, Sacrifice, Honor, Spirituality, and Humility. Only by truly living these virtues can you access the Codex of Ultimate Wisdom. In Britannia, your journey leads not into battle against dark forces, but into a profound quest of ethical choices, meaningful encounters, and personal growth.",
+      "name": "Ultima 4 - Quest Of The Avatar",
+      "year": "1985",
+      "publisher": "MicroProse",
+      "genre": "Role Playing Game",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Ultima V - Warriors of Destiny (USA) (Disk 1 Side A)",
+      "description": "Ultima V: Warriors of Destiny brings you back to Britannia as the Avatar, only to find the land under tyranny. Lord British has vanished, and Blackthorn enforces the Virtues through fear and punishment. Behind him are the Shadowlords – twisted reflections of Truth, Love, and Courage. Your quest is to rediscover the true meaning of these principles, defeat the Shadowlords, rescue the true king, and free Britannia. With complex spellcasting, recruitable companions, magical travel, and a world shaped by moral choice, your journey is as challenging as it is profound.",
+      "name": "Ultima 5 - Warriors Of Destiny",
+      "year": "1989",
+      "publisher": "MicroProse",
+      "genre": "Role Playing Game",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Up'n Down (USA)",
+      "description": "Up 'n Down puts you on twisty tracks where your goal is to collect all the colored flags with your vehicle. Jumping over gaps, obstacles and other cars is essential, as well-timed landings destroy opponents and earn points. Extra items provide bonus scores, while speed is crucial – the faster you grab every flag, the greater the time reward. Later stages introduce dead ends and moving targets that demand precise timing, since a single mistake or leaving the course costs a life.",
+      "name": "Up 'n Down",
+      "year": "1984",
+      "publisher": "U.S. Gold",
+      "genre": "Racing, Driving",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "V - The Computer Game (Europe)",
+      "description": "V: The Computer Game puts you in the role of a resistance fighter entering a massive enemy mothership alone. Your mission is to sabotage the reactor while avoiding patrols, surveillance systems and various robotic units. Every encounter raises your stress level, forcing you to manage your pace to avoid collapse. Alongside direct action, tactical choices matter as you locate dangerous substances in laboratories that weaken the enemy and open up new opportunities.",
+      "name": "V - The Computer Game",
+      "year": "1986",
+      "publisher": "Ocean",
+      "genre": "Action / Adventure",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Wasteland (USA) (Disk 1 Side A)",
+      "description": "Wasteland takes place in the future after the nuclear holocaust of World War III.  You guide a band of Desert Rangers from town to town, gradually uncovering a sinister plot that threatens what's left of mankind.\n\nThe game makes use of a skill-based system in conjunction with traditional character attributes to achieve goals and get past obstacles.  It is this skill-based system that set Wasteland apart from most other role-playing games created up until then.",
+      "name": "Wasteland",
+      "year": null,
+      "publisher": "Electronic Arts",
+      "genre": "Role Playing Game",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Winter Games (USA) (Side A)",
+      "description": "„Winter Games“ is the successor to „Summer Games“ – featuring a variety of winter sports competitions where participants represent different nations. In disciplines such as Alpine Skiing, Ski Jumping, Biathlon, Bobsleigh, Figure Skating, Speed Skating, Luge, and Freestyle Skiing, precise controls, skill, and timing are essential to achieve top performances. Each sport presents its own challenges – whether it's the perfect curve control in bobsleigh, the ideal takeoff in ski jumping, or precise aiming in biathlon. The competitions require a mix of reflexes, strategy, and technique, with each discipline offering a unique gameplay experience while allowing both single players and competitors to face off against each other.",
+      "name": "Winter Games",
+      "year": "1985",
+      "publisher": "Epyx",
+      "genre": "Sports / Multisports",
+      "players": 8,
+      "rating": "16"
+    },
+    {
+      "id": "Wizardry I - Proving Grounds of the Mad Overlord (USA) (Disk 1) (Boot)",
+      "description": "The Mad Overlord Trebor was once only power-mad, but went off the deep end after he acquired a magical amulet of immense power, only to have it stolen from him by his nemesis, the evil archmage Werdna. Werdna, not quite sure how to use the amulet properly, accidentally causes an earthquake which creates a ten-level dungeon beneath Trebor's castle. To avoid looking silly, Werdna declares the dungeon to be the new lair for him and his monster hordes. Trebor, not to be outdone, declares the labyrinth his new Proving Grounds where adventurers must prove themselves for membership in his elite honor guard, and incidentally retrieve his amulet in the process.",
+      "name": "Wizardry - Proving Grounds Of The Mad Overlord",
+      "year": "1987",
+      "publisher": "Sir-tech Software ",
+      "genre": "Role Playing Game",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Wizball (USA)",
+      "description": "In Wizball the player takes the role of the friendly wizard Wiz who can turn himself into a green ball that is able to defend his world against the color-sucking enemies who have turned his once brightly colored Wizworld into a drab planet. With his trusty feline companion Catelite, the wizard will restore the colors to the world by retrieving them from defeated enemies. There are eight levels to be completed.",
+      "name": "Wizball",
+      "year": "1987",
+      "publisher": "Ocean",
+      "genre": "Platform",
+      "players": 4,
+      "rating": "17"
+    },
+    {
+      "id": "Wonderboy (USA)",
+      "description": "Just when things were going great with Tom-Tom and his girlfriend Tanya, some thug of a woodland king had to kidnap her and hide her away, and Tom-Tom doesn't have a clue where. That's why he has to explore deep dark forests, cross endless oceans, climb treacherous slopes, survive endless volcanoes, and even walk through clouds. But Tom-Tom will never be totally alone. You see, when he goes through the exotic locations, he has to come face to face with its inhabitants, like bees, spiders, snakes, coal-kids, frogs, bats, snails, coyotes, and octopuses, to name a few. The hatchet is Tom-Tom's only line of defense against these menaces.",
+      "name": "Wonder Boy",
+      "year": "1987",
+      "publisher": "Activision",
+      "genre": "Platform",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "World Games (USA)",
+      "description": "World Games combines international sports competitions across several very different events. These include weightlifting in Russia, slalom skiing in France, log rolling in Canada, cliff diving in Mexico, caber tossing in Scotland, bull riding in the USA, barrel jumping in Germany, and sumo wrestling in Japan. Each event demands different skills, making timing, reactions, and precise control equally important for achieving the best possible results.",
+      "name": "World Games (Epyx)",
+      "year": "1986",
+      "publisher": "Epyx",
+      "genre": "Sports / Multisports",
+      "players": 8,
+      "rating": "16"
+    },
+    {
+      "id": "World Karate Championship (USA)",
+      "description": "“International Karate” drops you into a virtual tournament where two fighters face off in direct combat. Speed, timing, and precision determine whether you score half or full points, with a referee judging every hit. Lose once and you're out. In multiplayer, you fight for points, each hit weakening your opponent and boosting your own score. Between rounds, mini-games test your reflexes before returning to the ring – the road to the black belt is tough but fair.",
+      "name": "International Karate",
+      "year": "1986",
+      "publisher": "System 3 Software",
+      "genre": "Sports / Fighting",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Yie Ar Kung-Fu (Europe)",
+      "description": "Yie Ar Kung-Fu follows the journey of the fighter Oolong as he proves himself in a series of duels to become a Grand Master and honor his father's legacy. The fights are direct and focused, built around simple moves like punches, kicks, and jumps that must be used at the right moment. Each opponent introduces unique techniques and behavior, making every encounter feel different. That blend of timing, reaction, and varied challengers is what gives the game its distinctive appeal.",
+      "name": "Yie Ar Kung-Fu",
+      "year": "1986",
+      "publisher": "Imagine",
+      "genre": "Fighting / Versus",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Yie Ar Kung-Fu II (Europe)",
+      "description": "Yie Ar Kung Fu II continues the story with Lee Young, who sets out to defeat the self-proclaimed Emperor Yie-Gah and his followers. As he moves through several sections, he fights off waves of enemies before facing each stage's boss. Helpful items such as health-restoring tea and temporary invincibility add a small tactical layer, while new enemy types keep things varied. That mix of steady progression, combat, and light strategy gives the game its dynamic appeal.",
+      "name": "Yie Ar Kung-Fu 2",
+      "year": "1987",
+      "publisher": "Imagine",
+      "genre": "Fighting / Versus",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Zak McKracken and the Alien Mindbenders (Europe) (Disk 1 Side A)",
+      "description": "Zak McKracken is a tabloid reporter (and not a very good one at that).  Based upon a psychadelic dream, Zak one day realizes that something is wrong -- Space Aliens are dumbifying the general public through the telephone system.  Zak must stop this, but he can't do it alone.  After finding a magic crystal (or some sort of crystal), Zak manages to get the help of Anthropologist, Annie, and her friends, Melissa and Leslie.  Between the four characters (all of which you control), you can destroy the dumbifying devices and save the earth.  Not too bad for a tabloid reporter.",
+      "name": "Zak Mckracken And The Alien Mindbenders",
+      "year": "1988",
+      "publisher": "Lucasfilm Games",
+      "genre": "Adventure / Point and Click",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Zaxxon (Synapse Software) (USA)",
+      "description": "Zaxxon brings the classic arcade experience to the Commodore 64. Featuring impressive isometric 3D graphics, smooth diagonal scrolling, and rich sound, the game puts you in the cockpit of a fighter navigating a heavily fortified space base. Dodge enemy fire, blast defenses, and collect points while keeping an eye on your fuel supply – which can only be replenished by destroying tanks. Precise control and quick reflexes are vital if you hope to finally face the deadly Zaxxon himself.",
+      "name": "Zaxxon (Synapse Software)",
+      "year": "1984",
+      "publisher": "Synapse Software",
+      "genre": "Shoot'em Up / Diagonal",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Zorro (USA)",
+      "description": "Zorro brings the familiar elements of the legend into an action-filled adventure focused on agility and puzzles. You take on the role of the masked hero, leap across rooftops, survive daring falls, and face soldiers and their leader in sword fights. The gameplay blends slower-paced platforming with thoughtful challenges that reward timing, observation, and clever solutions. Recurring locations tie the stages together, while inventive situations keep the experience varied and engaging.",
+      "name": "Zorro",
+      "year": "1985",
+      "publisher": "U.S. Gold",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "15"
+    }
+  ]
+}
