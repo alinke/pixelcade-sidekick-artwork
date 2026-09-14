@@ -18159,6 +18159,16 @@
       "genre": "Beat'em Up",
       "players": 3,
       "rating": "14"
+    },
+    {
+      "id": "DOFLinx",
+      "description": "DOFLinx is third-party frontend middleware that drives force-feedback and lighting effects (DOF, LED, servo, and solenoid outputs) for arcade cabinets, triggered by front-end and emulator events.",
+      "name": "DOFLinx",
+      "year": "",
+      "publisher": "",
+      "genre": "Middleware",
+      "players": 0,
+      "rating": ""
     }
   ]
 }
