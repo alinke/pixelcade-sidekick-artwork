@@ -1,0 +1,1604 @@
+{
+  "games": [
+    {
+      "id": "2Spicy",
+      "description": "Early in the 21st century, August, the death of one man sent tremors through the entire underworld. The Boss left everything in the hands of a man in black, a.k.a. Shadow. A worldwide battle for his inheritance has begun!",
+      "name": "2 Spicy",
+      "year": "2007",
+      "publisher": "SEGA",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "ActionDeka",
+      "description": "Action Deka is a motion controlled arcade game released by Konami, with fighting and shooting attacks by a controller using the player's hand.  The controller is a multi-function action controller, including shooting gun action, punching action, throwing action, and driving action.",
+      "name": "Action Deka",
+      "year": "2008",
+      "publisher": "Konami",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "AfterDark",
+      "description": "After Dark is a fantasy‑themed light‑gun arcade shooter where players battle hordes of dark creatures rising from the underworld.",
+      "name": "After Dark",
+      "year": "2013",
+      "publisher": "UNIS",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Akuma",
+      "description": "Akuma Mortis Immortal is an arcade horror‑themed shooter in the vein of classic haunted shooters like The House of the Dead. Players face nightmarish demons and cursed creatures freed from ancient runes, battling through eerie environments with immersive visuals and escalating supernatural threats.",
+      "name": "Akuma",
+      "year": "",
+      "publisher": "",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Aleste",
+      "description": "The year is 20XX. The encounter with extraterrestrial lifeforms has finally happened. It wasn't the visit of the alien civilization that people once dreamed of, but the encounter with a few grains of tiny seeds. The plant has become known as 'μ'. It brought great benefits to human civilization, just as it was reaching the period of extinction.\r\n\r\nIt gave birth to a wide variety of new materials. Those were used for evolution of the microdevices, which have allowed birth of advanced automated AI etc. It has ascended to an indispensable resource for humankind, but before long... It turned into a disaster.",
+      "name": "Aleste",
+      "year": "2021",
+      "publisher": "SEGA",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "AliensArmageddon",
+      "description": "The Alien Armageddon Standard is a 1-2 player shooter arcade machine in which players help save earth from the invading extraterrestrials! Based on the popular Sci-Fi franchise, players become a part of the action to help battle invading extraterrestrials after all of Earth's major cities get wiped off the map.",
+      "name": "Aliens Armageddon",
+      "year": "2014",
+      "publisher": "Raw Thrills",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "AliensExtermination",
+      "description": "Years after Aliens and the destruction of Hadley's Hope on LV-426, two Colonial Marine squadrons return to the colony to investigate life signs and exterminate any hostiles.",
+      "name": "Aliens Extermination",
+      "year": "2006",
+      "publisher": "Global VR",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "AquapazzaAquaplusDreamMatch",
+      "description": "It features characters from Aquaplus and Leaf franchises, including ToHeart 2, Utawarerumono, Tears to Tiara, and White Album, with a main + partner combat system and animated special attacks.",
+      "name": "Aquapazza Aquaplus Dream Match",
+      "year": "2012",
+      "publisher": "Examu",
+      "genre": "Fighting",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "ArcticThunder",
+      "description": "Arctic Thunder is a Midway's first true 31k racing game. It's snowmobile &quot;adventure racing&quot; game full of over-the-top, adrenaline-inducing action. With exhilarating tracks and powerful sleds the gameplay offers many levels of depth for novice and seasoned players.\r\nGame Features include;\r\n- Six unique characters and sleds\r\n- Six fantasy tracks, each with distinct experiences and environmental designs\r\n- Rewarding power-ups enhance player's gameplay\r\n- Exhilarating combat game play and amazing tricks\r\n- Bone-crunching, &quot;agony of defeat&quot; wipeouts and spills\r\n- Snowmobile-like cabinet with seat shaker and fan for full-environment effects\r\n- Custom snowmobile handlebar design with hand-controlled &quot;squeeze&quot; acceleration and force feedback from gameplay.",
+      "name": "Arctic Thunder",
+      "year": "2000",
+      "publisher": "Midway Games",
+      "genre": "Racing, Driving / Motorcycle",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Ballistics",
+      "description": "In the near future, elite pilots compete in extreme racing leagues inside magnetic tunnels built for supersonic speeds. Each race pushes both reflexes and vehicle heat management to the limit. The game delivers a futuristic high-speed arcade racing experience focused on boost control, thermal mechanics, and competitive multiplayer, originally designed for linked arcade cabinets.",
+      "name": "Ballistics",
+      "year": "2002",
+      "publisher": "Triotech Amusement",
+      "genre": "Racing FPV",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "BattleClimax",
+      "description": "Battle Climax is an arcade wrestling game, where players compete against their opposition in wrestling matches that form part of a tournament.",
+      "name": "Battle Climaxx!",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "BattleFantasia",
+      "description": "For centuries, humanity struggled against the forces of evil, but their efforts were in vain. Just when all seemed lost, four heroes emerged and drove back the darkness, bringing peace and tranquility to the world. Many years later, however, the terrifying Deathbringer returns, threatening to plunge the world into chaos once again. Twelve heroes, each endowed with unique powers, embark on a heroic quest to save their kingdom.",
+      "name": "Battle Fantasia",
+      "year": "2007",
+      "publisher": "Taito",
+      "genre": "Fighting",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "BattleGear4",
+      "description": "Battle Gear 4 is a driving simulator where players race street legal cars on narrow Japanese speedways. The focus of Battle Gear 4 is on manual shifting, drifting and semi-legal driving tactics. Players can race against the computer, against the clock, or head to head against other players.",
+      "name": "Battle Gear IV",
+      "year": "2005",
+      "publisher": "Taito",
+      "genre": "Racing FPV",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "BattleGear4Tuned",
+      "description": "Battlegear Tuned 4 is an arcade racing game focused on speed and drifting duels. The player competes against opponents on various tracks inspired by Japan, using real cars that can be modified and tuned. The game emphasizes mastering racing lines, handling high-speed turns, and improving the vehicle's performance throughout the races.",
+      "name": "Battle Gear 4 Tuned",
+      "year": "",
+      "publisher": "Taito",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "BladeStrangers",
+      "description": "Within a vast network of digital worlds, the Motes, guardians of balance, see their realms threatened by Lina, a corrupted force seeking to erase everything. To stop her, they summon heroes from different realities: an adventurer, a princess, an explorer, and strange creatures from worlds like Cave Story, Code of Princess, and The Binding of Isaac. Reborn as avatars of battle, these heroes are drawn into a tournament where the fate of all existence is at stake.",
+      "name": "Blade Strangers",
+      "year": "2018",
+      "publisher": "Nicalis",
+      "genre": "Fighting / Versus",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "BlazingAngels",
+      "description": "Experience the most famous battles of World War II as an elite squadron commander. From the Battle of Britain to the breathtaking air combats of Pearl Harbor, including the furious combats of Midway and the Battle of Berlin. Dominate the airspace of Western Europe and the Pacific to bring your squadron (the &quot;Blazing Angels&quot;) back safely. Pilots start as young recruits and evolve according to their experience to become elite pilots. Fly 46 authentic aircraft from World War II including the famous P-51 Mustang, the B-17 Flying Fortress or the British Spitfire, not to mention the Luftwaffe Messerschmitt or the Japanese Zero in multiplayer mode. Intense gameplay based on teamwork.",
+      "name": "Blazing angels",
+      "year": "2011",
+      "publisher": "Global VR",
+      "genre": "Shooter / Plane",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "BorderBreakScramble",
+      "description": "The 4.0 update adds the new mode &quot;Scramble Battle&quot;. Forgoing the teamwork present in other modes, Scramble Battle is a free-for-all battle which ends when any player reaches 700 NP (New Points) or 400 seconds have time elapsed. NP are obtained capturing &quot;Newd&quot;, found by destroying Newd Crystals, defeating opponents or picking them up from Newd Vortexes. Scramble Battles ranking increases are kept separate from other modes, instead being their own Scramble Rank.\r\n\r\n&quot;Special Situations&quot; have also been added to normal play that change the flow of battle. A new ace, &quot;ZENA&quot;, has been added to Union Battles.",
+      "name": "Border Break Scramble",
+      "year": "2014",
+      "publisher": "SEGA",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "BugBusters",
+      "description": "In a city overrun by mutated bugs, a lone exterminator armed with a spray can must battle through varied locations such as hospitals, restaurants, and schools, eliminating hordes of grotesque insects and unique boss enemies. With over thirty types of bugs and collectible bonuses scattered across levels, the game blends arcade action with straightforward shooting mechanics, emphasizing quick aim, level progression, and a quirky, cartoon‑style presentation.",
+      "name": "Bug Busters",
+      "year": "2001",
+      "publisher": "Mizi Production",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "ByonByon",
+      "description": "In a series of playful arenas, players face waves of moving targets and cartoonish creatures across a variety of mini‑shooter challenges. Using a toy‑style gun, they must quickly aim and hit targets through fast and varied stages where timing and accuracy earn points. The experience centers on dynamic, light‑gun arcade action with simple yet engaging mechanics designed for quick reflex fun in an entertaining, whimsical setting.",
+      "name": "Nobiteke! Byon Byon Daisakusen",
+      "year": "2008",
+      "publisher": "",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "CaladriusAC",
+      "description": "Caladrius is a shoot'em up developed by MOSS. The artistic direction is very oriental gothic and is created by the illustrator Suzuhito Yasuda (Devil Survivor/Durarara!!). The title also proposes an advanced personalization system and an original history.",
+      "name": "Caladrius AC",
+      "year": "2013",
+      "publisher": "MOSS",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "ChaosBreaker",
+      "description": "In a world torn apart by war and magic, humans, elves, and demons vie for the legendary Dark Crystal, an artifact able to bend all creatures to its will. Heroes and warriors from every race clash in a deadly tournament, driven by vengeance, honor, or the desperate will to survive.",
+      "name": "DARK AWAKE - The King Has No Name",
+      "year": "2004",
+      "publisher": "Taito",
+      "genre": "Fighting / Versus",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "ChaseChaseJoker",
+      "description": "In a chaotic maze arena, two teams — Humans and Demons — compete to collect keys and power up generators before time runs out. Humans must gather and deposit keys to unlock the final goal, while Demons chase and tag opponents to flip team roles and gain the upper hand. This arcade action game emphasizes teamwork, strategic chasing, and asymmetric multiplayer battles, with fast-paced team combat and dynamic objectives at its core.",
+      "name": "Chase Chase Jokers",
+      "year": "2022",
+      "publisher": "Konami",
+      "genre": "Action / Labyrinth",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "ChaseHQ2",
+      "description": "In &quot;Chase H.Q. 2,&quot; you control various vehicles, including a modern sports sedan, a police-style sports car, and a muscular striped vehicle. The goal is to reach the end of the track, damage the criminals' getaway car, and arrest them. Some opponents use clever tactics, making the game more challenging. Progress is also based on a point system. The vehicles are fictional but inspired by real-world models.",
+      "name": "Chase H.Q. II",
+      "year": "2007",
+      "publisher": "Taito",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "ChronoRegalia",
+      "description": "",
+      "name": "Chrono Regalia",
+      "year": "2019",
+      "publisher": "Namco",
+      "genre": "Strategy",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "CrazyRide",
+      "description": "Welcome to Crazy Ride, a unique driving experience inspired by transportation apps like Uber... but much more fun! Get behind the wheel, pick up eccentric passengers—clowns, Santa Claus, businessmen, or movie heroes—and deliver them to their destination... without losing control!\r\n\r\nYour mission? Complete as many trips as possible within a set time, while ensuring your customers' comfort and safety. Each passenger rates you at the end of the trip: the better you drive, the more virtual money you earn. Simple, effective, and completely addictive!",
+      "name": "Crazy Ride",
+      "year": "2019",
+      "publisher": "UNIS",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "CrazySpeed",
+      "description": "Across global tracks, a driver takes seat behind the wheel of a sporty car to compete against rivals or the clock. Players must manage their lines, hit checkpoints and maximise speed to score high. The focus is on speed sensation and route choice, with multiple vehicles and circuits to unlock, and local competition against another player available.",
+      "name": "Crazy Speed",
+      "year": "2010",
+      "publisher": "Universal Space",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "CrimzonClover",
+      "description": "Fans of manic shooters will find what they are looking for here: hundreds of balls, different game and scoring modes, precise and colorful graphics.",
+      "name": "Crimzon Clover",
+      "year": "2013",
+      "publisher": "YOTSUBANE",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "CyberDiver",
+      "description": "In a future where operatives known as “Cyber Divers” enter a corporate‑built virtual reality to battle for supremacy, two teams face off in fast‑paced combat. Players select from classes with unique weapons and skills, and must work with their squad to deal as much damage to the opposing team as possible within a five‑minute round. The gameplay mixes shooting, special abilities and environmental hazards in a team‑based FPS environment.",
+      "name": "Cyber Diver",
+      "year": "",
+      "publisher": "Taito",
+      "genre": "Shooter / FPV",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "DarkEscape4D",
+      "description": "You navigate dark corridors filled with monsters, aiming and shooting with a mounted gun to survive. The cabinet combines on‑rails shooting with physical effects (vibrating seats, blasts of air, and heartbeat feedback) heightening immersion and tension in every scene.",
+      "name": "Dark Escape 4D",
+      "year": "2012",
+      "publisher": "Bandai Namco",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "DeadHeat",
+      "description": "Night falls and the city turns into a neon-lit battleground where every straight begs for full throttle and every corner punishes hesitation. Races come one after another like a fast tour through major districts, with traffic, jumps, and rival drivers always close enough to force mistakes. You're not just chasing the finish line, you're trying to keep control when speed and pressure spike at the same time.\r\nIt's a punchy arcade street racer built around drifting, nitro boosts, and showy hazards, with cabinets that can be linked for head-to-head LAN play.",
+      "name": "Dead Heat",
+      "year": "2010",
+      "publisher": "Bandai Namco",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "DeadHeatRiders",
+      "description": "Night racing turns the city into a blur of headlights and neon, where every straight feels like an invitation and every corner demands commitment. You throw a superbike into traffic and tight turns, trading positions in races that never really let you breathe. The route jumps between major cities, and the pressure stays the same: keep it clean, pick your moments, and don't give anyone a gap.\r\nIt's an arcade motorcycle racer built for the cabinet, with linked machines supporting up to four players. An integrated camera snaps a player photo for on-screen identification, and “ghost driver” tech lets you race against recorded driving styles.",
+      "name": "Dead Heat Riders",
+      "year": "",
+      "publisher": "Bandai Namco",
+      "genre": "Racing, Driving / Motorcycle",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "DealOrNoDeal",
+      "description": "Under the stage lights, it all starts with a single choice that suddenly feels permanent. One case is yours, the rest become risks you have to manage, and every reveal shifts the mood in the room. When the big values keep surviving, the banker's offer starts sounding tempting, safety now versus the chance to chase something better by pushing on.\r\nIt's an arcade take on the TV game format built for quick solo play, using button controls and paying out in tickets.",
+      "name": "Deal Or No Deal",
+      "year": "",
+      "publisher": "Innovative Concepts in Entertainment (ICE)",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "DealOrNoDealDeluxe",
+      "description": "In a TV-studio atmosphere, you pick your case and watch the board tighten with every reveal, as if the game is closing in on your one big decision. The banker keeps calling with offers that sound safer each round, until you have to choose between locking it in or pushing your luck.\r\nThis edition leans harder into the cabinet's “showpiece” feel, with a deluxe setup designed for a seated, more theatrical presentation.",
+      "name": "Deal Or No Deal Deluxe",
+      "year": "2007",
+      "publisher": "Innovative Concepts in Entertainment (ICE)",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "DealOrNoDealUK",
+      "description": "Under studio lights, you claim a case and build your luck one reveal at a time. Big values vanish in seconds, small ones sting when they refuse to leave, and the banker tries to catch you right when confidence starts to rise.\r\nThis release keeps the same core structure, but it's framed around the UK-style presentation and branding.",
+      "name": "Deal Or No Deal UK",
+      "year": "",
+      "publisher": "Innovative Concepts in Entertainment (ICE)",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "DenshaDeGo",
+      "description": "The train is waiting at the platform, doors closed, and the timetable isn't going to forgive delays. You have to pull away on cue, control speed with real precision, and read every signal ahead, all while keeping the ride smooth. As the route unfolds, the pressure builds, because one mistake can trigger penalties and a late brake can ruin what was otherwise a perfect run.\r\nIt's an arcade train-driving simulation focused on throttle, braking, and exact station stops, part of a long-running Japanese series.",
+      "name": "Densha De Go!!",
+      "year": "",
+      "publisher": "Square Enix",
+      "genre": "",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "DirtyDrivin",
+      "description": "In Dirty Drivin', players engage in vehicular combat, with gear-shaped power-ups available throughout the track. These can be used to destroy enemy vehicles by pulling a skull-shaped crank. Once destroyed, enemy vehicles do not return to the race; the exceptions are the player and their rival, a single AI opponent, as well as other players in multiplayer mode. Players can also shake the steering wheel to hit opponents, and each time an enemy is destroyed, a photo of that opponent appears at the bottom of the screen along with a taunt. The points the player earns increase the number of weapons available on the &quot;Jerk-O-Meter.&quot; Crates are also scattered around the track, which can boost the player's score, double bonuses, or grant the player a free race.",
+      "name": "Dirty Drivin",
+      "year": "2011",
+      "publisher": "Raw Thrills",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "DoodleJump",
+      "description": "On an endless sheet of graph paper, a small creature starts climbing with one simple goal, keep going up. Platforms scroll past in a blur, some give you a boost, others crumble at the worst possible moment, and oddball enemies show up just when you're finding your rhythm. It's all about quick corrections, clean timing, and staying calm when the screen turns into a mess of hazards.\r\nIt's a score-driven arcade platformer with horizontal movement and light shooting to clear threats, designed for short sessions and ticket redemption.",
+      "name": "Doodle Jump Arcade",
+      "year": "2012",
+      "publisher": "Innovative Concepts in Entertainment (ICE)",
+      "genre": "",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "ElevatorAction",
+      "description": "Inside a tightly guarded high-rise, an agent slips between floors, vanishes into elevators, and pops out in the worst possible place to catch guards off balance. You're there to grab classified documents, time door controls, and escape before you get trapped in a dead-end corridor. The closer you get to the exit, the higher the pressure climbs, because one mistake can unravel the whole run.\r\nIt's a classic 2D action game made available again in arcades through NESiCAxLive, mixing movement, elevator hops, and quick firefights with a score-driven, turn-based structure.",
+      "name": "Elevator Action for NESiCAxLive",
+      "year": "2014",
+      "publisher": "Taito",
+      "genre": "",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "ElevatorActionInvasion",
+      "description": "Two agents push into a facility that's gone dark, now crawling with cyborg soldiers. Alarms drown out communications, corridors lock down, and the elevator becomes the only way forward, floor by floor, never knowing what's waiting behind the doors. You have to keep the pace, stay focused, and not let panic take over, because the mission often comes down to a few critical seconds.",
+      "name": "Elevator Action Invasion",
+      "year": "2021",
+      "publisher": "UNIS",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "EnEinsPerfektewelt",
+      "description": "When a wave of attacks shakes the world, order starts to crack and factions step out of the shadows to impose their vision of what comes next. Rumors spread about a fanatical organization promising a “perfect order,” and veteran fighters are pulled back into a conflict that spills across borders.\r\nThe game takes place in the same universe as Akatsuki Blitzkampf.",
+      "name": "En-Eins Perfektewelt for NESiCAxLive",
+      "year": "2012",
+      "publisher": "Subtle Style",
+      "genre": "Fighting / 2D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "FamilyGuyBowling",
+      "description": "In a bowling alley that feels like it could spiral into an episode at any moment, the Griffin family turns a simple match into a loud rivalry filled with one-liners and bad decisions. You pick your character, chase the perfect strike, and the tone can shift from fairly tame to much sharper depending on the cabinet settings. Between frames, video clips drop in like punchlines timed to keep the room laughing.",
+      "name": "Family Guy Bowling",
+      "year": "2017",
+      "publisher": "Team Play",
+      "genre": "Sports / Bowling",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "FightingClimaxIgnition",
+      "description": "Dengeki Bunko: Fighting Climax Ignition is an enhanced version of the original game (Fighting Climax), bringing together heroes and heroines from the famous light novels published under the Dengeki Bunko (Kadokawa) label.\r\n\r\nCharacters from Sword Art Online, A Certain Magical Index, The Irregular at Magic High School, Shakugan no Shana, Accel World, and Toradora! face off in a virtual world where a mysterious entity forces them to fight to prove which ideals shall prevail: power, will, or courage.",
+      "name": "Fighting Climax Ignition",
+      "year": "2015",
+      "publisher": "SEGA",
+      "genre": "Fighting / Versus",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "FightingExLayer",
+      "description": "Fighters who share the same streets but not the same background get pulled into a rivalry that won't cool off. Most of the roster comes from the Street Fighter EX legacy, with a few guests like Terry Bogard (Fatal Fury), and the goal is straightforward, make your style count before the other player does. \r\n\r\nIt's a fast versus fighter where you also pick a bonus “deck” that can shift how a match develops. It's made by ARIKA, a studio with longstanding ties to Capcom dating back to the Street Fighter EX era.",
+      "name": "Fighting Ex Layer",
+      "year": "",
+      "publisher": "Arika",
+      "genre": "Fighting / 2.5D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "FrenzyExpress",
+      "description": "Frenzy Express is a fast-paced simulation game that takes advantage of the worldwide trend of &quot;Scooters&quot;.\r\nThe gameplay is similar to Crazy Taxi, except that instead of picking up and dropping off passengers, the player is a courier and must pick up and drop off packages. How you reach the drop-off point is entirely up to the player, but there is a time limit and every second that passes means less money at the drop-off point.\r\nTo make the game more fun, there are many ramps and other objects suitable for jumping and performing aerial stunts that earn the player bonus points.",
+      "name": "Frenzy Express",
+      "year": "2001",
+      "publisher": "",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Friction",
+      "description": "A facility drops into lockdown and the security system collapses within minutes. Down the corridors, mechanical enemies pour in by the wave, and you have to clear the area before you're overrun, pushing room by room like a recovery operation. The deeper you get, the more unpredictable the boss encounters become, until it feels like the building itself is adapting to crush you.\r\n\r\nIt's an arcade light-gun shooter with off-screen reloading, destructible scenery, and weapon pickups, with violence settings that can be adjusted by the operator.",
+      "name": "Friction",
+      "year": "2011",
+      "publisher": "Coast To Coast Entertainment",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Frogger",
+      "description": "A small frog takes on a dangerous crossing between the road and the water with one goal: reach the bonus zone before your chance runs out.\r\nIt's a ticket redemption game: the better you do, the more tickets the machine pays out for you to trade in for prizes. Controls are mostly large lit buttons, so it's very easy to pick up.",
+      "name": "Frogger",
+      "year": "2011",
+      "publisher": "Sega Amusements Europe",
+      "genre": "",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GaelcoChampionshipTuningRace",
+      "description": "On urban circuits, you chase lap times run after run, adjusting your line to changing weather and the way the car handles. Progress comes through setup tweaks and tuning, and any mistake under braking costs you immediately. \r\nIt's a sim-leaning arcade racer with two main approaches: an “arcade” race mode that awards points for driving skill, and a tournament-style time attack featuring ghost cars and more technical adjustments.",
+      "name": "Gaelco Championship Tuning Race",
+      "year": "2005",
+      "publisher": "Gaelco",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GaiaAttack4",
+      "description": "When reality starts to break in familiar places, strange apparitions and invasive creatures spill into everyday environments as if the world itself is being overwritten. A rapid-response team is dispatched to contain the outbreaks, pushing from area to area to clear threats before each situation escalates into a larger confrontation.",
+      "name": "Gaia Attack IV",
+      "year": "2010",
+      "publisher": "Taito",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GalagaAssault",
+      "description": "Out in space, a swarm of invaders comes surging back, and the pilot doesn't get the luxury of thinking things through. You have to hold your line, carve through each wave with precision, and keep your nerve for the point where the threat escalates into a boss fight.\r\n\r\nBuilt first and foremost as a ticket redemption cabinet, it can still be switched into a more traditional arcade-style amusement mode, and operators can tune how it feels through settings such as buying extra ships, credit parameters, and payout options.",
+      "name": "Galaga Assault",
+      "year": "2016",
+      "publisher": "Bandai Namco",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GekitouProYakyuu",
+      "description": "In Japan, an impossible matchup becomes real: NPB stars from the 2003 season face off against an all-star roster drawn from Shinji Mizushima's baseball manga. The hook is that two worlds that should never meet are put on the same diamond, turning each game into a series of showdowns where real pros and fictional legends share the spotlight.",
+      "name": "Gekitou Pro Yakyuu",
+      "year": "2003",
+      "publisher": "SEGA",
+      "genre": "Sports / Baseball",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoGoStrike",
+      "description": "In a bowling alley setting, everything comes down to a string of throws where the goal is to stack strikes and avoid costly mistakes to push the score higher. Consistency matters, and a single late-frame ball can swing both the result and the payout.\r\n\r\nIt's a video bowling redemption cabinet controlled with a trackball.",
+      "name": "Go Go Strike",
+      "year": "2007",
+      "publisher": "American Alpha",
+      "genre": "Sports / Bowling",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2006",
+      "description": "A classic trackball-driven arcade golf game built around quick rounds, high scores, and connected competition.\r\nKicks off the “LIVE” era with online play/leaderboards, player profiles, and a new baseline content set (new courses plus practice/help features depending on the cabinet/version).",
+      "name": "Golden Tee Live 2006",
+      "year": "2005",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2007",
+      "description": "The 2007 edition expands the arcade golf formula with more courses and score-chasing competition.\r\nAdds 5 new courses while keeping the 2006 lineup, significantly increasing the playable course roster.",
+      "name": "Golden Tee Live 2007",
+      "year": "2006",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2008",
+      "description": "A more “spectacle” entry that leans into bold environments and accessible competitive play.\r\n5 new courses plus updates aimed at presentation and accessibility (more casual-friendly options, more tee/pin setups depending on edition) versus 2007.",
+      "name": "Golden Tee Live 2008",
+      "year": "2007",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2009",
+      "description": "An event- and community-focused release where every shot can matter on the leaderboards.\r\nIntroduces heavily promoted features like Closest-to-the-Pin LIVE and Great Shot sharing/upload, plus new courses and expanded customization/presentation options versus 2008.",
+      "name": "Golden Tee Live 2009",
+      "year": "2008",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2010",
+      "description": "A season-style arcade golf package designed for repeat play, progression, and better scoring.\r\nAn annual update delivering new courses and continued gameplay/online tuning in line with 2009.",
+      "name": "Golden Tee Live 2010",
+      "year": "2009",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2011",
+      "description": "Fast to pick up but demanding at high levels, this entry is built for competitive arcade scoring.\r\nAdds new courses and continues incremental balance/presentation refinements versus 2010.",
+      "name": "Golden Tee Live 2011",
+      "year": "2010",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2012",
+      "description": "An edition that emphasizes accessibility while keeping the series' tournament-and-leaderboard DNA.\r\nNew courses plus comfort/progression-oriented options (assists/settings) versus 2011.",
+      "name": "Golden Tee Live 2012",
+      "year": "2011",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2013",
+      "description": "The 2013 release doubles down on performance, stats, and connected competition.\r\nNew courses and a stronger focus on performance tracking and live events (varies by region/cabinet) versus 2012.",
+      "name": "Golden Tee Live 2013",
+      "year": "2012",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2014",
+      "description": "A 2014 installment that continues to broaden course variety for both solo play and head-to-head matches.\r\nAn annual refresh centered on new courses plus minor incremental improvements versus 2013.",
+      "name": "Golden Tee Live 2014",
+      "year": "2013",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2015",
+      "description": "Competitive arcade golf focused on shot-shaping, wind reads, and chasing birdies.\r\nNew courses and ongoing pacing/balance tweaks versus 2014.",
+      "name": "Golden Tee Live 2015",
+      "year": "2014",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2016",
+      "description": "Built for location play, this edition delivers quick matches and sharp, score-driven competition.\r\nNew courses plus platform/ergonomic updates depending on hardware configuration (controls/UI) versus 2015.",
+      "name": "Golden Tee Live 2016",
+      "year": "2015",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2017",
+      "description": "LIVE keeps building momentum with challenges, leaderboards, and annual content.\r\nNew courses and continued online/user-experience refinements versus 2016.",
+      "name": "Golden Tee Live 2017",
+      "year": "2016",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoldenTeeLive2018",
+      "description": "On a globe-spanning set of courses, the player takes on the season like a competitive tour, trying to tame tricky greens and chase the lowest score possible. New locations and reshuffled layouts keep the rhythm from getting too comfortable, pushing you to adjust your shot choices instead of relying on memorized lines.\r\n\r\nIt's a trackball-driven arcade golf game where ball effects and spin selection shape both flight and rollout, backed by a redesigned interface that makes height and lie easier to read. This edition introduces the “Release” spin type and uses time-released content, including courses that unlock after launch.",
+      "name": "Golden Tee Live 2018",
+      "year": "2017",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GoonyaFighter",
+      "description": "A local martial arts tournament has just ended, and the newly crowned winner barely has time to breathe before trouble strikes. A shady group known as the Amoebas kidnaps Pudding, a childhood friend, and what looks like a simple abduction quickly hints at something larger: a scheme that uses science to reshape the world on their terms. With Mash, once a rival and now an unlikely partner, the two set off on a hectic journey across varied battlegrounds, facing traps, bosses, and odd encounters as they close in on the truth. The story frames a bouncy party brawler built around deliberately wobbly fighters, quick recoveries, and chaotic arenas where stage hazards matter as much as punches and kicks, with rules and modes designed for up to four players.",
+      "name": "Goonya Fighter",
+      "year": "2020",
+      "publisher": "MUTAN",
+      "genre": "Fighting",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GundamKizuna2",
+      "description": "U.C. 0079. War breaks out, and instead of watching history from afar, you witness it from inside the cockpit. The Earth Federation Forces and Zeon clash across battlefields where every sortie matters, and victory is less about lone aces than about squads that can hold ground, cover a push, and strike at the right moment. In the noise and pressure, one idea keeps you moving: trust your comrades, or get left behind.\r\n\r\nBattles are built around team tactics as you pilot a mobile suit, trade kills to drain the enemy gauge, and commit to base assaults that can swing a match.",
+      "name": "Mobile Suit Gundam : Senjō no Kizuna II",
+      "year": "2021",
+      "publisher": "Bandai Namco",
+      "genre": "Simulation / Vehicle",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "GundamSpiritsOfZeon",
+      "description": "Late in the One Year War, two Zeon Zaku pilots, Kurt Roswell and Robin Bradshaw, are sent from mission to mission as the conflict reaches its breaking point. From Jaburo to Solomon and into the chaos of A Baoa Qu, their rise puts them against deadlier and deadlier foes, ending in a clash with Amuro Ray's Gundam as their side begins to collapse.\r\n\r\nIt's framed as an arcade, cover-based rail shooter with a Zaku-style mounted machine gun, duck-and-reload segments, and secondary weapons like bazooka shots, a heat hawk, and grenades. Set firmly in Mobile Suit Gundam, it tells the war from Zeon's perspective.",
+      "name": "Mobile Suit Gundam : Spirits of Zeon",
+      "year": "2006",
+      "publisher": "Banpresto",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "HauntedMuseum",
+      "description": "Haunted Museum is a co-op on-rails shooter where two agents explore a haunted museum where exhibits come to life and attack them. The game features diverse environments (armor, sharks, giant toys) and epic boss battles, all wrapped in a mix of horror and humor. Players must survive waves of enemies by aiming and shooting with precision.",
+      "name": "Haunted Museum",
+      "year": "2009",
+      "publisher": "Taito",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Homura",
+      "description": "In a supernatural version of Japan overrun by demonic entities, Homura, a former warrior descended from the heavens, returns to earth to destroy corrupted spirits and restore divine order.\r\nThe player advances through multiple stages, alternating between ranged attacks and sword strikes that can reflect enemy projectiles.",
+      "name": "Homura",
+      "year": "2005",
+      "publisher": "Taito",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "HotWheels",
+      "description": "On a highway that feels like a toybox turned into a challenge course, the goal is immediate: stay fast, stay clean, and keep your lead as the route throws new sections at you. It leans into that playful, larger-than-life racing vibe where spectacle matters as much as lap times.\r\n\r\nIt's an arcade racer designed for a multi-station cabinet, available in 4-player and 6-player setups depending on the model.",
+      "name": "Hot Wheels : King of the Road",
+      "year": "2019",
+      "publisher": "",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Hummer",
+      "description": "A wild race kicks off far from the asphalt, cutting through mud, snow, and battered tracks where the scenery is meant to be smashed through as much as it is to be driven across. It's not about clean lines, but about keeping momentum, spotting the time-saving routes, and using the terrain to stay in the fight.\r\n\r\nIt's an arcade racing game with destructible obstacles that help fill a boost meter. On certain cabinet setups, the experience leans hard on immersion thanks to a large motion system, and the original release can be played by two people on the same machine via a “Driver Change System.”",
+      "name": "Hummer",
+      "year": "2008",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Ikaruga",
+      "description": "In a ruined world dominated by the enemy nation Horai, a lone pilot named Shinra rises in rebellion aboard the legendary vessel Ikaruga, gifted with the power of polarity. Guided by faith and sacrifice, he takes flight against overwhelming odds to bring redemption to a dying land.",
+      "name": "Ikaruga",
+      "year": "2013",
+      "publisher": "Taito",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "InfinityBladeFX",
+      "description": "A knight takes up an ancestral blade and steps through the gates of a fortified kingdom to challenge those who would reduce everything to ash. The deeper he pushes, the more the duels feel personal, as if every victory has to be earned, until he stands before a ruler determined to crush anyone who dares defy him.\r\n\r\nThe action centers on touch-driven, face-to-face duels, where you strike and parry with your hands on a large screen. It's an arcade adaptation of a game that first launched on iOS.",
+      "name": "Infinity Blade FX",
+      "year": "2011",
+      "publisher": "Adrenaline Amusements",
+      "genre": "",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Injustice",
+      "description": "After a tragedy splits the heroes, the world slides into a “peace at any cost” regime, and the ones who refuse to submit are pushed into a brutal fight to reclaim what their symbols used to stand for. Alliances shift, lines get crossed, and the conflict becomes a civil war between icons where every win comes with a price.\r\n\r\nIt's a two-player arcade fighting game built on DC characters, and this version is designed around physical collectible cards. Each play vends a card, and you scan your cards to build a three-character team and trigger bonuses and special attacks through specific combinations.",
+      "name": "Injustice Arcade",
+      "year": "2017",
+      "publisher": "Raw Thrills",
+      "genre": "Playing cards",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "JurassicPark",
+      "description": "A security team is sent to Isla Nublar to bring a collapsing park back under control while volcanic activity pushes the island toward disaster. The job is to track down and secure dangerous specimens before the situation becomes unrecoverable, all while keeping fellow team members safe when attacks start coming in waves.\r\n\r\nIt's a two-player light-gun rail shooter split into missions and capped by major boss encounters. The cabinet also exists in a motion-seat edition.",
+      "name": "Jurassic Park Arcade",
+      "year": "2015",
+      "publisher": "Raw Thrills",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Kasiori",
+      "description": "A falling object puzzle with a sweets motif of beautiful girls!\r\n\r\n-A falling block puzzle game in which cute beautiful girls appear and play against each other with a puzzle with the motif of “sweets”.\r\n\r\nIf you arrange three sweets that fall from the top of the screen side by side, the sweets will disappear.\r\n\r\nWhen you hit the bottles against each other, the sweets in the bottle will break and appear. When it breaks, a chain occurs in eight directions.\r\n\r\nYou can play in either the one-player mode or the two-player mode, which is tailored to the story.\r\n\r\n-Cotton, the main character of the popular “Cotton Rock and Roll”, has also appeared and is used as a player character.",
+      "name": "Kasiori",
+      "year": "2021",
+      "publisher": "SEGA",
+      "genre": "Puzzle / Fall",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "KeyOfAvalon",
+      "description": "At a magic academy built around a coveted relic, rivals gather around the same board and the chase begins. One player holds the key, the others hunt them down, and the match turns into a tense tug-of-war where timing, positioning, and a well-played trick can flip the whole table.\r\n\r\nIt's a competitive arcade title for up to four players that blends board-style movement with card-driven battles, running on Sega's Triforce hardware. The cabinet uses physical cards and an IC-card profile system to support collection and progression.",
+      "name": "Key Of Avalon",
+      "year": "2003",
+      "publisher": "SEGA",
+      "genre": "Board game",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "KingOfFightersXIV",
+      "description": "Four years after the 2010 events, the tournament returns under Antonov, a billionaire who bought the rights and relaunches it as a worldwide spectacle. Veterans and newcomers collide, until the finals spiral out of control when Verse appears and draws in fighters tied to other dimensions. With Ash's storyline already concluded, this entry kicks off a new saga by framing the tournament as the spark for a much larger threat.\r\n\r\nIt's a three-on-three team fighter with 3D character models played on a 2D plane. Compared to the previous game, it leans more into accessibility with Rush Combo, and it reshapes resource management through MAX Mode and Climax Super Special Moves that make combo sequences more explosive.",
+      "name": "The King of Fighters XIV",
+      "year": "2017",
+      "publisher": "Taito",
+      "genre": "Fighting / 2D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "LadyLuck",
+      "description": "In a noisy arcade setting, it's all about the loop of placing a bet, spinning the reels, and chasing that moment when everything finally lines up. Bonus rounds break up the routine with short, showy sequences, giving you a few extra decisions and a sense that the machine is building toward a payout.\r\n\r\nOn the gameplay side, it's an arcade video slot built around flashy presentation, sound-driven feedback, and bonus/mini-game modes designed to keep the action moving between spins.",
+      "name": "Lady Luck : Hot Shot Progressive",
+      "year": "2011",
+      "publisher": "SEGA",
+      "genre": "Casino / Slot machine",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "LethalEnforcers3",
+      "description": "In Tokyo, a string of violent incidents spirals from daylight robberies to full-on counter‑terror operations. Each mission puts you in a different law‑enforcement role, pushing you toward the next checkpoint while you deal with threats quickly and avoid hitting bystanders.\r\n\r\nOn the gameplay side, it's a 3D light‑gun rail shooter playable solo or with two players, leaning into a competitive pace where you're racing for the lead. A shield mechanic triggered by aiming off‑screen makes you trade safety for forward momentum.",
+      "name": "Lethal Enforcers III",
+      "year": "2004",
+      "publisher": "Konami",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Lupin3",
+      "description": "",
+      "name": "Lupin III",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "MagicalBeat",
+      "description": "A Sensational Experience Combining Drop-Down Puzzle with Beats! The main BGM is composed by the Nico Nico celebrity and sound creator, 'Kikuo'.\r\n\r\nLast but not least, don't forget the thirteen colorful pixel-art characters to take you through the game.",
+      "name": "Magical Beat",
+      "year": "",
+      "publisher": "Arc System Works",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "MarsSortie",
+      "description": "In a training facility, a run of combat simulations spirals out of control as hostile units seize the scenario. Working together, players must hold their ground, pick targets fast, and stay sharp under pressure. The pace ramps up with waves of enemies and well-timed power-ups, while ammo management keeps every second tense. It's built like a large arcade shooting range with realistic light guns, designed for high replay value and ticket redemption.",
+      "name": "Mars Sortie",
+      "year": "",
+      "publisher": "",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "MaximumHeat",
+      "description": "Night falls and the city turns into a neon-lit battleground where every straight begs for full throttle and every corner punishes hesitation. Races come one after another like a fast tour through major districts, with traffic, jumps, and rival drivers always close enough to force mistakes. You're not just chasing the finish line, you're trying to keep control when speed and pressure spike at the same time.\r\nIt's a punchy arcade street racer built around drifting, nitro boosts, and showy hazards, with cabinets that can be linked for head-to-head LAN play.",
+      "name": "Dead Heat",
+      "year": "2010",
+      "publisher": "Bandai Namco",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "MedaruNoGunman",
+      "description": "In a carnival-style Wild West, a lone gunslinger steps up where every challenge is paid in nerve and timing. The game cycles through rule sets that keep you alert: shooting-gallery style rounds, search-and-shoot moments where spotting the right target matters as much as accuracy, and quick duels that punish hesitation. Unlike straightforward rail shooters, it's built as a medal-driven arcade experience, stacking bonuses, boss encounters, and multiple modes on SEGA's dedicated cabinet hardware.",
+      "name": "Medal no Gunman",
+      "year": "2010",
+      "publisher": "",
+      "genre": "Lightgun Shooter",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "MissionImpossible",
+      "description": "Field agents are deployed globally to sabotage a terrorist plot before a devastating weapon is triggered. The action is relentless, blending firefights against robotic waves with high-pressure hacking sequences. Players use a specialized dual-trigger light gun to swap between primary fire and spy gadgets on the fly. The journey spans nine stages across three major missions.",
+      "name": "Mission: Impossible Arcade",
+      "year": "2021",
+      "publisher": "SEGA",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "MotoGP",
+      "description": "On a Grand Prix bike, you fight through a flat-out pack, leaning hard to hold your line and drive cleanly out of corners. The goal is straightforward, but there's little room for error: miss a braking point and the race can slip away. You run across ten official circuits, with three difficulty modes that noticeably change the handling. The cabinet leans into immersion with a ride-on bike, a front-mounted fan for wind effect, a front-facing camera, and CoinUp online features for stat tracking and races of up to eight linked riders, locally or across locations.",
+      "name": "MotoGP",
+      "year": "2015",
+      "publisher": "Raw Thrills",
+      "genre": "Motorcycle race FPV",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Nirin",
+      "description": "Under the cover of night, riders push their bikes to the limit along crowded city streets, aiming to outpace rivals and tame every sharp turn. With a choice of motorcycles that each handle differently, pilots must use momentum and traffic patterns to stay ahead. The experience blends high‑speed excitement with the challenge of avoiding obstacles while managing boost and control. Built for arcade cabinets with handlebar controls and a dynamic seat, this racing game focuses on pure competition and skillful riding.",
+      "name": "Nirin Motorcycle Racing",
+      "year": "2008",
+      "publisher": "Bandai Namco",
+      "genre": "Motorcycle race TPV",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "OffroadThunder",
+      "description": "Two drivers battle for position across rough off-road courses filled with mud, cliffs and unforgiving corners where a single mistake can spin you out. Winning is about controlling the slide, recovering fast and timing your nitro to steal crucial meters. Built for arcades, it delivers a loud, physical ride with a force-feedback wheel, pedals and a cockpit-style cabinet, continuing Midway's “Thunder” line of spectacle-driven racers.",
+      "name": "Off Road Thunder",
+      "year": "1999",
+      "publisher": "Midway Games",
+      "genre": "",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Otomedius",
+      "description": "Otomedius is a quirky arcade shooter where female pilots embody Konami's iconic ships (Vic Viper, Lord British, etc.). The game blends fast-paced action, humor, and parody, with classic Gradius gameplay—level selection, special attacks, and touchscreen targeting. Set in a tokusatsu-inspired universe, it pits Angel Squadrons against the Gofer Sisters, all wrapped in Mine Yoshizaki's signature manga style.",
+      "name": "Otomedius",
+      "year": "2007",
+      "publisher": "Konami",
+      "genre": "Shoot'em Up",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "OtoshuDX",
+      "description": "Otoshu DX is a hybrid arcade game blending bullet hell and rhythm mechanics. Players face side-scrolling enemy waves, interspersed with multi-lane rhythm sequences. Based on the 2019 mobile release, the arcade version features a wider screen, extra tracks, and demanding gameplay that rewards precision and timing.",
+      "name": "Otoshu DX",
+      "year": "2020",
+      "publisher": "EZDAEMON",
+      "genre": "Shoot'em Up",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "PointBlankX",
+      "description": "Point Blank X is a light gun shooter arcade game, the sequel to the classic Point Blank (GunBullet) series. It features 72 HD-remastered stages (accuracy, memory, speed, simulation) from the first three games, plus new challenges.",
+      "name": "Point Blank X",
+      "year": "2016",
+      "publisher": "Bandai Namco",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "PokkenTournament",
+      "description": "In the Ferrum Region Battle Tournament, Trainers team up with their Pokémon to prove their strength and reach the top of the championship.\r\nAs they progress, they uncover the existence of a Pokémon corrupted by a mysterious energy — Shadow Mewtwo, the source of an imbalance threatening the entire battle system.\r\n\r\nPokkén Tournament combines the fluid fighting style of Tekken with the signature moves of Pokémon, set within circular 3D arenas.\r\nGameplay alternates between free‑roaming field battles and close‑quarters duels, blending arcade accessibility with strategic depth.",
+      "name": "Pokkén Tournament",
+      "year": "2015",
+      "publisher": "The Pokémon Company",
+      "genre": "Fighting",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "PoliceTrainer2",
+      "description": "Police Trainer 2 is a light gun shooter arcade game, sequel to the classic Police Trainer (1996). Players take on the role of a police trainee and must complete a series of tests (precision shooting, bomb defusing, suspect neutralization) to earn promotions. The game features light guns, cooperative 2-player mode, progressive difficulty, and a limited life system",
+      "name": "Police Trainer II",
+      "year": "2003",
+      "publisher": "Team Play Inc., P&P Marketing",
+      "genre": "",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "PowerInstinctV",
+      "description": "At the heart of the story is a powerful clan-turned-conglomerate where leadership is not decided by ballots or quiet inheritance, but by a fighting tournament that crowns the next head of the family. Pride, greed, and long-running grudges turn every match into a personal score to settle, carried by a cast of eccentric relatives and opportunists willing to do anything to claim the name and the throne.\r\n\r\nStaying true to the Power Instinct lineage, this entry brings the series back to the arcade with a highly expressive 2D fighter built for versus play, mixing over-the-top character comedy with showy mechanics such as transformations.",
+      "name": "Power Instinct V",
+      "year": "2009",
+      "publisher": "Atlus",
+      "genre": "Fighting / 2D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "PowerPuttLive2012",
+      "description": "Across postcard-like settings, each mini-golf hole turns into a small problem to solve, where reading slopes and planning rebounds matters as much as touch and nerve. The goal is simple, but the best scores come from clever lines, controlled power and learning how the course wants the ball to move.",
+      "name": "PowerPutt LIVE 2012",
+      "year": "2012",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "PowerPuttLive2013",
+      "description": "Every hole is a bite-sized puzzle of slopes, rebounds and risk management, where a safe line can be smart but a bold bank shot can win the round. The 2013 edition greatly expands the tour with five new 18-hole courses, bringing the total to eleven, and leans harder into arcade progression by unlocking new outfits and achievement badges through play. A new Poker Putt mode reshuffles what “a good hole” means, while LIVE connectivity adds stat tracking and daily contests; for adult venues, an optional RawTalk commentary setting can be enabled.",
+      "name": "Powerputt Live 2013",
+      "year": "2013",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Golf",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "PsychicForce2012",
+      "description": "In the year 2012, Psychiccers—humans with psychic abilities—are hunted by governments for their military potential. The story revolves around three conflicting factions: Neo-NOA, seeking a peaceful utopia under their rule; the Army, led by Richard Wong, aiming for global domination through force; and a third force searching for their missing loved ones. Battles take place in zero-gravity cubic arenas, where each warrior wields elemental powers (fire, water, wind, etc.) and psychic techniques to emerge victorious.\r\nGameplay features a 2.5D aerial combat system with free movement in all directions. Players can deploy barriers, perform dashes, and launch ranged attacks while managing their psychic power gauge.",
+      "name": "Psychic Force 2012",
+      "year": "",
+      "publisher": "Taito",
+      "genre": "Fighting / 2.5D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "PuckOff",
+      "description": "Puck Off turns the classic game of shuffleboard into a fast-paced arcade challenge, where players compete to slide their puck farther than their opponent on a virtual table. The game features three distinct modes (classic, timed, and special challenges) and 8 animated opponents with varying difficulty levels. Using a high-precision trackball, players control the power and direction of their shots, with realistic physics adding to the strategy.",
+      "name": "Puck Off",
+      "year": "",
+      "publisher": "Global VR",
+      "genre": "Sports / Shuffleboard",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "PullTheTrigger",
+      "description": "In a modern urban setting, two cops, Sian McHale and Becky Nilson, investigate a terrorist conspiracy threatening the city. Their mission takes them through diverse locations—from downtown streets to the docks—as they neutralize armed enemies to uncover the plot. The game unfolds across three chapters (a hotel, an enemy building, and a cargo ship), each featuring intense shooting phases and cinematic action sequences.",
+      "name": "Pull The Trigger",
+      "year": "2003",
+      "publisher": "MEGA Enterprise",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "PuyoPuyoEsports",
+      "description": "Puyo Puyo eSports is a competitive arcade version of the classic puzzle game, designed for tournaments and players seeking a fast, strategic, and no-nonsense experience. The game uses the iconic rules of Puyo Puyo 2 and Puyo Puyo Fever, with refined chain and counterattack mechanics for tense, balanced gameplay. There's no story mode—this is all about local or online duels, with a ranking system inspired by eSports tournaments.",
+      "name": "Puyo Puyo Champions",
+      "year": "2018",
+      "publisher": "SEGA",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "PuzzleBobble",
+      "description": "This high‑definition edition of the original Puzzle Bobble retains the classic 2D sprites with a modernized interface and 720p presentation.\r\nIt features smoother aiming, a combo scoring system, and a competitive versus mode, while staying true to the original gameplay.",
+      "name": "Puzzle Bobble",
+      "year": "2009",
+      "publisher": "Taito",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "RabbidsHollywood",
+      "description": "The Rabbids, those zany extraterrestrial rabbits from the Rayman universe, invade Hollywood to wreak havoc across three movie sets: Wild West, Zombie Invasion, and Sci-Fi World. In this cooperative arcade shooter, players use optical guns with plungers (instead of barrels, for safety) to aim and blast the Rabbids, who pull off endless silly antics. Each set features three levels, with power-ups to grab and leaderboards to dominate among friends.",
+      "name": "Rabbids Hollywood",
+      "year": "2017",
+      "publisher": "Adrenaline Amusements",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "RaccoonRampage",
+      "description": "In Raccoon Rampage, players take on the role of mischievous raccoons armed with high-powered water blasters, wreaking havoc across levels packed with quirky enemies and giant bosses. The game offers a cooperative or competitive adventure through diverse environments, where players must collect power-ups, upgrade weapons, and coordinate attacks to defeat over 30 unique enemy types with distinct behaviors.\r\nDesigned for 2 or 4-player arcade cabinets, Raccoon Rampage features simple yet tactical gameplay, vibrant graphics, and a ticket redemption system to appeal to players of all ages. The mounted water guns spray real streams of water at the screen, creating a unique and immersive experience.",
+      "name": "Raccoon Rampage",
+      "year": "2023",
+      "publisher": "UNIS Technology",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "RadikalBikers",
+      "description": "Radikal Bikers is set in a Mediterranean environment, and is based on delivering pizza on a rare Italian scooter called Italjet Dragster in heavy traffic before your AI opponent does, while getting points. The arcade version has three difficulty levels, which correspond to each of the different places: Margherita (easy, set in Milan), Capricciosa (medium, set in Rome), and Diabola (hard, set in Naples). If you beat all four races in a level, you get to play the next level free. Meanwhile, the PlayStation version includes four more locations on top of the original three as part of the extended Radikal mode: Marinara (set in Venice), Fantasia (set in Paris), Reggiana (set in London) and Americana (set in New York)",
+      "name": "Radikal Bikers",
+      "year": "1998",
+      "publisher": "Gaelco",
+      "genre": "Motorcycle race TPV",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "RaidenIII",
+      "description": "Raiden III shares the same mechanics as the previous games in the series, while introducing new mechanics to set it apart from its predecessors. Players are given a new primary weapon, the piercing Proton Laser, and a new missile weapon, the Radar Missile. New mechanics introduced in this game include the Flash Shot multiplier, which increases score the faster an appearing enemy is destroyed, and Double Play, which allows one player to control both ships with one controller. Raiden III is the first game in the series to give the player craft smaller hitboxes. The bombs were changed to deploy instantly and cover the entire screen, as opposed to the earlier games' delayed explosion and smaller area of damage.\r\n\r\nThe game consists of seven stages of increasing difficulty, with the first three levels taking place on Earth and the last four taking place in space.",
+      "name": "Raiden III",
+      "year": "2005",
+      "publisher": "MOSS",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "RaidenIV",
+      "description": "The Crystals have returned again after numerous defeats against humanity. The VCD immediately launches a new model of the Raiden fighter, the Fighting Thunder ME-02 Kai, to stop the Crystals from taking over the Earth.",
+      "name": "Raiden IV",
+      "year": "2007",
+      "publisher": "MOSS",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "RainbowBombergirl",
+      "description": "Rainbow Bombergirl is a competitive MOBA spin-off of the classic Bomberman series, where two teams of 4 &quot;Bombergirls&quot; battle to destroy each other's base. The characters are anime-style &quot;bishōjo moe&quot; girls, each with unique roles (bomber, blocker, shooter, etc.) and customizable outfits (unlocked via gacha and ranks). The game plays on a classic grid but adds MOBA mechanics: wave management, defense towers, and strategic objectives.\r\nThe Rainbow update brings enhanced graphics, new characters (including crossovers with Konami franchises like Castlevania), and a live announcer system to hype matches.\r\n",
+      "name": "Bombergirl",
+      "year": "2022",
+      "publisher": "Konami",
+      "genre": "Action / Labyrinth",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Rambo",
+      "description": "The player assumes the role of John Rambo, fighting through five levels. The first and final levels are based on the desert battle from Rambo III, the second and third levels focus on Rambo rescuing the prisoners from Rambo: First Blood Part II, and the fourth level consists of Rambo rescuing his mentor, Col. Trautman, from an enemy prison (also from Rambo III). Each level consists of the player shooting down waves after waves of enemy soldiers; if the player waits too long to kill an enemy, the enemy will attack and the player will lose one of their lives. Some enemies attack Rambo with grenades or rockets, which can be shot and destroyed in mid-air.\r\n\r\nIn addition, the game also features non-shooting segments, such as defeating an enemy in hand-to-hand combat, sneaking past enemies without being spotted, and shooting targeted areas without missing. Failing to complete these segments properly results in the player either losing a life or having to fight more enemies. Every level includes a boss fight, such as the Soviet attack helicopter from Rambo III or the gunboats from Rambo: First Blood Part II, which require the player to avoid a series of attacks while waiting for an opportunity to damage and ultimately defeat the boss.",
+      "name": "Rambo",
+      "year": "2008",
+      "publisher": "SEGA",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Rampage",
+      "description": "This modern reboot of Rampage ties into the 2018 film Rampage: Rampage, featuring updated 3D graphics and revamped gameplay. Players control George (giant gorilla), Ralph (werewolf), and Lizzie (monstrous lizard), now with three-stage evolution levels per monster, cinematic destruction physics, and competitive scoring. The goal remains the same: smash cities (including Chicago, inspired by the film), crush buildings, eat civilians for power-ups, and battle the military. The arcade cabinet features HD visuals, classic arcade controls, and over-the-top special effects (explosions, debris physics).",
+      "name": "Rampage",
+      "year": "2018",
+      "publisher": "Warner Bros. Interactive Entertainment",
+      "genre": "",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "RastanSaga",
+      "description": "Rastan Saga (NESiCAxLive) is the modern re-release of Taito's legendary 1987 arcade classic. In this iconic game, players take on the role of Rastan, a muscular and fearless barbarian, as he battles through dark forests, labyrinthine dungeons, and forgotten temples filled with the worst creatures of Greek mythology. Armed with his sword, he must jump, climb, and fight legendary foes like cyclopes, dragons, and evil sorcerers, all while collecting magical items—some of which may be cursed, turning the game into a nightmare.",
+      "name": "Rastan Saga for NESiCAxLive",
+      "year": "",
+      "publisher": "Taito",
+      "genre": "Platform",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "RazingStorm",
+      "description": "In 2030, the elite anti-terrorist unit S.C.A.R. is deployed to neutralize a criminal organization that has seized control of key civilian facilities. Players take on the roles of unnamed soldiers (Alpha One and Alpha Two), navigating urban and industrial warzones to face heavily armed militias, armored vehicles, and automated defense systems. Their mission: eliminate threats and dismantle the enemy network before a major attack is launched.\r\nGameplay centers on an action pedal system—press to attack, release to take cover and reload—with four primary weapons tailored to different combat scenarios. The game stands out with its dynamic scoring system, rewarding precise shot combos with bonuses and real-time feedback, pushing players to aim for perfection. Fully destructible levels feature spectacular explosions and reactive environments, deepening immersion.\r\n",
+      "name": "Razing Storm",
+      "year": "2009",
+      "publisher": "Bandai Namco",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Revolt",
+      "description": "For years, the Toy-Volt company has been producing toys and games for children all over the world. Within months of introducing their first products, Toy-Volt shot to the top! No one could put their finger on exactly what it was that made the toys so popular. Sure, they employed the best designers and marketers in the world, but there was something else about Toy-Volt toys, something almost.... magic. Now, their newest R/C cars really start to live!\r\n\r\nRe-Volt is a racing game where you take control over one of more than 28 R/C cars and drive on one of the 13 tracks. The tracks are varied, and include a toy shop, a supermarket, a luxury liner and more. It is possible to play a &quot;reversed&quot; (backwards) or &quot;mirror&quot; (reversed left and right) variety of each track. There are also 4 levels of realism to choose from.",
+      "name": "ReVolt",
+      "year": "2004",
+      "publisher": "Tsunami Visual Technologies",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "17"
+    },
+    {
+      "id": "RingRiders",
+      "description": "Set in a futuristic amusement park, Ring Riders throws players into a high-speed motocross race where the goal is to ride through giant rings scattered across diverse tracks while pulling off acrobatic stunts and finishing first.",
+      "name": "Ring Riders",
+      "year": "2004",
+      "publisher": "Gaelco",
+      "genre": "Racing, Driving / Motorcycle",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "RobinHood",
+      "description": "In the heart of Sherwood Forest, players step into the shoes of the legendary Robin Hood, wielding a life-sized crossbow to test their aim in a series of medieval shooting challenges. The game unfolds in a stylized medieval setting, where the goal is to hit moving targets (sheriff's men, treasure chests, apples, etc.) to rack up points and win redeemable tickets—a staple of arcade prize games.",
+      "name": "Robin Hood",
+      "year": "2009",
+      "publisher": "Innovative Concepts in Entertainment (ICE)",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "RollingGunner",
+      "description": "In 2061, humanity's survival hangs by a thread. BAC, a sentient computer system controlling the world's engines, has turned rogue, halving the global population. A secret faction within Lerman Matsunaga developed the Rolling Gun, a weapon designed to counter BAC's threat. Piloting the RF-42R STORK, players battle through six relentless stages, facing swarms of enemies and screen-filling bosses in a true bullet hell experience.\r\nDirected by ex-Cave developer Daisuke Koizumi, it blends retro inspiration with contemporary polish, offering a technical yet accessible experience.",
+      "name": "Rolling Gunner",
+      "year": "2020",
+      "publisher": "Studio Mebius",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "SamuraiShodown",
+      "description": "In 1787, during Japan's Tenmei era, the land is ravaged by chaos, famine, and a creeping darkness. Shizuka Gozen, a tormented spirit trapped in the underworld, threatens to destroy everything. Warriors from across the country, each with their own motives, gather to face this evil, including Haohmaru, the wandering swordsman, and Nakoruru, the nature priestess. The game is a return to the series' roots, featuring brutal weapon-based combat, bloody finishing moves, and the iconic &quot;Rage Gauge&quot; that powers up attacks when the player is near defeat.",
+      "name": "Samurai Shodown 2019",
+      "year": "2019",
+      "publisher": "SNK",
+      "genre": "Fighting / 2.5D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "SamuraiSpiritsSen",
+      "description": "Set during Japan's tumultuous Sengoku period, legendary warriors clash in a battle for the nation's fate. Haohmaru, the wandering swordsman, and Nakoruru, the nature priestess, must confront a shadowy conspiracy threatening to rewrite history. \r\nSamurai Spirits Sen breaks from tradition with a full 3D combat system, introducing sidestepping, air combos, and horizontal/vertical slashing mechanics. While criticized for straying from the series' 2D roots, the game stands out for its high-definition visuals, a roster of 24 fighters (11 newcomers), and the return of iconic artist Senri Kita. The &quot;Guard-Shatter Move&quot; adds a tactical layer, allowing players to break through an opponent's defense. Despite mixed reception, it remains a bold experiment in the Samurai Shodown legacy",
+      "name": "Samurai Shodown - Edge of Destiny",
+      "year": "2008",
+      "publisher": "SNK Playmore",
+      "genre": "Fighting / 3D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "SavageQuest",
+      "description": "In a wild prehistoric world, a mother Tyrannosaurus rex sees her clutch of eggs stolen by Oviraptors, minions of an evil shaman. Enraged, she embarks on a relentless quest across hostile landscapes, battling hordes of dinosaurs and fantastical creatures to reclaim her eggs. The game blends frantic action and exploration, with a straightforward yet satisfying combat system : eating foes restores health.",
+      "name": "Savage Quest",
+      "year": "1999",
+      "publisher": "Interactive Light",
+      "genre": "Beat'em Up",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "SchoolOfRagnarok",
+      "description": "In a world where ten schools battle for global supremacy, each student is backed by a Guardian, a godlike being drawn from Norse mythology. Battles are not just about strength, but strategy: weapon choice, timing, and special skills turn the tide. Players can customize their fighter, select from eight weapon disciplines, and face off in intense 1vs1 duels, either online or via linked arcade cabinets.",
+      "name": "School of Ragnarok",
+      "year": "2015",
+      "publisher": "Taito",
+      "genre": "Fighting / Versus",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "ShiningForceCross",
+      "description": "In a world where magic and legendary creatures intertwine, heroes of various races (humans, half-beasts, elves, etc.) gather to face dark forces threatening the land. Shining Force Cross (2009) immerses players in a real-time cooperative adventure, where each adventurer is fully customizable—appearance, voice, class, and skills can be tailored to create a unique character.\r\nThe game unfolds in dungeons brimming with traps, formidable enemies, and hidden treasures. Dynamic and strategic battles require coordination among 1 to 4 players (locally or online) to defeat towering bosses and advance the story.\r\n",
+      "name": "Shining Force Cross",
+      "year": "2009",
+      "publisher": "SEGA",
+      "genre": "Action RPG",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "ShiningForceCrossElysion",
+      "description": "Shining Force Cross Elysion is a direct sequel to Cross Raid, adding an Elysion mode where players battle enemy waves in open arenas. The game now supports up to 8 simultaneous players, with enhanced graphics, new playable races (such as &quot;dark races&quot;), and longer epic quests. Combat mechanics are refined for smoother gameplay and deeper team strategies.",
+      "name": "Shining Force Cross Elysion",
+      "year": "2012",
+      "publisher": "SEGA",
+      "genre": "Action RPG",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "ShiningForceCrossExlesia",
+      "description": "Shining Force Cross Exlesia is the fourth iteration of the arcade series, pushing boundaries with massive dungeons, more impressive final bosses, and an even deeper progression system. The game introduces new classes, legendary weapons to collect, and special online events. Graphics and animations are overhauled for maximum immersion, while retaining the cooperative spirit that defined the series.",
+      "name": "Shining Force Cross Exlesia",
+      "year": "2013",
+      "publisher": "SEGA",
+      "genre": "Action RPG",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "ShiningForceCrossRaid",
+      "description": "Shining Force Cross Raid is a major update to Shining Force Cross (2009), introducing a dedicated Raid mode for 6-player groups. Quests are now longer and more strategic, featuring tougher bosses and revamped combat mechanics to encourage team coordination. Players retain character customization, but new classes and skills are added.",
+      "name": "Shining Force Cross Raid",
+      "year": "2010",
+      "publisher": "SEGA",
+      "genre": "Action RPG",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Showdown",
+      "description": "In a world where speed and destruction rule, Sega Showdown throws players into frantic races across tracks inspired by real-life locations in the USA and Japan. Drivers compete in a variety of classic and modern cars, navigating through an electric atmosphere where every turn can become an opportunity for an epic overtake… or a spectacular crash.\r\nSega Showdown is an arcade adaptation of Codemasters' DiRT: Showdown, optimized for multiplayer play in arcades, with bonus codes to unlock additional content.",
+      "name": "Showdown",
+      "year": "2015",
+      "publisher": "Sega Amusements International",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "SilverStrikeBowlingLive",
+      "description": "In a world where bowling becomes a national competition, players embody virtual bowlers in realistic alleys inspired by the best bowling centers. Each game is an opportunity to prove their precision, strategy, and consistency, with pins reacting just like in real life. Online tournaments allow players to challenge opponents worldwide, while special modes like &quot;Spare Challenge&quot; or &quot;Vegas Mode&quot; (where every strike or spare deals a playing card) add an element of chance and fun.",
+      "name": "Silver Strike LIVE",
+      "year": "2009",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Bowling",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "SonicDashExtreme",
+      "description": "In a vibrant world inspired by the Sonic the Hedgehog series, players take on the role of Sonic or one of his friends (Tails, Knuckles, Amy, etc.) in a frantic race through iconic environments like beaches, temples, and meadows. The goal? Dodge obstacles, collect as many rings and tickets as possible, and face off against Dr. Eggman in a final boss battle at the end of each level.\r\nSonic Dash Extreme is an arcade adaptation of the mobile game Sonic Dash, designed for arcade halls with a giant 55-inch vertical screen and an oversized D-Pad controller for precise input.\r\n",
+      "name": "Sonic Dash Extreme",
+      "year": "2015",
+      "publisher": "SEGA",
+      "genre": "Casual Game",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "SpaceInvaders",
+      "description": "Space Invaders is a two-dimensional fixed shooter game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. The aim is to defeat five rows of eleven aliens—some versions feature different numbers—that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's music both speed up. Defeating the aliens brings another wave that is more difficult, a loop which can continue indefinitely.",
+      "name": "Space Invaders for NESiCAxLive",
+      "year": "",
+      "publisher": "",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "SpicaAdventure",
+      "description": "Nico, a spunky girl armed with a magical umbrella, embarks on a surreal adventure through colorful worlds filled with robots, giant toys, and abstract creatures. Her goal: to navigate through trap-filled levels, using her umbrella to jump, attack, and defend herself. Each stage is a race against time, as a giant robot pursues her if she lingers too long.\r\nSpica Adventure is a tribute to classic arcade platformers, with a touch of Taito's signature madness.\r\n",
+      "name": "Spica Adventure",
+      "year": "2012",
+      "publisher": "Taito",
+      "genre": "Platform / Run & Jump",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Spiderman",
+      "description": "New York is in danger: Spider-Man must race through the city at breakneck speed to stop an imminent threat. The game places the hero in a frantic chase across streets, rooftops, and skyscrapers, where every obstacle dodged and every enemy neutralized earns points. The player only needs one button to jump, slide, or attack, but the pace accelerates over time, making each session more intense.",
+      "name": "Spider-Man Homecoming",
+      "year": "2017",
+      "publisher": "Adrenaline Amusements",
+      "genre": "Casual Game",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "StarTrekVoyager",
+      "description": "The USS Voyager, stranded in the Delta Quadrant, is under attack by hostile forces: the Borg, the formidable Species 8472, and Hirogen hunters. The crew must defend the ship and survive waves of invasions while exploring unknown regions of the galaxy. Each mission puts the player at the heart of intense battles, where precision and speed are essential to eliminate threats and protect the Voyager.\r\n\r\n",
+      "name": "Star Trek Voyager",
+      "year": "",
+      "publisher": "Team Play",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "StarwingParadox",
+      "description": "On the planet Maguriboshi, two alien nations clash for control of a rare energy resource, Hoshinochi. Human pilots from Earth remotely control giant mechas to take part in this interstellar war. Each team must capture strategic points, defend their base, and destroy the enemy core, all in intense battles where coordination and weapon mastery make the difference.\r\nStarWing Paradox is a competitive arcade game developed by Square Enix and Sunrise, featuring mecha designs by Ippei Gyōbu and Junya Ishigaki, and character designs by Yoshiyuki Sadamoto (co-founder of Gainax).\r\n",
+      "name": "StarWing Paradox",
+      "year": "2018",
+      "publisher": "Square Enix",
+      "genre": "Shooter / Vehicle, FPV",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "StormRider",
+      "description": "In a world where speed is king, the boldest riders compete on extreme tracks, from dense forests to industrial ports and mysterious ruins. Every trajectory counts, every tight turn or full-throttle straight can make the difference between glory and oblivion. The bikes, ultra-fast and responsive, react to the pilot's slightest move, offering a pure racing experience with no compromise.",
+      "name": "Storm Rider",
+      "year": "2015",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving / Motorcycle",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "StreetFighterIV",
+      "description": "A few months after the events of Street Fighter II, the criminal organization S.I.N., led by M. Bison, organizes a new worldwide tournament to attract the planet's best fighters. Their goal: to compile combat data to perfect their weapons and domination plans. Ryu, still seeking to master the Satsui no Hado, and Chun-Li, determined to avenge her father's death, once again find themselves at the heart of a battle where every move counts. Around them, a roster of legendary fighters and new faces cross paths, each with their own motivations and unique style.",
+      "name": "Street Fighter IV",
+      "year": "2008",
+      "publisher": "Capcom",
+      "genre": "Fighting / 2D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "StreetFighterZero3",
+      "description": "As Shadaloo, led by M. Bison, expands its influence across the globe, fighters from all walks of life find themselves drawn into a secret war for control of dark energies and advanced technologies. Chun-Li, still seeking revenge for her father's death, crosses paths with new allies like Karin, a wealthy and capricious heiress, or R. Mika, an energetic female wrestler. Meanwhile, figures such as Cody (from Final Fight), fresh out of prison, or Evil Ryu, corrupted by the Satsui no Hado, add a tragic dimension to the battles. Each character has their own motivations, whether to protect loved ones, prove their worth, or dominate the world.",
+      "name": "Street Fighter Zero III",
+      "year": "2014",
+      "publisher": "Capcom",
+      "genre": "Fighting / 2D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Synchronica",
+      "description": "Synchronica turns each touchscreen into a dynamic musical score. Players must tap, flick, and drag markers in perfect sync with the beat, transforming every track into a challenge of speed and accuracy. The game features a mix of original songs and crossovers with other Bandai Namco franchises, like Taiko no Tatsujin.",
+      "name": "Synchronica",
+      "year": "2015",
+      "publisher": "Bandai Namco",
+      "genre": "Rhythm",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "TaisenMixParty",
+      "description": "In a lively mahjong parlor, every opponent you face is plagued by quirks or bad habits. Your goal is to outplay them at mahjong to &quot;cure&quot; their eccentricities, all wrapped in a zany, fast-paced atmosphere. The game blends traditional mahjong rules with over-the-top characters, wacky bets, and humorous storylines.",
+      "name": "Taisen Mix Party",
+      "year": "2005",
+      "publisher": "Psikyo",
+      "genre": "Mahjong",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "TargetTossProBags",
+      "description": "The popular American backyard game of beanbag toss (or cornhole) comes to life in this accessible arcade experience. Players take turns tossing bags toward a raised platform with a hole, aiming to score points by landing on the board or—even better—sinking the bag into the hole. The game faithfully recreates the rules and competitive spirit of real-life tournaments, with simple yet effective graphics and intuitive controls via trackball or controller. The arcade version also includes variations, like giant lawn darts, to spice up the gameplay.",
+      "name": "Target Toss Pro Bags",
+      "year": "2010",
+      "publisher": "Incredible Technologies",
+      "genre": "Sports / Shuffleboard",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Tekken6",
+      "description": "As Jin Kazama takes control of the Mishima Zaibatsu, a new &quot;King of Iron Fist&quot; tournament is announced to draw fighters from around the world. Players take on iconic characters like Jin, Paul Phoenix, or newcomers like Lars Alexandersson and Alisa Bosconovitch. This version introduces a Rage system that boosts attack power when health is low, along with a &quot;Bound&quot; mechanic to extend combos after a ground impact.",
+      "name": "Tekken VI",
+      "year": "2007",
+      "publisher": "Bandai Namco",
+      "genre": "Fighting / 2.5D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Tekken7",
+      "description": "As the rivalry between Heihachi Mishima and his son Kazuya reaches its peak, the seventh &quot;King of Iron Fist&quot; tournament is announced to draw fighters from around the world. Players take on iconic characters like Jin Kazama, Paul Phoenix, or newcomers like Josie Rizal and Gigas. This version introduces a new combat system powered by the Unreal Engine 4, delivering detailed graphics and smooth animations.",
+      "name": "Tekken 7",
+      "year": "2015",
+      "publisher": "Bandai Namco",
+      "genre": "Fighting / 2.5D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "TetoteConnect",
+      "description": "Imagine a rhythm game where you stand in front of a large touchscreen. On the screen, an anime-style character (like a virtual idol) dances to the music. Your goal is to tap the screen at the right time, following the character's movements, as if you were dancing together. The game offers a wide variety of songs, from anime tracks to Vocaloid hits (like Hatsune Miku) and collaborations with popular artists.",
+      "name": "Tetote x Connect",
+      "year": "2021",
+      "publisher": "Taito",
+      "genre": "Rhythm",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "TheAct",
+      "description": "The Act is a cinematic 2D action game where the player controls an ordinary man caught in a series of dangerous, over-the-top situations. Using precise QTE-based gameplay and beautifully hand-drawn animation, each scene plays out like an interactive action movie. A stylish tribute to classic action films, blending humor, tension, and spectacular set pieces.",
+      "name": "The Act",
+      "year": "2007",
+      "publisher": "Cecropia",
+      "genre": "Adventure / Interactive Movie",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "TokyoCop",
+      "description": "A Tokyo police officer is tasked with tracking down and apprehending criminals across the bustling streets of the city, from pickpockets to the most wanted felons. Missions take place in four iconic districts: Ginza, Hibiya, Shinjuku, and Shibuya. The player must skillfully drive a police vehicle, use sirens and horns to clear traffic, and capture suspects as quickly as possible to earn promotions.",
+      "name": "Tokyo Cop : Special Police Reinforcement",
+      "year": "2003",
+      "publisher": "Namco",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "TombRaider",
+      "description": "Lara Croft and a group of survivors are trapped on the mysterious island of Yamatai, hunted by the dangerous Solarii Brotherhood. Players take on the role of these survivors, helping Lara escape by facing armed enemies and deadly traps across ancient ruins and hostile landscapes. The story, inspired by the 2013 reboot, unfolds over three chapters, each divided into five thrilling sections.",
+      "name": "Tomb Raider",
+      "year": "2018",
+      "publisher": "Bandai Namco",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "TroubleWitches",
+      "description": "In the magical kingdom of Eihemland, the powerful witch Amalgam has stolen a ring sealing away a demon named Draupnir. After freeing and being possessed by Draupnir, Amalgam broke the ring into six pieces and gave each fragment to her six daughters. The king of Eihemland promises to grant the wish of anyone who can defeat Amalgam. Players take on the role of one of these witches, each with their own motivations: proving she's not a cat, searching for her missing mother, or exorcising the demon once and for all.",
+      "name": "Trouble Witches AC for NESiCAxLive",
+      "year": "2009",
+      "publisher": "Taito",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "UltimateArcticThunder",
+      "description": "Ultimate Arctic Thunder is an update to the original Arctic Thunder (2000), developed by Play Mechanix and distributed by Betson Enterprises. The game features snowmobile racing on tracks inspired by real or fantastical locations (such as a snowy Washington D.C. or a haunted forest), with power-ups and spectacular stunts. Players can choose from several snowmobiles and characters, and up to four cabinets can be linked for multiplayer races.",
+      "name": "Ultimate Arctic Thunder",
+      "year": "2004",
+      "publisher": "Betson Enterprises",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "UltraStreetFighterIV",
+      "description": "Ultra Street Fighter IV  is a 2.5D fighting game, and is an update of Super Street Fighter IV: Arcade Edition and the fourth update to the Street Fighter IV series overall. It features five additional characters, six additional stages, and character tweaks based on community feedback. This title update also features brand new modes.\r\nUltra Street Fighter IV was first released to Japanese arcades via the NESICA system",
+      "name": "Ultra Street Fighter IV",
+      "year": "2014",
+      "publisher": "Capcom",
+      "genre": "Fighting / 2D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "VirtuaStriker3",
+      "description": "",
+      "name": "Virtua Striker III",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "VirtuaStriker4",
+      "description": "",
+      "name": "Virtua Striker IV",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "WackyRaces",
+      "description": "This fast-paced arcade racing game has players take control of one of 23 different Wacky Races cartoon characters in one of 11 different cars across six tracks. Players blast through the tracks at high speed, using weapons to take each other out like in Super Mario Kart-style kart racing games. Aside from kart racing tropes, it also features an Outrun-style timer: players are given a limited time to play, but can build up more time by passing checkpoints.",
+      "name": "Wacky Races",
+      "year": "2008",
+      "publisher": "Banpresto",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "WalkingDead",
+      "description": "The game takes place at the West Georgia Correctional Facility from Season 3 and Season 4 of the TV series. It features a new group who must escape from the prison as a massive horde of zombies infests the buildings. The game is split up into 4 levels, which the player can choose as a starting point at the beginning. The game is an on-rails shooter featuring extensive use of the player's crossbow and other various weapons.",
+      "name": "Walking Dead",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "WartranTroopers",
+      "description": "",
+      "name": "Wartran Troopers",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "WheelOfFortune",
+      "description": "",
+      "name": "Wheel Of Fortune",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "WildWestShootout",
+      "description": "",
+      "name": "Wild West Shootout",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "WinningEleven08",
+      "description": "Winning Eleven Arcade Championship 2008 is the latest arcade release in the popular Winning Eleven Soccer game series (known as Pro Evolution Soccer outside of Japan). The 2008 version is the first arcade release to include long-awaited European club teams, with 126 clubs and a total of 180 teams available.\r\n\r\nUp to 4 machines can be networked together, with a large monitor showcasing game highlights and replays. Winning Eleven Arcade Championship 2008 retains the same control system as the 2006 version with six buttons used to control your player - shoot, pass, lob, through ball, sliding tackle, and conservative tackle. The e-amusement system is also supported, which allows for online competition.\r\n",
+      "name": "Winning Eleven 08",
+      "year": "2004",
+      "publisher": "Konami",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "WonderlandWars",
+      "description": "",
+      "name": "Wonderland Wars",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "Yatagarasu",
+      "description": "December 25th, 1926.\r\nA new calendar era, the 'Kobun Period', has begun and Japan seems to be embarking on a new chapter in history. However, unbeknownst to the public, a nationalist revolutionary group has staged a coup d'etat against the Japanese government.\r\nThe revolutionaries acted swiftly, gaining control of the prime minister, police, major corporations, and newspapers. Struggling to react, the government leaders order the Iga Ninja to initiate the 'Yatagarasu' assassination program and eliminate the leader of the insurrection.",
+      "name": "Yatagarasu",
+      "year": "2015",
+      "publisher": "",
+      "genre": "",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "scptour",
+      "description": "",
+      "name": "Scptour",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "tekken4",
+      "description": "Heihachi Mishima hosts the fourth &quot;King of Iron Fist&quot; tournament to lure his resurrected son, Kazuya, back into his grasp. Fighters from around the world gather to face legendary rivals like Paul Phoenix, Nina Williams, and newcomer Steve Fox, an English boxer. Battles take place in dynamic arenas where walls and obstacles add strategic depth. The game introduces mechanics like &quot;Position Changes&quot; (shifting stances after hits) and stages with uneven terrain.",
+      "name": "Tekken IV",
+      "year": "2001",
+      "publisher": "Namco",
+      "genre": "Fighting / 2.5D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "tekken51",
+      "description": "After the death of Heihachi Mishima, the fifth &quot;King of Iron Fist&quot; tournament begins, drawing fighters from around the world. Players take on iconic characters like Jin Kazama, Paul Phoenix, or newcomer Raven, a mysterious spy.",
+      "name": "Tekken V",
+      "year": "2004",
+      "publisher": "Namco",
+      "genre": "Fighting / 2.5D",
+      "players": 1,
+      "rating": ""
+    }
+  ]
+}

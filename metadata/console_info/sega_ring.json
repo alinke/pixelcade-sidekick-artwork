@@ -1,8 +1,8 @@
 {
-  "displayName": "Sega Ring",
-  "manufacturer": "Sega",
-  "type": "Arcade Board",
-  "yearStart": "2009",
-  "yearEnd": "2016",
-  "mediaFormat": "Arcade Board (HDD)"
+  "displayName": "TeknoParrot",
+  "manufacturer": "",
+  "type": "PC-based Arcade Emulator",
+  "yearStart": "2017",
+  "yearEnd": "",
+  "mediaFormat": "PC (Windows)"
 }
