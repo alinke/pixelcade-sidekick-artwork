@@ -1,8 +1,8 @@
 {
-  "displayName": "Mame",
+  "displayName": "Arcade",
   "manufacturer": "",
   "type": "Arcade Emulation",
   "yearStart": "",
   "yearEnd": "",
-  "mediaFormat": "Arcade PCB"
+  "mediaFormat": "Arcade Emulation"
 }
