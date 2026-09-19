@@ -1,0 +1,174 @@
+{
+  "games": [
+    {
+      "id": "ace",
+      "description": "Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems (later renamed RDI Video Systems). It was unveiled in October 1983, just four months after the Dragon's Lair game, then released in Spring 1984, and like its predecessor featured film-quality animation played back from a laserdisc.\r\n\r\nThe gameplay is also similar, requiring the player to move the joystick or press the fire button at key moments in the animated sequences to govern the hero's actions. However, the game's action was more varied with the player occasionally given the temporary option to either have the character he is controlling transform back into his adult form, or remain as a boy with different styles of challenges.",
+      "name": "Space Ace",
+      "year": "1984-04-24",
+      "publisher": "Cinematronics",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "18"
+    },
+    {
+      "id": "astron",
+      "description": "In Astron Belt, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien planets, through tunnels, through trenches, and get involved in a few astro-dogfights with enemy space fighters",
+      "name": "Astron Belt",
+      "year": "1983-11-22",
+      "publisher": "SEGA",
+      "genre": "Shoot'em Up",
+      "players": 1,
+      "rating": "12"
+    },
+    {
+      "id": "badlands",
+      "description": "Bad Lands is a top-down single-screen racer for one or two players set in a post-apocalyptic future and is the last in Atari's Sprint series of racing games. It has been 50 years since nuclear disaster changed the world forever and the sport of sprint racing is now a ruthless battle between armed cars. \r\n\r\nRaces take place on tracks built in the ruins of the dangerous nuclear zone known only as the BADLANDS, with each race taking place over three laps. Cars are equipped with front-facing cannons that can be used to fire on rival racers to slow them down. Missile upgrades can also be earned or bought that will completely destroy a rival vehicle that then takes several seconds to be replaced. Races feature three cars so there is always at least one drone car to compete against.\r\n\r\nEach track features play-field targets that can be shot for extra points and bonus missiles and as with previous Sprint games, bonus wrenches appear at regular intervals that can be collected and used to upgrade the player's vehicle between races. The available upgrades are: \r\nMissiles\r\nTires\r\nTurbo\r\nIncreased speed\r\nShields \r\n\r\nBad lands features eight different circuits, each with its own unique, post-apocalyptic setting and background.",
+      "name": "Bad Lands",
+      "year": "1989",
+      "publisher": "Atari",
+      "genre": "Racing, Driving",
+      "players": 2,
+      "rating": "10"
+    },
+    {
+      "id": "bega",
+      "description": "In Bega's Battle, You play a character named Bega. You must face the alien Varga who is trying to take over the earth. You must defeat Varga to save the earth from destruction. Other goals are to rescue your friends Luna, Jobe, and Sony. Once rescued, Luna gave you extra firepower, Jobe gave you the shield, and Sony gave you teleportation ability.",
+      "name": "Bega's Battle",
+      "year": "1983-05-31",
+      "publisher": "Data East",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "cliff",
+      "description": "Cliff is on a mission to save Clarissa from being forced to marry the evil Count Draco. Cliff Hanger is an interactive cartoon movie. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie. The anime video used in the game are scenes from the Lupin III anime movies, mainly scenes from The Castle of Cagliostro and the Mystery of Mamo animated movies. Cliff in the game is Arsène Lupin III in the original anime.",
+      "name": "Cliff Hanger",
+      "year": "1983",
+      "publisher": "Stern",
+      "genre": "Platform",
+      "players": 2,
+      "rating": "18"
+    },
+    {
+      "id": "cobraab",
+      "description": "Mission... You have been ordered to get rid of a terrorist group which is committing crimes all over the world. Piloting your ultra-modern Jet Helicopter you have to confront your enemies. Carry out your mission!\r\n\r\nYou command a fully armed helicopter and must take on enemy helicopters, planes, tanks, and ships in order to destroy their stronghold on an area. Your missions take you though the forest, in the canyons, through the desert ruins, out to the pacific ocean, and right though New York City.",
+      "name": "Cobra Command",
+      "year": "1983",
+      "publisher": "Data East",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "gpworld",
+      "description": "GP World was produced by Sega in 1984. In this laserdisc racing game, you have the choice between one of the three circuits proposed to compete with computer-controlled racing cars.\r\nIt is a rather average game in the realization where it is difficult to feel the feeling of speed despite the projection of the real circuits filmed as scenery.\r\nBut it is moving away from the traditional laserdisc spirit, interactive cartoons and shoot'em up, which changes a bit.",
+      "name": "Gp World",
+      "year": "1984",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "8"
+    },
+    {
+      "id": "esh",
+      "description": "In Esh's Aurunmilla, you are the hero Don Davis. Emperor Esh, who is trying to take over the Universe Orion, has kidnapped princess Sindy. It is your job to rescue Princess Sindy from the evil Emperor Esh. Armed with only a sword, you must fight your way through the obstacles to rescue the princess and save the universe!",
+      "name": "Esh's Aurunmilla",
+      "year": "1983",
+      "publisher": "Gakken",
+      "genre": "Platform",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "galaxy",
+      "description": "Fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser. Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few &quot;astro-dogfights&quot; with enemy space fighters.",
+      "name": "Galaxy Ranger",
+      "year": "1983",
+      "publisher": "SEGA",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": "10"
+    },
+    {
+      "id": "interstellar",
+      "description": "In Interstellar Laser Fantasy, your mission is to fly to distant worlds battling alien spaceships and destroying alien bases. Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.",
+      "name": "Interstellar Laser Fantasy",
+      "year": "1983",
+      "publisher": "Gakken",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": "10"
+    },
+    {
+      "id": "lair",
+      "description": "Originally released in the arcades as a laserdisc game, Dragon's Lair is an interactive cartoon movie. Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne. The game consists of animated scenes, during which the player has to press direction buttons or the sword button in the right moment to trigger the next segment of the movie.",
+      "name": "Dragon's Lair",
+      "year": "1983-06-01",
+      "publisher": "Cinematronics",
+      "genre": "Action / Adventure",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "lair2",
+      "description": "Princess Daphne has been spirited away to a wrinkle in time by the Evil Wizard Mordroc who plans to force her into marriage. Only you, Dirk the Daring, can save her. Transported by a bumbling old time machine, you begin the rescue mission. But you must hurry, for once the Casket of Doom has opened, Mordroc will place the Death Ring upon Daphne's finger in marriage and she will be lost forever in the Time Warp!",
+      "name": "Dragon's Lair 2 - Time Warp",
+      "year": "1991-06-16",
+      "publisher": "Leland",
+      "genre": "Action / Adventure",
+      "players": 1,
+      "rating": "18"
+    },
+    {
+      "id": "mach3",
+      "description": "In M.A.C.H. 3, you pilot either a Fighter plane or a Bomber plane and must fly around hitting targets on the ground or in the air while avoiding enemy fire. M.A.C.H. 3 used video footage from the laser disc and overlaid computer graphics for your ship and the enemy ships.",
+      "name": "M.a.c.h. 3",
+      "year": "1983",
+      "publisher": "Mylstar Electronics",
+      "genre": "Shoot'em Up",
+      "players": 1,
+      "rating": "18"
+    },
+    {
+      "id": "roadblaster",
+      "description": "In Road Blaster, your mission is to seek out a gang of bikers who attacked and killed your wife. You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.",
+      "name": "Road Blaster",
+      "year": "1985-08-01",
+      "publisher": "Data East",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "17"
+    },
+    {
+      "id": "sdq",
+      "description": "The idea for this animated laserdisc game comes from the movies and novels about Don Quixote, the legendary Spanish knight. In this game, the character looks very young and does not have a mustache. Also, he has a sword for a weapon and his faithful sidekick Sancho Panza follows him around although he does nothing to assist the hero.\r\nAn assortment of mythical creatures including demons, dragons, skeletons and so on are encountered throughout the game. The game ends when Don Quixote kills the evil witch and rescues Isabella.",
+      "name": "Super Don Quix-ote",
+      "year": "1984",
+      "publisher": "Universal ",
+      "genre": "Adventure",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "uvt",
+      "description": "They are among us, who? Invaders, aliens or aliens, in short, little green guys! Obviously to make a game they must be bad and want to take possession of our beautiful planet, otherwise it's not funny. As you have guessed, freedom lies on your shoulders and depends on your accuracy in shooting and acrobatics.\nUs vs. Them is an aerial shoot game with a rather classic and unpretentious realization where your ship is more or less inlaid in a background animated by videos. To make the interludes more dynamic, scenes with real actors punctuate the story in a spirit close to the TV series of the 80s. The game will appeal to lovers of science fiction, shoot and low budget TV series. Others will more readily turn to titles like M.A.C.H. 3.",
+      "name": "Us Vs Them",
+      "year": "1984",
+      "publisher": "Mylstar Electronics",
+      "genre": "Shooter / TPV",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Ninja_Hayate",
+      "description": "The story takes place in Japan, you play as Hayate, a young up and coming ninja warrior out to stop the evil of Lougi and his army of ghouls and goblins. You are out to avenge your father's death as well as the emperor and rescue your girlfriend from the clutches of evil and bring an end to the terror visited upon your lands.\r\nTo play the game you must press the corresponding buttons on the screen at a certain time, such as pressing left to go left or possibly to avoid a enemies weapon or pressing one of the regular buttons to draw your weapon and attack a certain enemy.",
+      "name": "Ninja Hayate",
+      "year": "1984",
+      "publisher": "Taito",
+      "genre": "Action",
+      "players": 1,
+      "rating": "14"
+    }
+  ]
+}
