@@ -1599,6 +1599,526 @@
       "genre": "Fighting / 2.5D",
       "players": 1,
       "rating": ""
+    },
+    {
+      "id": "After_Burner_Climax",
+      "description": "The Brave Fangs Aero Team, part of the G.H.O.S.T. squadron from Sega's ever-popular Ghost Squad, has been instructed to shut down the rebels of the skies to end a potentially demolishing nuclear inferno.",
+      "name": "After Burner Climax",
+      "year": "2006",
+      "publisher": "SEGA",
+      "genre": "Shooter / Plane, TPV",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Blade_Arcus_from_Shining",
+      "description": "In this spin‑off of the Shining series, characters from Shining Blade and Shining Hearts come together in a shared universe. The game depicts their battles and interactions within a tournament where different forces and ideals clash.",
+      "name": "Blade Arcus from Shining",
+      "year": "2015",
+      "publisher": "SEGA",
+      "genre": "Fighting / Versus",
+      "players": 1,
+      "rating": "13"
+    },
+    {
+      "id": "Chaos_Code",
+      "description": "In a future threatened by the mysterious energy Chaotics, fighters from all over the world clash in search of power, truth, or simply the thrill of battle. Fast-paced 2D duels combine varied attacks, combos, and techniques. The game offers a flexible system, allowing each player to adapt their style and customize strategies to secure victory.",
+      "name": "Chaos Code",
+      "year": "2011",
+      "publisher": "Arc System Works",
+      "genre": "Fighting",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Chase_H_Q_2",
+      "description": "In &quot;Chase H.Q. 2,&quot; you control various vehicles, including a modern sports sedan, a police-style sports car, and a muscular striped vehicle. The goal is to reach the end of the track, damage the criminals' getaway car, and arrest them. Some opponents use clever tactics, making the game more challenging. Progress is also based on a point system. The vehicles are fictional but inspired by real-world models.",
+      "name": "Chase H.Q. II",
+      "year": "2007",
+      "publisher": "Taito",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Cotton_Rock_n_Roll",
+      "description": "Cotton Rock 'n' Roll retains the comical world of Cotton and Silk, the game features not only from the Cotton series but also the other shoot'em up such as Sanvein's &quot;Time&quot; System and Psyvariar's &quot;Buzz&quot; system.\r\n\r\n",
+      "name": "Cotton Rock'n'Roll",
+      "year": "2021",
+      "publisher": "Studio Saizensen",
+      "genre": "Shoot'em Up / Horizontal",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "D1GP_Arcade",
+      "description": "D1GP Arcade is a drift racing game that replicates the D1 Drift Championship grand prix series. It is not like many other racers, as the focus is not on the player's ranking and speed, but rather on the number of drift points a player can acquire.",
+      "name": "D1GP Arcade : Professional Drift Game",
+      "year": "2008",
+      "publisher": "Taito",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Daytona_Championship_USA",
+      "description": "DAYTONA® USA is the holy grail of arcade racing - First launched in 1994, this brand new entry brings Sega's #1 racer screeching into the 21st century! DAYTONA® Championship USA features three brand new tracks including a recreation of the newly renovated DAYTONA International Speedway®! In addition, the original three classic courses have been remastered for the modern era.\r\n\r\nThis Standard cabinet is designed to fit in more locations. Lit from top to bottom with bright LED edge lighting the game is a head-turner. The cabinet marquee features the stylish yellow Hornet car. Have you got what it takes to take the flag again.... because DAYTONA® is back!",
+      "name": "Daytona Championship USA",
+      "year": "2017",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving / Racing",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Dead_Or_Alive_5_Ultimate_Arcade",
+      "description": "DOATEC, once corrupt and in ruins, rises again under Helena Douglas, determined to erase the sins of the past. To mark this rebirth, she launches a new tournament. Meanwhile, Kasumi, a ninja in exile, hunts her imperfect clone, Alpha-152, a volatile creation born from DOATEC's former experiments. Around them, rivals and allies clash, each seeking their own truth in a world where the line between human and weapon grows increasingly blurred.",
+      "name": "Dead or Alive 5",
+      "year": "",
+      "publisher": "Koei Tecmo",
+      "genre": "Fighting / 3D",
+      "players": 1,
+      "rating": "15"
+    },
+    {
+      "id": "Dead_Or_Alive_6",
+      "description": "After the last tournament, DOATEC rests under fragile peace led by Helena. In the shadows, remnants of MIST revive forbidden research. Kasumi has withdrawn, unaware the conflict is returning.\r\nBetween glory, vengeance, and redemption, new and old fighters collide in an arena where human will clashes with the lure of power.",
+      "name": "Dead or Alive VI",
+      "year": "2019",
+      "publisher": "Koei Tecmo",
+      "genre": "Fighting / 3D",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Dengeki_Bunko_Fighting_Climax",
+      "description": "Heroes pulled from stories that were never meant to intersect end up in the same place, as if drawn in by the same spark. Kirito and Asuna (Sword Art Online) cross paths with Shana (Shakugan no Shana), Taiga Aisaka (Toradora!), Tatsuya and Miyuki Shiba (The Irregular at Magic High School), and Yukina Himeragi (Strike the Blood), each arriving with their own motives, rivalries, and pride. When their powers collide, words stop being enough and the encounter turns into a duel, until one fighter manages to set the pace.\r\n\r\nIt's a 2D fighting game built for versus play, where you pair a main fighter with a support character. The roster is a crossover of series from the Dengeki Bunko label.",
+      "name": "Dengeki Bunko : Fighting Climax",
+      "year": "2014",
+      "publisher": "SEGA",
+      "genre": "Fighting / 2D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Ford_Racing_Full_Blown",
+      "description": "Take the wheel of classic Ford vehicles across 12 tracks divided into 5 zones. Race on-road, off-road, along beaches, through remote villages, or across the Deep South — whether it's raining, snowing, or sunny, drive your car wherever you want — the choice is yours!",
+      "name": "Ford Racing Full Blown",
+      "year": "2005",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Guilty_Gear_Strive",
+      "description": "After decades of conflict between humans and biological beings known as Gears, the long war is nearing its end.\r\nSol Badguy, a Gear turned Gear hunter, continues his personal battle to confront his creator, Asuka R. Kreutz (also known as That Man).\r\nAs the world strives to build a new era of peace, emerging political and scientific powers threaten to disrupt the fragile balance once again.",
+      "name": "Guilty Gear Strive",
+      "year": "2022",
+      "publisher": "Arc System Works",
+      "genre": "Fighting / Versus",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Guilty_Gear_Xrd_REV_2",
+      "description": "After the defeat of the Universal Will in Guilty Gear Xrd -REVELATOR-, a fragile peace takes hold on Earth. But Sol Badguy, Ky Kiske, and their allies continue to uncover disturbing truths about the origins of the Gears and the mysterious man who created them, Asuka R. Kreutz (That Man).\r\nAs new political tensions rise between nations and the Post-War Administration Bureau, old wounds reopen and a final confrontation looms.",
+      "name": "Guilty Gear Xrd REV2",
+      "year": "2017",
+      "publisher": "Arc System Works",
+      "genre": "Fighting / Versus",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "Guilty_Gear_Xrd_Sign",
+      "description": "Anno 2187. Ten years have passed since the end of the Crusades — the war between humanity and magical bio-weapons called “Gears.”\r\nThe newly formed United Nations seeks to maintain peace, but rumors spread about a surviving “Gear of Justice.”\r\nSol Badguy, once a bounty hunter and former Gear, becomes involved in a new conspiracy linked to this reborn weapon and his long-time rival, That Man.",
+      "name": "Guilty Gear Xrd - Sign",
+      "year": "2014",
+      "publisher": "Arc System Works",
+      "genre": "Fighting / Versus",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "H2Overdrive",
+      "description": "H2Overdrive throws players into the heart of high-speed powerboat races, where turbo‑charged boats compete across explosive watercourses filled with jumps and obstacles.\r\nPlayers unleash their Overdrive boost to smash the competition and climb the leaderboards in this spiritual successor to Hydro Thunder.",
+      "name": "H2Overdrive",
+      "year": "2009",
+      "publisher": "Raw Thrills",
+      "genre": "Racing, Driving / Boat",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "House_of_the_Dead_4",
+      "description": "The House of the Dead 4 is a light gun arcade game with a horror theme and the fourth installment of the House of the Dead series of video games, developed by Sega.The House of the Dead 4 continues the story of the first two games and fills in the gap in the storyline between The House of the Dead 2 and The House of the Dead III, whilst introducing several new gameplay concepts. Players can play as either James Taylor, from The House of the Dead 2, or Kate Green, a new character to the series.",
+      "name": "The House of the Dead 4",
+      "year": "2005",
+      "publisher": "SEGA",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Initial_D_Arcade_Stage_6_AA",
+      "description": "A new mode, Tag Battle, was introduced. Unlike its predecessor, it was released for the Sega RingEdge hardware for the first time. The game saw a change in its driving physics. Unlike Initial D Arcade Stage 5, a drift gauge and an updated tachometer were introduced to help inform players when they were drifting. The 'Legend of the Street' mode also introduced a &quot;Rolling Start&quot; since the story mode in Initial D Special Stage. The tachometer now informed players whether or not their speed was below the gear range. Online network was extended to support regions in which earlier versions of the game was known to be popular in, finally achieving both nationwide and international matches. New cars and courses were added to the game through online updates without upgrade kits like IDAS4 1.5. The game also added a mileage system to show players their total driven mileage. Mileages could be used to redeem exclusive cars that were later available in updates.",
+      "name": "Initial D : Arcade Stage 6 Double Ace",
+      "year": "2011",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving / Racing",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Initial_D_Arcade_Stage_7_AA_X",
+      "description": "Initial D Arcade Stage 7 AAX keeps the main modes from Stage 6 A.A. and adds a new Rebirth mode.\r\nIt introduces Shinji Inui and returning rivals like Akiyama and Sakamoto, plus new cars such as the Toyota Sprinter Trueno 2‑door and Toyota 86 GT.\r\nThe new Complete Cars category features pre‑tuned vehicles from shops like RE Amemiya, and online play adds 2‑on‑2 Tag Battles.\r\nNew routes include Tsuchisaka and Nanamagari.",
+      "name": "Initial D : Arcade Stage 7 Double Ace Cross",
+      "year": "2012",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving / Racing",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Initial_D_Arcade_Stage_8_Infinity",
+      "description": "Initial D Arcade Stage 8 Infinity is a 2014 Sega racing game allowing solo or team competition.\r\nIt updates the “Legend of the Street” mode with rival battles and adds the Initial D Factory, where players use D Coins through Initial D.NET to tune cars or buy licenses.\r\nA new Driving Training Curriculum ranks players by skill — Second, First, or Super First Class — with bonus stages unlocked by reaching top rank in all areas.",
+      "name": "Initial D Arcade Stage 8 Infinity",
+      "year": "2014",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving / Racing",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Justice_League_Heroes_United",
+      "description": "A coalition of super‑villains threatens the planet, and the members of the Justice League join forces to stop the destruction.\r\nPlayers take control of their favorite DC heroes across a series of cooperative missions, from Metropolis to Apokolips, in a battle to save the world.",
+      "name": "Justice League : Heroes United",
+      "year": "2009",
+      "publisher": "Global VR",
+      "genre": "Beat'em Up",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "K_O_Drive",
+      "description": "In 2012, Sega unveiled a new arcade combat racing game called K.O. Drive at the DEAL 2012 trade show in Dubai.\r\nThe game later appeared at a few other exhibitions but was ultimately cancelled, as it never managed to find a gameplay formula that was truly fun to play.\r\nIt was developed by Sega's Chinese studio, the same team behind the quirky shooter The Golden Gun, which later went on to work on Transformers: Human Alliance, Daytona Championship USA, and other arcade titles.",
+      "name": "K.O. Drive",
+      "year": "2012",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "King_of_Fighters_XIV",
+      "description": "Four years after the 2010 events, the tournament returns under Antonov, a billionaire who bought the rights and relaunches it as a worldwide spectacle. Veterans and newcomers collide, until the finals spiral out of control when Verse appears and draws in fighters tied to other dimensions. With Ash's storyline already concluded, this entry kicks off a new saga by framing the tournament as the spark for a much larger threat.\r\n\r\nIt's a three-on-three team fighter with 3D character models played on a 2D plane. Compared to the previous game, it leans more into accessibility with Rush Combo, and it reshapes resource management through MAX Mode and Climax Super Special Moves that make combo sequences more explosive.",
+      "name": "The King of Fighters XIV",
+      "year": "2017",
+      "publisher": "Taito",
+      "genre": "Fighting / 2D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Luigi_s_Mansion_Arcade",
+      "description": "Guide clumsy Luigi through huge ghost-infested mansions on an action-packed ghost hunt just for arcades. Flash your Strobulb at the ghosts to stop them in their tracks and use the Poltergust 5000 to vacuum up the stunned ghost's energy. Once the number above the ghosts head reaches zero, he goes bye-bye! Armed with the ghost-sucking Poltergust 5000 and other new gadgets, not only will you have to capture ghosts, but also solve puzzles and battle monster-sized bosses. Can you and Luigi build up the courage to save the day?",
+      "name": "Luigi's Mansion Arcade",
+      "year": "2015",
+      "publisher": "Capcom",
+      "genre": "Shooter / FPV",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Mach_Storm",
+      "description": "In the near future, the world is engulfed in large‑scale aerial conflicts.\r\nThe best pilots on the planet are deployed on high‑intensity missions to eliminate enemy forces and restore global peace.\r\nAt the controls of a fighter aircraft, you face relentless waves of hostile units across missions set around the world.\r\n\r\nMach Storm is an immersive arcade flight simulator featuring a 180‑degree dome cockpit derived from the Ace Combat: Assault Horizon Dome of Vision system.\r\nPlayers pilot a futuristic jet through spectacular aerial battles across global hotspots.\r\nIts streamlined gameplay, focused on lock‑ons, automatic maneuvers, and intuitive shooting, follows the accessible Ace Combat formula.",
+      "name": "Mach Storm",
+      "year": "2013",
+      "publisher": "Bandai Namco",
+      "genre": "Shooter / Plane, FPV",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Mario_Kart_Arcade_GP_DX",
+      "description": "Join characters from the colorful world of the plumber Super Mario, from Waluigi and Yoshi to Donkey Kong and Bowser, plus two guests from Namco: Pac-Man, the favorite arcade mascot, and Don-Chan, the fun hero of the Taiko no Tatsujin rhythm game series.\r\n\r\nPlayers can take a photo before each race to personalize their experience on the 42-inch high-definition screen displaying this unique title in the Mario Kart series, which incorporates a &quot;fusion&quot; mode inherited from the GameCube title Double Dash, allowing for two-player cooperative play on a single kart!\r\n\r\nThirty tracks are integrated, including the tracks based on Namco games. The game benefits from the innovations of Mario Kart 7, the work of the 3DS. Over a hundred different items are included in this game; with a random draw of three items at the start of the race.",
+      "name": "Mario Kart Arcade GP DX",
+      "year": "2013",
+      "publisher": "Nintendo",
+      "genre": "Racing TPV",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "OutRun_2_SP_SDX",
+      "description": "OutRun 2 SP SDX is an updated version of OutRun 2 and OutRun 2 SP. It stands for &quot;OutRun 2 Special Tours Super Deluxe&quot; and was first shown at a privately held Sega show on July 7, 2006. This version of OutRun 2 does not run on the Sega Chihiro, but rather the Sega Lindbergh, allowing the graphics to be displayed at a resolution of 800x480 rather than the previous versions' 640x480. The game features large replica Ferrari cockpits which move and tilt with the onscreen action, and features a cooperative play mode where two players can sit next to each other in the same car and take turns driving with their own set of controls. Two versions of the cabinet were produced. The 2-Player cabinet is designated as DX (Deluxe), and the 4-Player cabinet is designated as SDX (Super Deluxe), with raceview cameras on the players, and a live leaderboard over the center units. These large, expensive SDX units are designed for large game centers and amusement parks as a special attraction.",
+      "name": "OutRun 2 SP SDX",
+      "year": "2006",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": "20"
+    },
+    {
+      "id": "Pokken_Tournament",
+      "description": "In the Ferrum Region Battle Tournament, Trainers team up with their Pokémon to prove their strength and reach the top of the championship.\r\nAs they progress, they uncover the existence of a Pokémon corrupted by a mysterious energy — Shadow Mewtwo, the source of an imbalance threatening the entire battle system.\r\n\r\nPokkén Tournament combines the fluid fighting style of Tekken with the signature moves of Pokémon, set within circular 3D arenas.\r\nGameplay alternates between free‑roaming field battles and close‑quarters duels, blending arcade accessibility with strategic depth.",
+      "name": "Pokkén Tournament",
+      "year": "2015",
+      "publisher": "The Pokémon Company",
+      "genre": "Fighting",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Project_Diva_Arcade",
+      "description": "Hatsune Miku: Project DIVA Arcade Future Tone is an arcade rhythm game developed by Sega AM2, released in 2013 on the Sega Nu system.\r\nPlayers follow the rhythm of hundreds of Vocaloid songs by pressing on‑screen symbols synchronized with the music, set against dynamic 3D music videos.\r\nThis version features Full HD visuals, a tactile slide panel, and a massive song library, serving as the foundation for the console release Project DIVA Future Tone DX.",
+      "name": "Hatsune Miku : Project DIVA Arcade Future Tone",
+      "year": "2013",
+      "publisher": "SEGA",
+      "genre": "Rhythm",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Sega_Race_TV",
+      "description": "Sega Race TV is an arcade racing game styled like an American TV show with live commentary. It features five stages, nine licensed cars and characters, and supports both single-player and multiplayer. Races involve eight cars seen from a third-person view, with track traps and a boost mechanic for quick acceleration.\r\n\r\nIn single-player, the goal is to finish top 3, then top 2, and finally 1st across three stages to unlock a character-specific ending movie and receive a password for car customization. Multiplayer supports linking up to four cabinets for eight human racers in a single race where the only goal is to finish first.",
+      "name": "Sega Race TV",
+      "year": "2008",
+      "publisher": "SEGA",
+      "genre": "Racing TPV",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Sega_Racing_Classic",
+      "description": "Dive into the legendary world of stock-car racing, where speed and precision rule the track. Drivers compete on circuits inspired by classic American ovals, featuring tight turns, blistering straightaways, and spectacular drifts. The game captures the essence of the iconic Daytona USA, now in high definition with a reworked soundtrack to fit modern licensing constraints.",
+      "name": "Sega Racing Classic",
+      "year": "2009",
+      "publisher": "Sega Amusements Europe",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Sega_Rally_3",
+      "description": "Sega Rally 3 contains three racing modes: World Championship, Quick Race and Classic. World Championship mode is a single player game which takes place across three stages (Tropical, Canyon and Alpine) and largely follows the format of the previous Sega Rally arcade games. The game is a 22 car race played to a time limit, and the player's starting position for one race is determined by their finishing position in the previous race. Unlike the previous games in the series, each race contains two laps. If the player finishes the third stage in first place, they are able to play a head-to-head race on the bonus Lakeside track.",
+      "name": "Sega Rally III",
+      "year": "2008",
+      "publisher": "Sega Amusements Europe",
+      "genre": "Racing, Driving / Racing",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Sega_World_Drivers_Championship",
+      "description": "Step into the world of Japanese touring car racing, where drivers battle on legendary tracks like Fuji Speedway, Sugo, and Okayama. Each car, faithfully recreated from the real Super GT series, delivers a unique driving experience, balancing raw power and technical mastery. Races unfold in varied conditions, day and night, with special events and challenges to climb the ranks.\r\nThe game stands out with its cabinet-linking system, allowing dozens of players to compete simultaneously online or locally. Developed by Sega using Unreal Engine 4, it combines high-definition graphics, realistic physics, and an immersive soundtrack, all under the official Super GT license.",
+      "name": "Sega World Drivers Championship",
+      "year": "2018",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Star_Wars_Battle_Pod",
+      "description": "The game consists of multiple scenarios that correspond with major battles in the original trilogy. There are six scenarios:\r\n\r\nThe Battle of Yavin (Yavin) from Star Wars where the player is placed in an X-wing attacking the Death Star to prevent it from destroying Yavin 4.\r\nThe Battle of Hoth (Hoth) from The Empire Strikes Back where the player pilots a snowspeeder to assist in the evacuation of Hoth from invading Imperial forces.\r\nA speeder run through Endor (Endor) where the player helps Han Solo make it to the shield generator to destroy the Death Star's shield for the Rebels in space.\r\nThe Battle of Endor (Death Star II) from Return of the Jedi, which places the player in the cockpit of the Millennium Falcon to try to destroy the Death Star II and end the war.\r\nThere is one mission that does not follow the storyline of the movies but sets its own path (Vader's Revenge). It takes place immediately after the destruction of the first Death Star at Yavin where the player plays as Darth Vader who is trying to prevent the Rebels from salvaging the still-functional core of the Death Star's super laser with the ability to eliminate Han Solo in the process.\r\nAnother version of the game adds a scene from The Force Awakens, where the player pilots a T-70 X-Wing to engage First Order ships on Takodana and protect General Leia's transport.\r\nThe arcade cabinet comes in two versions: the environmental version with the dome screen, and a smaller version, but still sit-down, with a flat screen TV.",
+      "name": "STAR WARS : Battle Pod The Force Awakens",
+      "year": "2014",
+      "publisher": "Bandai Namco",
+      "genre": "Simulation / SciFi",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Storm_Racer_G",
+      "description": "Storm Racer G is the sequel to Storm Racer that was first released in 2011. Players drive through mountain regions and the occasional town along the way, in a bid to defeat their rivals and go home with a 1st place finish.\r\n\r\nThe game features 14 cars (inc. 7 hidden) and 12 tracks (inc. 6 hidden).",
+      "name": "Storm Racer G",
+      "year": "2013",
+      "publisher": "SEGA",
+      "genre": "Racing, Driving / Racing",
+      "players": 8,
+      "rating": ""
+    },
+    {
+      "id": "Super_Alpine_Racer",
+      "description": "In a world where winter sports reign supreme, skiers from all backgrounds compete on the planet's most legendary slopes. Players embody athletes with unique styles and abilities, each specializing in speed, acceleration, or tight turn mastery. Races take place on redesigned courses inspired by iconic mountains like Kilimanjaro or the Matterhorn, where every second counts. The wind howls, skis screech on the snow, and the competition is fierce.\r\nSuper Alpine Racer is a modern remake of the 90s arcade classic, developed in collaboration with Raw Thrills and Bandai Namco.",
+      "name": "Super Alpine Racer",
+      "year": "2014",
+      "publisher": "Bandai Namco",
+      "genre": "Sports / Skiing",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Super_Bikes_2",
+      "description": "Super Bikes 2 pits riders against each other on tracks with spectacular settings: haunted Parisian catacombs, deserts where fighter jets chase UFOs, or hyperspace tunnels filled with giant worms. Each course is designed for an intense racing experience, featuring unique obstacles and challenges. Players can choose from 9 riders and 12 bikes, each customizable in terms of performance and appearance.",
+      "name": "Super Bikes II",
+      "year": "2010",
+      "publisher": "Raw Thrills",
+      "genre": "Racing, Driving / Motorcycle",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Super_Monkey_Ball_Ticket_Blitz",
+      "description": "AiAi and friends must navigate obstacle-filled levels to reach the goal ring, collecting as many bananas as possible along the way. Each course tests the player's precision and speed, with a ticket reward system based on performance. The game uses a trackball for intuitive, tactile control of the rolling ball.\r\nDeveloped by Sega, Ticket Blitz is an arcade version designed for ticket redemption, featuring 12 levels inspired by Super Monkey Ball: Step & Roll and Banana Blitz. \r\n",
+      "name": "Super Monkey Ball : Ticket Blitz",
+      "year": "2010",
+      "publisher": "Sega Amusements International",
+      "genre": "Puzzle / Glide",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Tekken_7_Fated_Retribution",
+      "description": "As the rivalry between Heihachi Mishima and his son Kazuya reaches its peak, the seventh &quot;King of Iron Fist&quot; tournament is announced to draw fighters from around the world. This version, Fated Retribution, introduces new characters like Akuma from Street Fighter, new stages, and improved combat mechanics compared to the original Tekken 7.",
+      "name": "Tekken 7 Fated Retribution",
+      "year": "2016",
+      "publisher": "Bandai Namco",
+      "genre": "Fighting / 2.5D",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Tokyo_Cop",
+      "description": "A Tokyo police officer is tasked with tracking down and apprehending criminals across the bustling streets of the city, from pickpockets to the most wanted felons. Missions take place in four iconic districts: Ginza, Hibiya, Shinjuku, and Shibuya. The player must skillfully drive a police vehicle, use sirens and horns to clear traffic, and capture suspects as quickly as possible to earn promotions.",
+      "name": "Tokyo Cop : Special Police Reinforcement",
+      "year": "2003",
+      "publisher": "Namco",
+      "genre": "Racing, Driving",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Transformers_Human_Alliance",
+      "description": "In a universe inspired by the Transformers films, two humans (Jay and a NEST agent) team up with Optimus Prime, Bumblebee, and Sideswipe to prevent the Decepticons from finding the AllSpark, an artifact capable of bringing any machine to life. The story takes place after Dark of the Moon and ignores the events of later films. Players battle through ruined cities, deserts, and military bases, facing drones, Decepticons like Shockwave and Brawler, and waves of mechanical enemies.",
+      "name": "Transformers Human Alliance",
+      "year": "2013",
+      "publisher": "SEGA",
+      "genre": "Lightgun Shooter",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Under_Defeat_HD",
+      "description": "",
+      "name": "Under Defeat HD+",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "Under_Night_In_Birth",
+      "description": "",
+      "name": "Under Night In-Birth",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "Valve_Limit_R",
+      "description": "Valve Limit R is an arcade video street racing game that requires players to choose from highly detailed, modified street cars and race alongside some of the most beautiful girls and gorgeous boys from around the world.Players are able to choose from twelve unique passengers to accompany them and can watch their passengers entertaining reactions to their driving. There are four different courses and the option to release a Nitro when drivers get their cars to the limit. The girls clothing can be adjusted to be a normal, skimpy version of dress, or a softer version with more cover, depending on each players taste.",
+      "name": "Valve Limit R",
+      "year": "",
+      "publisher": "Taito",
+      "genre": "Racing, Driving",
+      "players": 2,
+      "rating": ""
+    },
+    {
+      "id": "Virtua_Fighter_eSports",
+      "description": "",
+      "name": "Virtua Fighter Esports",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "Virtua_Tennis_3",
+      "description": "Virtua Tennis 3 is the third main arcade entry in SEGA's tennis series, developed by SEGA AM3 and released in 2006 on SEGA Lindbergh hardware. Known in Japan as Power Smash 3, it brings sharper visuals, smoother player animation, and world-class courts while keeping the fast, accessible style that made the series popular.\r\n\r\nBuilt for quick and competitive matches, the game features singles and doubles play, simple controls, and a roster of professional players including Roger Federer, Rafael Nadal, Maria Sharapova, Venus Williams, and Amélie Mauresmo. Its realistic movement, clean presentation, and immediate gameplay made it one of the standout sports titles of SEGA's Lindbergh arcade era.",
+      "name": "Virtua Tennis 3",
+      "year": "2006",
+      "publisher": "SEGA",
+      "genre": "Sports / Tennis",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Virtua_Tennis_4",
+      "description": "",
+      "name": "Virtua Tennis IV",
+      "year": "2011",
+      "publisher": "SEGA",
+      "genre": "Sports / Tennis",
+      "players": 1,
+      "rating": ""
+    },
+    {
+      "id": "Wangan_Midnight_Maximum_Tune_3",
+      "description": "",
+      "name": "Wangan Midnight Maximum Tune III",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "Wangan_Midnight_Maximum_Tune_5",
+      "description": "",
+      "name": "Wangan Midnight Maximum Tune V",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "Wangan_Midnight_Maximum_Tune_5DX",
+      "description": "",
+      "name": "Wangan Midnight Maximum Tune 5DX+",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "Wangan_Midnight_Maximum_Tune_6",
+      "description": "",
+      "name": "Wangan Midnight Maximum Tune VI",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "X_Games_Snowboarder",
+      "description": "",
+      "name": "X-Games Snowboarder",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
+    },
+    {
+      "id": "Yugioh_5DS_Duel_Terminal_6",
+      "description": "",
+      "name": "Yugioh 5DS Duel Terminal VI",
+      "year": "",
+      "publisher": "",
+      "genre": "",
+      "players": 0,
+      "rating": ""
     }
   ]
 }
