@@ -8391,6 +8391,36 @@
       "genre": "Shoot'em Up",
       "players": 1,
       "rating": "12"
+    },
+    {
+      "id": "DonkeyKongClassic (Shiru)",
+      "description": "What's more fun than a barrel of monkeys? A Donkey Kong double feature! In DONKEY KONG you'll duck barrel bombs and flaming fireballs as you help Mario save his girlfriend Pauline from the clutches of Donkey Kong. In DONKEY KONG JR., you'll join forces with these madcap monkeys to help Donkey Kong Jr. rescue his father from Mario's prison. Are you ready for laughter? You'd better be. Because this double dose of monkey business will have you rolling in the aisles!",
+      "name": "Classic Kong",
+      "year": "2012",
+      "publisher": "Bubble Zap Games",
+      "genre": "Platform / Run & Jump",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "NBA Jam - Tournament Edition (USA) (Tampa Addon) (patched)",
+      "description": "&quot;NBA Jam: Tournament Edition&quot; is a fast-paced two-on-two arcade basketball game featuring players from all NBA teams. There are hardly any rules, no fouls, and spectacular dunks. Players are rated across eight categories, including steals, blocks, and three-pointers. Up to four players can join, each controlling a single athlete. The Tournament Edition expands each team to three players and allows substitutions between quarters. Collisions now cause injuries that lower player stats, making strategic switches essential. New features like &quot;Hot Spots&quot; for bonus points, power-ups for arcade-style advantages, &quot;Juice Mode&quot; for faster gameplay, and &quot;Tournament Mode&quot; for challenging matches with unlockable players add extra excitement.",
+      "name": "NBA Jam Tournament Edition",
+      "year": "1995-02-23",
+      "publisher": "Acclaim Entertainment",
+      "genre": "Sports / Basketball",
+      "players": 4,
+      "rating": "18"
+    },
+    {
+      "id": "World Cup Striker (Europe)",
+      "description": "The first game in the long-running soccer series, which stood out from the crowd with a unique forced perspective 3D view rather than a simple overhead one. The players are drawn large and there is a large scanner to assist with long passing. However, the standard mode has the ball sticking closely to the feet, which makes mazy runs upfield a more useful strategy. There are 64 international teams on offer, with a European-style knock-out cup competition included. Many different formations and strategies are offered.\r",
+      "name": "Striker",
+      "year": "1993-12-01",
+      "publisher": "Elite Systems",
+      "genre": "Sports / Football (Soccer)",
+      "players": 2,
+      "rating": "17"
     }
   ]
 }

@@ -285,7 +285,7 @@
     },
     {
       "id": "Space Frenzy (World) (Unl)",
-      "description": "Aunque era un clon de Asteroids, Space Fury logró ser una oferta única cuando llegó a las salas de juegos a principios de la década de 1980.\r\n\r\nEn primer lugar, fue uno de los juegos anteriores que habló, ya que un alienígena tuerto apareció al comienzo de cada juego diciendo \u0026quot;así que, una criatura para mi diversión\u0026quot;, junto con burlarse del jugador al comienzo de cada nueva ronda. También era un juego de \u0026quot;Asteroides al revés\u0026quot;, debido a que el jugador no dividía objetos grandes en pequeños, pero los objetos pequeños se unían para formar objetos grandes, y además los jugadores podían atracar con proyectiles para aumentar la potencia de fuego de su nave.",
+      "description": "Aunque era un clon de Asteroids, Space Fury logró ser una oferta única cuando llegó a las salas de juegos a principios de la década de 1980.\r\n\r\nEn primer lugar, fue uno de los juegos anteriores que habló, ya que un alienígena tuerto apareció al comienzo de cada juego diciendo &quot;así que, una criatura para mi diversión&quot;, junto con burlarse del jugador al comienzo de cada nueva ronda. También era un juego de &quot;Asteroides al revés&quot;, debido a que el jugador no dividía objetos grandes en pequeños, pero los objetos pequeños se unían para formar objetos grandes, y además los jugadores podían atracar con proyectiles para aumentar la potencia de fuego de su nave.",
       "name": "Space Frenzy"
     },
     {
@@ -310,7 +310,7 @@
     },
     {
       "id": "Spike (USA, Europe)",
-      "description": "The dastardly villain, Spud, has kidnapped our heroine, the lovely and oh so innocent, Molly, and taken her far away to his secret hideout. \u0026quot;Eek! Help, Spike!\u0026quot;\r\nSpike, our courageous hero and Molly's true love, races to her rescue. He'll be relying on your skills and split-second timing to help him in his quest to save poor Molly. Maneuver Spike through treacherous obstacles and avoid the dangerous creatures along the way to Spud's hideout. If you're successful, Spike can rescue Molly and the two will live happily ever after - that is until Spud strikes again. \u0026quot;Oh. No!\u0026quot;",
+      "description": "The dastardly villain, Spud, has kidnapped our heroine, the lovely and oh so innocent, Molly, and taken her far away to his secret hideout. &quot;Eek! Help, Spike!&quot;\r\nSpike, our courageous hero and Molly's true love, races to her rescue. He'll be relying on your skills and split-second timing to help him in his quest to save poor Molly. Maneuver Spike through treacherous obstacles and avoid the dangerous creatures along the way to Spud's hideout. If you're successful, Spike can rescue Molly and the two will live happily ever after - that is until Spud strikes again. &quot;Oh. No!&quot;",
       "name": "Spike",
       "year": "1982",
       "publisher": "GCE",
@@ -320,7 +320,7 @@
     },
     {
       "id": "Spike Hoppin' (World) (Unl)",
-      "description": "Spike Hoppin' is a game where you make Spike hop on blocks, and change all their \u0026quot;colors\u0026quot;. Spud returns and will try to stop Spike, as well as other enemies and a few friends too.\r\n\r\nSpike Hoppin' includes digitized speech (Spike talks again!), as well as a bonus hidden game and a few other surprises !",
+      "description": "Spike Hoppin' is a game where you make Spike hop on blocks, and change all their &quot;colors&quot;. Spud returns and will try to stop Spike, as well as other enemies and a few friends too.\r\n\r\nSpike Hoppin' includes digitized speech (Spike talks again!), as well as a bonus hidden game and a few other surprises !",
       "name": "Spike Hoppin'",
       "year": "1998",
       "publisher": "Classic Game Creations",
@@ -388,7 +388,7 @@
     },
     {
       "id": "Vaboom! (World) (Unl)",
-      "description": "As with Kaboom!, the player's job is to catch all of the bombs \u0026quot;the man\u0026quot; (as he is called in this version) at the top of the screen drops down with a set of paddles. Unlike Kaboom! however, the game starts off quicker, and if the player misses a bomb, the action continues, with one paddle lost, unlike how it would stop with the original before starting over at the previous round. But, like the original, the game will pause between each successful round. If the player loses all of their paddles, the game will end.",
+      "description": "As with Kaboom!, the player's job is to catch all of the bombs &quot;the man&quot; (as he is called in this version) at the top of the screen drops down with a set of paddles. Unlike Kaboom! however, the game starts off quicker, and if the player misses a bomb, the action continues, with one paddle lost, unlike how it would stop with the original before starting over at the previous round. But, like the original, the game will pause between each successful round. If the player loses all of their paddles, the game will end.",
       "name": "Vaboom!",
       "year": "2000",
       "publisher": "Classic Game Creations",
@@ -449,7 +449,7 @@
     },
     {
       "id": "Vectrace (World) (Unl)",
-      "description": "The player has a certain amount of time to pass a certain amount of cars during a race before time runs out or the player destroys their car. If the player doesn't occasionally increase their speed, their car will slow down by itself. The race takes place on a three lane road and other cars tend to overlap with each other, making the passing of the cars difficult at times.\r\n\r\nThe player's speed, car's \u0026quot;shape\u0026quot;, score, high score, and time is displayed on the screen.\r\n\r\nWhenever the player strikes a car, the shape goes down, which, if it reaches zero, the player loses one of their five cars and they will have to start the race over. The player starts with a shape of 10 with each race.",
+      "description": "The player has a certain amount of time to pass a certain amount of cars during a race before time runs out or the player destroys their car. If the player doesn't occasionally increase their speed, their car will slow down by itself. The race takes place on a three lane road and other cars tend to overlap with each other, making the passing of the cars difficult at times.\r\n\r\nThe player's speed, car's &quot;shape&quot;, score, high score, and time is displayed on the screen.\r\n\r\nWhenever the player strikes a car, the shape goes down, which, if it reaches zero, the player loses one of their five cars and they will have to start the race over. The player starts with a shape of 10 with each race.",
       "name": "Vectrace",
       "year": "2000",
       "publisher": "Habot, Ronen"
@@ -485,6 +485,346 @@
       "id": "Zantis (World) (Unl)",
       "description": "Very loosely inspired by the arcade game Spiders, it puts the player in control of a gun at the bottom of the screen. Spiders and various projectiles emerge from an on-screen web and move downward toward the player, who must shoot them before they reach the gun. The game features fast fixed-screen shooting action, aggressive enemy behavior, multiple skill levels, bonus phases with a large mothership, and an eerie musical atmosphere. Zantis brings this spider-themed shoot'em up concept into the Vectrex vector style.",
       "name": "Zantis"
+    },
+    {
+      "id": "Berzerk Debugged (USA)",
+      "description": "Maneuver your humanoid through the electrified mazes of robot filled rooms. You may kill the first group of robots but initial success does not mean survival... \r\nfuture groups begin firing at you! Added danger lurks when Evil Otto enters. He can jump the maze walls and squash you if you linger too long!",
+      "name": "Berzerk",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Action / Labyrinth",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Birds of Prey (1999)(Dondzila, John)(PD)",
+      "description": "Birds of Prey is a Vectrex game similar to the Galaxian series, some might call it a homebrew port of Phoenix. The gameplay is similar to Galaga and consists of five waves that simply loop with increasing difficulty.",
+      "name": "Birds Of Prey By John Dondzila",
+      "year": "1999",
+      "publisher": "Classic Game Creations",
+      "genre": "Shoot'em Up",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Blitz! - Action Football (USA, Europe) (0F11CE0C)",
+      "description": "Will you have a championship season or just be an also-ran?  You're in control as head coach of this championship caliber squad.  Run, pass, punt, kick field goals -- all the excitement of a real game.  Play against the computer's tough defense or invite a visiting coach to join in a real showdown!",
+      "name": "Blitz! Action Football",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Sports",
+      "players": 2,
+      "rating": "14"
+    },
+    {
+      "id": "Dark Tower (1983)(GCE)(proto)",
+      "description": "Enter the fantastic world of the Dark Tower -- a world filled with adventure, danger and all the mysteries of ancient times. You control a squadron of warriors as you search an adventure-filled forest for the magical keys that will unlock the entrance to the Dark Tower. Guide your warriors to the enchanted chests scattered throughout the forest -- each will contain a new puzzle, adventure, terror or treasure. Use your warriors wisely and beware the evils of the forest!\r\n\r\nDark Tower is a fully playable unreleased prototype role playing game programmed in 1983. It was inspired by the 1981 Milton Bradley board game of the same name. The game was considered only a rumor for many years until it was finally made available for download and is now available for play on most multicarts.",
+      "name": "Dark Tower",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Role Playing Game",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Dark Tower (USA) (Proto)",
+      "description": "Enter the fantastic world of the Dark Tower -- a world filled with adventure, danger and all the mysteries of ancient times. You control a squadron of warriors as you search an adventure-filled forest for the magical keys that will unlock the entrance to the Dark Tower. Guide your warriors to the enchanted chests scattered throughout the forest -- each will contain a new puzzle, adventure, terror or treasure. Use your warriors wisely and beware the evils of the forest!\r\n\r\nDark Tower is a fully playable unreleased prototype role playing game programmed in 1983. It was inspired by the 1981 Milton Bradley board game of the same name. The game was considered only a rumor for many years until it was finally made available for download and is now available for play on most multicarts.",
+      "name": "Dark Tower",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Role Playing Game",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Engine Analyzer (USA) (Proto)",
+      "description": "Engine Analyzer was a diagnostic tool released by GCE for the Vectrex in 1983.",
+      "name": "ZZZ(notgame):Engine Analyzer",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Various",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Gravitrex (2002)(Dondzila, John)(PD)",
+      "description": "Gravitrex is a clone of Gravitar, although with many differences, such as the addition of humans dotting the planetary landscapes that have to be rescued.",
+      "name": "Gravitrex By John Dondzila",
+      "year": "2002",
+      "publisher": "Classic Game Creations",
+      "genre": "Shoot'em Up",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Magic 8 Ball (2001)(Tumber, Christopher)",
+      "description": null,
+      "name": "ZZZ(notgame):8ball By Christopher Tumber",
+      "year": "2001",
+      "publisher": "Tumber, Christopher",
+      "genre": null,
+      "players": null,
+      "rating": null
+    },
+    {
+      "id": "Mail Plane (1983)(GCE)(proto)[b]",
+      "description": "With your Light PEN, control the airborne vehicle tasking you with delivering letters.",
+      "name": "Mail Plane",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Simulation",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Melody Master - Music Composition and Entertainment (USA)",
+      "description": "MELODY MASTER is a high performance learning tool that's easy, educational and most of all...fun! Join the electronic revolution and let your own musical creativity come to life! State-of-the-art technology now makes it possible for you to read music, recognize notes by ear and create anything you can hear. Try to compose a hit song! Play and old favorite! Watch your musical dreams take shape and sound!",
+      "name": "Melody Master - Music Composition And Entertainment",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Educational",
+      "players": 1,
+      "rating": "14"
+    },
+    {
+      "id": "Mine Storm (World)",
+      "description": "The game begins with a large enemy ship dropping mines onto the field as an ominous jingle plays, and moves from the top to the bottom of the screen, where it disappears. The player's ship starts in the middle of the field with 5 lives. Numerous mines then start popping up. The player must destroy all of the mines in order to progress to the next minefield. All of the mines can be destroyed with one shot, or hit with the player's ship, costing the player a life. There are 4 types of mines.\r\nThis game came programmed onto the Vectrex.",
+      "name": "Mine Storm",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Mine Storm II (USA) (Rev 2)",
+      "description": "Mine Storm is the built-in game that came with every Vectrex unit. It was also released in a 3-D version that required the use of the Vectrex 3D Imager and Mine Storm 2 is a debugged version of Mine Storm.\r\n\r\nOne of the built-in versions of Mine Storm had a glitch that made the game crash at level 13, so GCE decided to send a copy of Mine Storm 2 to gamers that wrote to the company and complained.\r\n\r\nThis game is rare, because most of the gamers didn't know about the offer, and also because not many gamers got to level 13.",
+      "name": "Mine Storm 2",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Missile Lords (2001)(Tumber, Christopher)(PD)",
+      "description": "Two players face off on opposite sides of the screen, firing missiles toward the opponent's central zone. Each player has Arkanoid-style paddles, used to deflect or redirect missiles, whether fired by themselves or by the opponent. Players can fire up to four missiles in succession, while two missiles that collide cancel each other out and disappear. The game thus combines a test of skill, projectile deflection, and trajectory strategy in a minimalist vector-based presentation typical of the Vectrex.",
+      "name": "Missile Lords By Christopher Tumber",
+      "year": "2001",
+      "publisher": "Tumber, Christopher",
+      "genre": "Action / Breakout games",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Moon Lander (demo) (1997)(Clay Cowgill)(PD)[a]",
+      "description": "The player is tasked with returning their ship to Earth, which is accomplished by making a safe landing on each moon. The player must deal with fuel levels, gravity (or lack thereof), wind factor, scenery and/or satellites to land.",
+      "name": "Moon Lander Demo By Clay Cowgill",
+      "year": "1997",
+      "publisher": "Classic Game Creations",
+      "genre": "Simulation / SciFi",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Nebula Commander (2005)(Aker, Craig)(PD)",
+      "description": "Nebula Commander is a real time strategy game for the Vectrex. One or two players must gather up resources and create and launch weapons to destroy the other's space station while defending their own in turn. Two players can face off with each other or one player can go against the computer.",
+      "name": "Nebula Commander",
+      "year": "2005",
+      "publisher": "Classic Game Creations",
+      "genre": "Strategy",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Omega Chase (1998)(Tumber, Christopher)(PD)[final]",
+      "description": "The player(s) controls a ship in the Omega System. Fighters, Escorts and Freighters attack their ship and it's the player's job to destroy them first. They must avoid mines left by enemies and be careful when thrusting around the walls. Collision with either the enemies or their mines will result in losing a life.",
+      "name": "Omega Chase",
+      "year": "1998",
+      "publisher": "Capital S Software",
+      "genre": "Simulation",
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Paratroopers (2002)(Dondzila, John)(PD)",
+      "description": "Inspired by *Sabotage* on the Apple II, the player controls a ground-based cannon and must shoot down the planes and the paratroopers they drop. If a paratrooper reaches the ground, he heads toward the player's cannon and can eventually destroy it. With its simple rules, fast-paced action, and minimalist vector graphics, *Paratroopers* revisits the classic concept of defensive shooting against an aerial invasion.",
+      "name": "Paratroopers",
+      "year": "2002",
+      "publisher": null,
+      "genre": "Action",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Patriots (1996)(Dondzila, John)(PD)[a]",
+      "description": "Patriots is a clone of a popular arcade game from the 80's. Patriots is faster and more challenging than other missile games. It is visually exciting, with many special effects, including fades, scaling and rotation. Game control is solid with additional options for those who need them.",
+      "name": "Patriots By John Dondzila",
+      "year": "1996",
+      "publisher": "Classic Game Creations",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Polar Rescue (USA) (Beta)",
+      "description": "Journey to the icy waters beneath the North Pole. As commander of a powerful and highly maneuverable submarine, you must rescue the survivors of an ill-fated expedition.\r\nSeek out the survivors on your sonar screen and pilot your sub to their rescue! To complete your mission, you must avoid deadly mine fields, enemy submarines and the terror of the maelstrom! Monitor your oxygen supply carefully and hurry! Lives are at stake!",
+      "name": "Polar Rescue",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Shooter / Vehicle, FPV",
+      "players": 2,
+      "rating": "15"
+    },
+    {
+      "id": "Repulse (1999)(Dondzila, John)(PD)",
+      "description": "Repulse is a homebrew game included in the Vecmania compilation. The player controls a ship tasked with attacking and destroying an enemy mother fortress, while avoiding collisions with its structure and attacks from sentinel ships. The game requires precise maneuvering, firing at the right moment, and quick reflexes, because if the player hesitates too long, the fortress goes on the offensive at full power. With its challenging and fast-paced action, Repulse captures the spirit of demanding vector arcade games.",
+      "name": "Repulse By John Dondzila",
+      "year": "1999",
+      "publisher": "Classic Game Creations",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Revector (2004)(Aker, Craig)(PD)",
+      "description": "Your goal is to out score your opponent in a 7 minute timed match. You can score points by shooting your opponent or by picking up power-up items. Power-up items (available in game one) appear randomly on the playfield to be picked up by players, having various effects and lasting either a certain time or with a set amount of uses. If neither player picks up an item after several seconds they will disappear. Once a game's seven minutes have run out, the game will end once one or both players have destroyed the others' vehicle (or they destroy each other at the same time). Revector allows you to take-on another player head-to-head, or a challenging CPU opponent. The game features a rather unique vehicle control system with the joystick controling both rotation and thrust.",
+      "name": "Revector",
+      "year": null,
+      "publisher": "Packrat",
+      "genre": null,
+      "players": 2,
+      "rating": null
+    },
+    {
+      "id": "Space Frenzy (2006)(Dondzila, John)",
+      "description": "Aunque era un clon de Asteroids, Space Fury logró ser una oferta única cuando llegó a las salas de juegos a principios de la década de 1980.\r\n\r\nEn primer lugar, fue uno de los juegos anteriores que habló, ya que un alienígena tuerto apareció al comienzo de cada juego diciendo &quot;así que, una criatura para mi diversión&quot;, junto con burlarse del jugador al comienzo de cada nueva ronda. También era un juego de &quot;Asteroides al revés&quot;, debido a que el jugador no dividía objetos grandes en pequeños, pero los objetos pequeños se unían para formar objetos grandes, y además los jugadores podían atracar con proyectiles para aumentar la potencia de fuego de su nave.",
+      "name": "Space Frenzy",
+      "year": null,
+      "publisher": null,
+      "genre": null,
+      "players": null,
+      "rating": null
+    },
+    {
+      "id": "Spin ball (USA)",
+      "description": "Get ready for even more excitement and split-second action than traditional arcade pinball. SpinBall's special features like a ball splitter, drop targets and ball savers will give you the ultimate pinball challenge. It even TILTS!\r\nSpinBall's action moves fast and furious. You'll need your sharpest reflexes to keep the ball in play and rack up bonus points.\r\n",
+      "name": "Spin Ball",
+      "year": "1983",
+      "publisher": "GCE",
+      "genre": "Pinball",
+      "players": 2,
+      "rating": "10"
+    },
+    {
+      "id": "Star Fire Spirits (1999)(Dondzila, John)(PD)[a]",
+      "description": "This is a clone of the Atari Star Wars Vector game, which consists of three waves. The player starts with six shield units, which will drop whenever a spaceship or other obstacle collides with the player or the player is hit by enemy fire; if the player is hit when he has no more shields left, the game will end.",
+      "name": "Star Fire Spirits By John Dondzila",
+      "year": "1999",
+      "publisher": "Classic Game Creations",
+      "genre": "Simulation",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Star Ship (1982)(GCE)",
+      "description": "Welcome, Captain Kirk, to your command on the Starship Enterprise. Your mission is to seek out and destroy the enemy Klingon Mothership. Travel through nine sectors of space, each more difficult, or take a shortcut through the Black Hole. Be careful ... the Klingons and Romulans are hiding in space, waiting to destroy you at every turn!\r\n",
+      "name": "Star Trek - The Motion Picture",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Star Wars Clone (19xx)(Dondzila, John)(PD)",
+      "description": "Lo scopo di questo gioco - un semplice gioco in stile &quot;sparatutto&quot; per uno o due giocatori - è viaggiare nello spazio e distruggere le navi Klingon e Romulane.",
+      "name": "ZZZ(notgame):Star Seige By John Dondzila",
+      "year": null,
+      "publisher": "Dondzila, John",
+      "genre": null,
+      "players": null,
+      "rating": null
+    },
+    {
+      "id": "StarHawk (World)",
+      "description": "Fasten your seatbelt... you're the pilot defending the sovereignty of your planet. Don't blink - you might miss one of the alien vessels.",
+      "name": "Starhawk",
+      "year": "1982",
+      "publisher": "Milton Bradley Co.",
+      "genre": "Shoot'em Up",
+      "players": 2,
+      "rating": "13"
+    },
+    {
+      "id": "Tsunami (2001)(Tumber, Christopher)(PD)[a2]",
+      "description": "Tsunami is a clone of Tempest and included 5 different stages and 3 different ways to control movement- joystick, spinner or compass.",
+      "name": "Tsunami By Christopher Tumber",
+      "year": null,
+      "publisher": null,
+      "genre": null,
+      "players": null,
+      "rating": null
+    },
+    {
+      "id": "V-Frogger (2001)(Salomon, Christopher - Woloch, Kurt)(PD)",
+      "description": "The arcade game Frogger involved players guiding their frogs through a busy multi-lane street, then maneuvering through a water area in the game's second area, jumping over logs and the backs of turtles and crocodiles to reach and fill the five frog-starting bays at the top of the screen. Various obstacles and enemies would kill players' frogs on contact, as well as if they ran out of time before reaching a frog bay, hit an upper wall, drowned in the water, or went too far to the left or right edges of the screen.\r\n\r\nV-Frogger is a clone of the arcade original with some graphical changes and improvements.",
+      "name": "V-frogger By Chris Salomon",
+      "year": "1998",
+      "publisher": "Classic Game Creations",
+      "genre": null,
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Vector Vaders (1996)(Dondzila, John)(PD)[a]",
+      "description": "March 8, 1996 marked a day of the rebirth of Vectrex games, as programmer John Dondzila unveiled Vector Vaders, which was not only the very first homebrew game for the machine, but it also started the plethora of new games for the Vectrex as well.\r\n\r\nAside from having vector graphics and running a bit slow (although the game does speed up as more and more invaders are shot), this is a pretty standard Space Invaders-type game for the most part.",
+      "name": "Vector Vaders Remix by John Dondzila",
+      "year": "1996",
+      "publisher": "Classic Game Creations",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "War of the Robots - Bow to the Queen (2003)(Fury Unlimited)(FW)",
+      "description": "The planet surface is a simple silhouette of jagged mountains, but the wire-frame drones gallop fluidly across the landscape.  Due to their long legs and tiny bodies (which resemble AT-STs from Star Wars), they're pretty tough to hit.  Periodically they fire star-shaped missiles, which you can shoot down as they slowly scale in.\r\n\r\nA circular scanner lets you track their positions, but it's not the most accurate device in the world.  War of the Robot's controls are responsive enough, and once you get the hang of it, you'll have a good time blasting drones into pieces.  Unfortunately, two huge flaws spoil the fun.  First and foremost, it's entirely possible, and in fact quite easy, to run out of ammo.  Since you can't reload or find additional ammo, all you can do is sit there and wait for the game to end.",
+      "name": "War Of The Robots",
+      "year": "2003",
+      "publisher": null,
+      "genre": null,
+      "players": 1,
+      "rating": null
+    },
+    {
+      "id": "Web Warp (1983)(GCE)",
+      "description": "Enter a galaxy of the future filled with adventure and danger - a galaxy unlike any you have imagined before.\r\nYou become the Hawk King - a creature capable of incredible speed and power - as you attempt to capture the amazing creatures that inhabit the speeding Web of Fantasy. All 20 creatures are protected by guardians and the dreaded Cosmic Dragon and each will become progressively more difficult to capture. No one has ever captured the elusive twentieth creature. Will you?",
+      "name": "Web Wars",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shooter / Vehicle, Diagonal",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "WebWars (USA)",
+      "description": "Enter a galaxy of the future filled with adventure and danger - a galaxy unlike any you have imagined before.\r\nYou become the Hawk King - a creature capable of incredible speed and power - as you attempt to capture the amazing creatures that inhabit the speeding Web of Fantasy. All 20 creatures are protected by guardians and the dreaded Cosmic Dragon and each will become progressively more difficult to capture. No one has ever captured the elusive twentieth creature. Will you?",
+      "name": "Web Wars",
+      "year": "1982",
+      "publisher": "GCE",
+      "genre": "Shooter / Vehicle, Diagonal",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Wormhole (2001)(Dondzila, John)(PD)",
+      "description": "This is a clone of the arcade game Gyruss, where the player controls a ship that can spin around the screen in a circle and shoot at ships that rapidly emerge from the central area of ​​the screen. After the first level is cleared, they will begin firing at the player's ship, and there are also two ships that appear later in the game that create a force field between them (shooting one or both ships will disable the field), along with an indestructible asteroid that emerges from the wormhole.",
+      "name": "Wormhole By John Dondzila",
+      "year": "2001",
+      "publisher": "Classic Game Creations",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": null
     }
   ]
 }

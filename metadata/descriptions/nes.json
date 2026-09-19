@@ -9774,6 +9774,16 @@
       "genre": "Puzzle",
       "players": 1,
       "rating": null
+    },
+    {
+      "id": "2048 (tsone)",
+      "description": "This brain-bending puzzle game was originally released for mobile phones and quickly became extremely popular. You have to slide numbered tiles around a 4×4 grid, and when you combine two tiles of the same number, they merge and form a new tile whose number is double that of the original tiles. The aim is to obtain a tile with the number 2048. However, you have to move all the tiles on the grid in one go, and every time you move tiles, another one is introduced.",
+      "name": "2048",
+      "year": "2014-06-21",
+      "publisher": "tsone",
+      "genre": "Puzzle",
+      "players": 1,
+      "rating": null
     }
   ]
 }

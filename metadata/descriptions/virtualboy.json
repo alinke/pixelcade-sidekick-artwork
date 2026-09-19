@@ -309,6 +309,16 @@
       "genre": "Shooter / Vehicle, TPV",
       "players": 1,
       "rating": null
+    },
+    {
+      "id": "Niko-chan Battle (Japan) (Proto)",
+      "description": "Faceball was going to be one of the games to support the unreleased Virtual Boy GameLink cable. Like the Faceball games on other consoles (like Faceball 2000 on Game Boy and SNES), the Virtual Boy version could be described as an ego shooter with smiley balls. In a maze, which completely misses all unnecessary details and even textures, you have to hunt down and shoot all enemies in a certain time limit, which gets smaller from level to level. A radar in the upper right corner and a map of the maze, which you can be displayed by pressing Start, help you locate your foes.",
+      "name": "Nikochan Battle",
+      "year": "1996",
+      "publisher": "Bullet Proof Software",
+      "genre": "Shooter / FPV",
+      "players": 1,
+      "rating": "8"
     }
   ]
 }

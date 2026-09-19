@@ -719,6 +719,96 @@
       "genre": "Shoot'em Up",
       "players": 2,
       "rating": null
+    },
+    {
+      "id": "Asteroids (USA) (Proto)",
+      "description": "Trapped in space somewhere between the planets Ortanus and Earth, your ship is suddenly surrounded by a field of massive asteroids. And, as if that weren't enough excitement for one day, a group of alien saucers stage a surprise attack. Quickly you take over the controls to save your ship from imminent doom. You must thrust away from the path of the oncoming asteroids. Put up shields to protect the ship. Hyperspace into thin air. Flip over and get the asteroids attacking from behind. It's all in your hands now. Good luck!",
+      "name": "Asteroids",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Shoot'em Up",
+      "players": 4,
+      "rating": "10"
+    },
+    {
+      "id": "Battlezone (USA) (Proto)",
+      "description": "A port of the arcade game Battlezone for Atari 5200. Like the arcade game you drive a tank around and shoot enemy tanks while trying to avoid their fire in a 3d environment. It was unfortunately never released and only exists in prototype form. The prototype seems mostly finished but the hit detection seems off at times and not perfected. It also replaces some of the vector based graphics of the arcade with raster likely due to limitations of the Atari 5200. You can also play this with two joysticks which is said to help with controlling the game versus single if you get used to it.",
+      "name": "Battlezone",
+      "year": "1983",
+      "publisher": "Atari",
+      "genre": "Shooter / Vehicle, FPV",
+      "players": 1,
+      "rating": "8"
+    },
+    {
+      "id": "Frisky Tom (USA) (Proto)",
+      "description": "A prototype game that was never officially released for the Atari 5200, Frisky Tom is a port of the obscure Nichibutsu coin-op of the same name in which you play a plumber who must climb up and fix broken pipes to keep a steady stream of water flowing from the tank at the top of the screen to the reservoir at the bottom.  Unfortunately this house is infested with mice which roam the screen, gnawing through pipes and generally causing problems for our man Tom.",
+      "name": "Frisky Tom",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": null,
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Jr. Pac-Man (USA) (Proto)",
+      "description": "Jr.Pac-Man was never released for the Atari 5200, however a prototype does exist. In this Pac-man spin off you now take control of junior who has to contend with much more than his parents did! The mazes are so large now they require the screen to scroll. On top of that the items that appear will cause the dots to enlarge. This gives Junior more points when he eats them but also slows him down a bit making it difficult to avoid the ghosts. What's worse is if they hit a power pellet they will destroy it!\r\n\r\nLike other Pac-Man games intermissions are shown between levels. They mainly have to do with Junior and a ghost girl falling in love despite their parents disapproval.",
+      "name": "Jr. Pac-man",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Action / Labyrinth",
+      "players": 2,
+      "rating": "16"
+    },
+    {
+      "id": "Last Starfighter, The (USA) (Proto)",
+      "description": "&quot;Greetings Starfighter. You have been recruited by the Star League to defend the Frontier against Xur and the Ko-Dan armada.&quot;\r\n\r\nThe Last Starfighter is based on the 80s movie. Unfortunately despite being finished it wasn't released for the Atari 5200. However it does exist in prototype form and was eventually officially released for the Atari XE/XL as Star Raiders II with some minor changes. Also an arcade version was supposed to be released but was canned as well. On top of all that this game wasn't even originally The Last Starfighter and instead was originally called Orbiter that was retooled. Quite a history for a prototype!",
+      "name": "Last Starfighter, The (Prototype)",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": "18"
+    },
+    {
+      "id": "Millipede (USA) (Proto)",
+      "description": "An unreleased prototype conversion of the arcade game Millipede. It was completed but never released due to Atari abandoning the 5200 near it's completion.\r\n\r\nThe goal is to survive wave after wave of various insects while trying to destroy a Millipede that makes its way down the screen towards your player. While very similar to Centipede it adds quite a few new quirks such as new insects to contend with and DDT bombs that when shot will destroy what is around them.",
+      "name": "Millipede (Prototype)",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Shooter",
+      "players": 1,
+      "rating": "16"
+    },
+    {
+      "id": "Super Pac-Man (USA) (Proto)",
+      "description": "Super Pac-Man is the second official entry by Namco to the Pac-Man series, but instead of gobbling up dots, Pac is required to eat fruit and prizes, such as apples, bunches of bananas, doughnuts, hamburgers, fried eggs, ears of corn, sneakers, pieces of cakes, raspberries, limes, cups of coffee, mushrooms, Galaxians, bells, and shamrocks. Most of these items are hidden in passages that have locked doors at either entrance, and in order to unlock the doors, Pac needs to eat the key that is closest to the passage that he wishes to unlock. As usual, ghosts will keep chasing Pac around the maze until he has lost all his lives. However, Pac can enter the warp tunnels at either side of the maze to lose the ghosts quickly.",
+      "name": "Super Pac-Man",
+      "year": "1982",
+      "publisher": "Atari",
+      "genre": "Action / Labyrinth",
+      "players": 2,
+      "rating": "13"
+    },
+    {
+      "id": "Track and Field (USA) (Proto)",
+      "description": "An unreleased prototype game for the Atari 5200 based on the popular arcade game.\r\n\r\nPlayers take part in 6 events:\r\n100 Meter Dash - Running by quickly alternating button presses.\r\nLong jump - Running by alternating button press and correct timing for jump. Hold jump button to set angle (42 degrees is optimal).\r\nJavelin throw - Running by alternating button presses and then using action button correct timing for angle (43 degrees is optimal).\r\n110 Meter Hurdles - Running by alternating button presses and using action button to time hurdles\r\nHammer throw - Spinning initiated by pressing run button once and then correctly timed press of action button to choose angle (45 is optimal).\r\nHigh jump - Running (speed set by computer) and then action button must be held down to determine angle of jump. Once in the air, the run button can be rapidly pressed for additional height.",
+      "name": "Track and Field (Prototype)",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Sports / Multisports",
+      "players": 2,
+      "rating": "17"
+    },
+    {
+      "id": "Xevious (USA) (Proto)",
+      "description": "An unreleased prototype based on the popular Namco shooting game.\r\n\r\nIt's a nightmare, but it's true.  Scientific research has determined that we are the actual aliens on Earth and the evil Xevions are the original inhabitants.  Now the Xevions want Earth back. minus the humans! Earth's last hope is an experimental fighter plane known as the Solvalou.  The mission is dangerous, success isn't guaranteed, and odds are this is a one-way trip.  But at this point it's do or die!\r\n\r\nAs Earth's last hope, you must successfully defeat the Xevion assault fleet before they reclaim earth.  However this won't be an easy task, the Xevions have had over a millennia to develop the biggest, nastiest, and most destructive ships Earth has ever seen.  Thankfully the Solvalou is armed with the latest in weapons technology which will cut through the Xevion hordes like a hot knife through butter.  The Solvalou has two main weapons, a laser blaster for taking out air targets, and a photon bomber for destroying ground targets.  Over the course of the game you'll run into numerous enemy types which can only be destroyed using the appropriate weapon, so mastering the dual shot (air and ground) technique is vital.",
+      "name": "Xevious (Prototype)",
+      "year": "1984",
+      "publisher": "Atari",
+      "genre": "Shoot'em Up / Vertical",
+      "players": 2,
+      "rating": "7"
     }
   ]
 }
