@@ -82,18 +82,27 @@ def api_get(endpoint, params, timeout=20):
         return resp.read()
 
 
+def flatten_on_black(img):
+    """Composite any transparency onto black (the Sidekick card background).
+
+    A plain convert("RGB") keeps whatever colour a PNG stores under its
+    transparent pixels -- often white, which left logos in white boxes
+    (seen on most Genesis logos and a third of PSX ones).
+    """
+    if img.mode in ("RGBA", "LA", "P", "PA") or "transparency" in img.info:
+        img = img.convert("RGBA")
+        flat = Image.new("RGB", img.size, (0, 0, 0))
+        flat.paste(img, mask=img.split()[3])
+        return flat
+    return img.convert("RGB") if img.mode != "RGB" else img
+
+
 def resize_to_fit(data, max_w=MAX_WIDTH, max_h=MAX_HEIGHT):
     img = Image.open(io.BytesIO(data))
     img.load()
-    if img.width <= max_w and img.height <= max_h:
-        if img.mode in ("RGBA", "P", "LA"):
-            img = img.convert("RGB")
-        out = io.BytesIO()
-        img.save(out, format="JPEG", quality=80)
-        return out.getvalue()
-    img.thumbnail((max_w, max_h), Image.LANCZOS)
-    if img.mode in ("RGBA", "P", "LA"):
-        img = img.convert("RGB")
+    if img.width > max_w or img.height > max_h:
+        img.thumbnail((max_w, max_h), Image.LANCZOS)
+    img = flatten_on_black(img)
     out = io.BytesIO()
     img.save(out, format="JPEG", quality=80)
     return out.getvalue()
